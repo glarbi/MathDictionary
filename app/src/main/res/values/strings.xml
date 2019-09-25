@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MathDictionnaryV2</string>
+    <string name="app_label">Math Dictionary</string>
+    <string name="action_search">toto</string>
+    <string name="disp_lang">2</string>
+    <string name="display_lang_en">Display Lang : EN</string>
+    <string name="lang_d_affichage_fr">Lang d\'affichage : FR</string>
+    <string name="lang_d_affichage_ar">لغة العرض : العربية</string>
+    <string name="search_title">Search Math Dictionary</string>
+    <string name="search_hint">Search Math Dictionary</string>
+    <string name="wordToFind">Word To Find</string>
+</resources>

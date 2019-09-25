@@ -1,0 +1,1953 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dictionnary>
+<dict	en	=	"	Abscissa	"	fr	=	"	Abscisse	"	ar	=	"	فاصلة / إحداثية 	"	/>
+<dict	en	=	"	Abscissa of a point 	"	fr	=	"	Abscisse d'un point	"	ar	=	"	فاصلة نقطة	"	/>
+<dict	en	=	"	Absolute	"	fr	=	"	Absolu (e)	"	ar	=	"	مطلق (ة)	"	/>
+<dict	en	=	"	Absolute convergence	"	fr	=	"	Convergence absolue	"	ar	=	"	تقارب مطلق 	"	/>
+<dict	en	=	"	Absolute function	"	fr	=	"	Fonction absolue	"	ar	=	"	دالّة مطلقة	"	/>
+<dict	en	=	"	Absolute number	"	fr	=	"	Nombre absolue	"	ar	=	"	عدد مطلق	"	/>
+<dict	en	=	"	Absolute value	"	fr	=	"	Valeur absolue	"	ar	=	"	قيمة مطلقة	"	/>
+<dict	en	=	"	Absolutely	"	fr	=	"	Absolument	"	ar	=	"	إطلاقا / تماما / قطعا	"	/>
+<dict	en	=	"	Absolutely convergent	"	fr	=	"	Absolument convergente	"	ar	=	"	متقاربة تماما	"	/>
+<dict	en	=	"	Abstract	"	fr	=	"	Abstrait	"	ar	=	"	مجرد	"	/>
+<dict	en	=	"	Abstraction	"	fr	=	"	Abstraction	"	ar	=	"	تجريد	"	/>
+<dict	en	=	"	Acceleration	"	fr	=	"	Accélération	"	ar	=	"	تسارع / تعجيل	"	/>
+<dict	en	=	"	Acceleration of gravity	"	fr	=	"	Accélération de la gravité	"	ar	=	"	تسارع التثاقل	"	/>
+<dict	en	=	"	Acceleration* Angular acceleration	"	fr	=	"	Accélération angulaire	"	ar	=	"	تسارع زاوي	"	/>
+<dict	en	=	"	Acceleration* Instantaneous acceleration	"	fr	=	"	Accélération instantanée	"	ar	=	"	تسارع لحظي	"	/>
+<dict	en	=	"	Acceleration* Relative acceleration	"	fr	=	"	Accélération relative	"	ar	=	"	تسارع نسبي	"	/>
+<dict	en	=	"	Acceleration* Tangential acceleration	"	fr	=	"	Accélération tangentielle	"	ar	=	"	تسارع مماسي	"	/>
+<dict	en	=	"	Accolade	"	fr	=	"	Accolade / Entre accolades 	"	ar	=	"	إحتضان / بين حاضنتين	"	/>
+<dict	en	=	"	Accumulation	"	fr	=	"	Accumulation	"	ar	=	"	تراكم 	"	/>
+<dict	en	=	"	Accumulative	"	fr	=	"	Cumulatif	"	ar	=	"	تراكمي	"	/>
+<dict	en	=	"	Accumulator	"	fr	=	"	Accumulateur	"	ar	=	"	مراكم / مجمع/ تراكمي	"	/>
+<dict	en	=	"	Accuracy	"	fr	=	"	Exactitude 	"	ar	=	"	دقّة	"	/>
+<dict	en	=	"	Action	"	fr	=	"	Action	"	ar	=	"	فعل	"	/>
+<dict	en	=	"	Activity	"	fr	=	"	Activité	"	ar	=	"	نشاط 	"	/>
+<dict	en	=	"	Activity* Stochastic activities	"	fr	=	"	Activités stochastiques	"	ar	=	"	أنشطة عشوائیة	"	/>
+<dict	en	=	"	Acute	"	fr	=	"	Aigu (e)	"	ar	=	"	حاد (ة) 	"	/>
+<dict	en	=	"	Adaptation	"	fr	=	"	Adaptation	"	ar	=	"	تكيف / تكييف / تحوير	"	/>
+<dict	en	=	"	Adapted	"	fr	=	"	Adapté	"	ar	=	"	مكيف / مناسب	"	/>
+<dict	en	=	"	Addition	"	fr	=	"	Addition	"	ar	=	"	جمع / إضافة	"	/>
+<dict	en	=	"	Additional	"	fr	=	"	Supplémentaire	"	ar	=	"	متمم/ إضافي	"	/>
+<dict	en	=	"	Additive	"	fr	=	"	Additif	"	ar	=	"	جمعي / إضافي	"	/>
+<dict	en	=	"	Additivity	"	fr	=	"	Additivité	"	ar	=	"	جمعية 	"	/>
+<dict	en	=	"	Adherence / Closure	"	fr	=	"	Adhérence	"	ar	=	"	التصاق/ تلازم / تآلف	"	/>
+<dict	en	=	"	Adherent	"	fr	=	"	Adhérent	"	ar	=	"	ملاصق (ة) / ملازم (ة)	"	/>
+<dict	en	=	"	Adjacent	"	fr	=	"	Adjacent	"	ar	=	"	مجاور/ متاخم	"	/>
+<dict	en	=	"	Adjoint	"	fr	=	"	Adjoint	"	ar	=	"	قرين / مرافق	"	/>
+<dict	en	=	"	Adjunction 	"	fr	=	"	Adjonction 	"	ar	=	"	ضم / إنضمام / إلحاق	"	/>
+<dict	en	=	"	Affine	"	fr	=	"	Affine	"	ar	=	"	تآلفي	"	/>
+<dict	en	=	"	Affix	"	fr	=	"	Affixe	"	ar	=	"	لاحقة	"	/>
+<dict	en	=	"	Affix point / Affix dot 	"	fr	=	"	Affixe du point	"	ar	=	"	لاحقة نقطة	"	/>
+<dict	en	=	"	Affix vector 	"	fr	=	"	Affixe du vecteur 	"	ar	=	"	لاحقة شعاع (متجه)	"	/>
+<dict	en	=	"	Agglomeration	"	fr	=	"	Agglomération	"	ar	=	"	تكتل	"	/>
+<dict	en	=	"	Algebra	"	fr	=	"	Algèbre	"	ar	=	"	جبر	"	/>
+<dict	en	=	"	Algebra* Abstract     algebra 	"	fr	=	"	Algèbre abstrait	"	ar	=	"	جبر مجرد	"	/>
+<dict	en	=	"	Algebra* Complex algebra	"	fr	=	"	Algèbre complexe	"	ar	=	"	جبر مركب	"	/>
+<dict	en	=	"	Algebra* Linear algebra 	"	fr	=	"	Algèbre linéaire	"	ar	=	"	جبر خطّي	"	/>
+<dict	en	=	"	Algebraic	"	fr	=	"	Algébrique	"	ar	=	"	جبري	"	/>
+<dict	en	=	"	Algebraically	"	fr	=	"	Algébriquement	"	ar	=	"	جبريا	"	/>
+<dict	en	=	"	Algebraization	"	fr	=	"	Algébrisation	"	ar	=	"	جبرنة	"	/>
+<dict	en	=	"	Algorithm	"	fr	=	"	Algorithme	"	ar	=	"	خوارزمية	"	/>
+<dict	en	=	"	Algorithm* Dichotomy algorithm 	"	fr	=	"	Algorithme dichotomie	"	ar	=	"	خوارزمية التنصيف / خوارزمية التقسيم/ خوارزمية التثنية	"	/>
+<dict	en	=	"	Algorithm* Euclidean algorithm	"	fr	=	"	Algorithme d'Euclide	"	ar	=	"	خوارزمية إقليدس	"	/>
+<dict	en	=	"	Alignment	"	fr	=	"	Alignement	"	ar	=	"	إستقامية 	"	/>
+<dict	en	=	"	Allure	"	fr	=	"	Allure	"	ar	=	"	منحى	"	/>
+<dict	en	=	"	Almost	"	fr	=	"	Presque  	"	ar	=	"	تقريبا	"	/>
+<dict	en	=	"	Alternating / Alternately 	"	fr	=	"	Alternée	"	ar	=	"	متناوب	"	/>
+<dict	en	=	"	Alternation	"	fr	=	"	Alternance	"	ar	=	"	تناوب	"	/>
+<dict	en	=	"	Alternative 	"	fr	=	"	Alternatif (ve)	"	ar	=	"	متناوب (ة)	"	/>
+<dict	en	=	"	Altitude	"	fr	=	"	Altitude	"	ar	=	"	إرتفاع	"	/>
+<dict	en	=	"	Ambiguity	"	fr	=	"	Ambigüité	"	ar	=	"	غموض / إبهام	"	/>
+<dict	en	=	"	Amount	"	fr	=	"	Quantité	"	ar	=	"	مقدار	"	/>
+<dict	en	=	"	Amplitude	"	fr	=	"	Amplitude	"	ar	=	"	سعة / مطال	"	/>
+<dict	en	=	"	Analogy	"	fr	=	"	Analogie	"	ar	=	"	تماثل / تشابه	"	/>
+<dict	en	=	"	Analysis	"	fr	=	"	Analyse	"	ar	=	"	تحليل	"	/>
+<dict	en	=	"	Analysis* Applied analysis	"	fr	=	"	Analyse appliquée	"	ar	=	"	تحليل تطبيقي	"	/>
+<dict	en	=	"	Analysis* Data analysis	"	fr	=	"	Analyse des données 	"	ar	=	"	تحليل البيانات	"	/>
+<dict	en	=	"	Analysis* Dimensional    analysis 	"	fr	=	"	Analyse dimensionnel 	"	ar	=	"	تحليل بعدي	"	/>
+<dict	en	=	"	Analysis* Functional analysis	"	fr	=	"	Analyse fonctionnelle	"	ar	=	"	تحليل دالي/تحليل تابعي	"	/>
+<dict	en	=	"	Analysis* Numerical analysis	"	fr	=	"	Analyse numérique	"	ar	=	"	تحليل عددي	"	/>
+<dict	en	=	"	Analysis* Spectral analysis	"	fr	=	"	Analyse spectrale	"	ar	=	"	تحليل طيفي 	"	/>
+<dict	en	=	"	Analytical / Analytic 	"	fr	=	"	Analytique	"	ar	=	"	تحليلي	"	/>
+<dict	en	=	"	Angle	"	fr	=	"	Angle	"	ar	=	"	زاوية	"	/>
+<dict	en	=	"	Angle of depression	"	fr	=	"	Angle de depression	"	ar	=	"	زاويةالإنخفاض	"	/>
+<dict	en	=	"	Angle of elevation	"	fr	=	"	Angle d’élévation	"	ar	=	"	زاويةالإرتفاع	"	/>
+<dict	en	=	"	Angle of incidence	"	fr	=	"	Angle d’incidence 	"	ar	=	"	زاوية السقوط 	"	/>
+<dict	en	=	"	Angle of inclination	"	fr	=	"	Angle d’inclinaison	"	ar	=	"	زاوية الميلان	"	/>
+<dict	en	=	"	Angle of rotation	"	fr	=	"	Angle de rotation	"	ar	=	"	زاوية الدوران	"	/>
+<dict	en	=	"	Angle* Acute angle	"	fr	=	"	Angle aigu	"	ar	=	"	زاوية حادة	"	/>
+<dict	en	=	"	Angle* Adjacent angle	"	fr	=	"	Angle adjacente	"	ar	=	"	زاوية مجاورة	"	/>
+<dict	en	=	"	Angle* Bisector angle	"	fr	=	"	Bissecteur d’un angle	"	ar	=	"	منصف زاوية	"	/>
+<dict	en	=	"	Angle* Central angle	"	fr	=	"	Angle centrale	"	ar	=	"	زّاوية مركزية	"	/>
+<dict	en	=	"	Angle* Cissoid angle	"	fr	=	"	Angle cissoïde	"	ar	=	"	زاوية لبلابية	"	/>
+<dict	en	=	"	Angle* Complementary angles	"	fr	=	"	Angles complémentaires	"	ar	=	"	زاويتان متتامّتان	"	/>
+<dict	en	=	"	Angle* Comprehended angle	"	fr	=	"	Angle compris	"	ar	=	"	زاوية محصورة أو متضمنة	"	/>
+<dict	en	=	"	Angle* Comprehended angle	"	fr	=	"	Angle compris	"	ar	=	"	زاوية محصورة أو متضمنة	"	/>
+<dict	en	=	"	Angle* Dihedral angle	"	fr	=	"	Angle dièdre	"	ar	=	"	زاوية ثنائية	"	/>
+<dict	en	=	"	Angle* Exterior angle	"	fr	=	"	Angle extérieur  	"	ar	=	"	زاوية خارجية	"	/>
+<dict	en	=	"	Angle* Flat angle 	"	fr	=	"	Angle plat 	"	ar	=	"	زاوية مسطحة	"	/>
+<dict	en	=	"	Angle* Interior angle 	"	fr	=	"	Angle intérieur	"	ar	=	"	زاوية داخلية	"	/>
+<dict	en	=	"	Angle* Negative angle 	"	fr	=	"	Angle négative	"	ar	=	"	زاوية سالبة	"	/>
+<dict	en	=	"	Angle* Obtuse angle	"	fr	=	"	Angle obtus	"	ar	=	"	زاوية منفرجة	"	/>
+<dict	en	=	"	Angle* Oriented angle	"	fr	=	"	Angle orienté	"	ar	=	"	زاوية موجهة 	"	/>
+<dict	en	=	"	Angle* Positive angle 	"	fr	=	"	Angle positif	"	ar	=	"	زاوية موجبة	"	/>
+<dict	en	=	"	Angle* Principal angle 	"	fr	=	"	Angle principal 	"	ar	=	"	زاوية رئيسية	"	/>
+<dict	en	=	"	Angle* Quadrantal angle 	"	fr	=	"	Angle quadrantal	"	ar	=	"	زاوية رُبعية	"	/>
+<dict	en	=	"	Angle* Reference angle	"	fr	=	"	Angle de référence	"	ar	=	"	زاوية مرجعية	"	/>
+<dict	en	=	"	Angle* Registered angle	"	fr	=	"	Angle inscrit	"	ar	=	"	زاوية محيطية	"	/>
+<dict	en	=	"	Angle* Returning angle 	"	fr	=	"	Angle rentrant 	"	ar	=	"	زاوية داخلية / زاوية منعكسة	"	/>
+<dict	en	=	"	Angle* Right angle	"	fr	=	"	Angle droite	"	ar	=	"	زاوية قائمة	"	/>
+<dict	en	=	"	Angle* Spherical angle	"	fr	=	"	Angle sphérique	"	ar	=	"	زاوية كروية	"	/>
+<dict	en	=	"	Angle* Straight angle	"	fr	=	"	Angle plat	"	ar	=	"	زاوية مستقيمة	"	/>
+<dict	en	=	"	Angle* Zero angle 	"	fr	=	"	Angle nul 	"	ar	=	"	زاوية منعدمة	"	/>
+<dict	en	=	"	Angular	"	fr	=	"	Angulaire	"	ar	=	"	زاوي	"	/>
+<dict	en	=	"	Anharmonic	"	fr	=	"	Anharmonique	"	ar	=	"	لا توافقي/ غير توافقي	"	/>
+<dict	en	=	"	Anisotropy	"	fr	=	"	Anisotropie	"	ar	=	"	تباين الخواص / إختلاف الخواص	"	/>
+<dict	en	=	"	Antecedent	"	fr	=	"	Antécédent	"	ar	=	"	سابق (ة)	"	/>
+<dict	en	=	"	Antiderivative 	"	fr	=	"	Primitive	"	ar	=	"	أصلي (ة)/ مشتق عكسي	"	/>
+<dict	en	=	"	Antiderivative function	"	fr	=	"	Fonction primitive	"	ar	=	"	دالة أصلية	"	/>
+<dict	en	=	"	Anti-displacement	"	fr	=	"	Antidéplacement 	"	ar	=	"	ضد إزاحة / إزاحة عكسية	"	/>
+<dict	en	=	"	Antisymmetric	"	fr	=	"	Antisymétrique	"	ar	=	"	ضد تناظرية / تخالفي	"	/>
+<dict	en	=	"	Antisymmetry	"	fr	=	"	Antisymétrie	"	ar	=	"	ضد تناظر / تخالف 	"	/>
+<dict	en	=	"	Appearance	"	fr	=	"	Apparence	"	ar	=	"	مظهر	"	/>
+<dict	en	=	"	Application  	"	fr	=	"	Application	"	ar	=	"	تطبيق	"	/>
+<dict	en	=	"	Application* Bijective    application	"	fr	=	"	Application bijective	"	ar	=	"	تطبيق تقابلي	"	/>
+<dict	en	=	"	Application* Composed   application	"	fr	=	"	Application composée	"	ar	=	"	تطبيق مركب	"	/>
+<dict	en	=	"	Application* Constant application	"	fr	=	"	Application constante	"	ar	=	"	تطبيق ثابت	"	/>
+<dict	en	=	"	Application* Continuous    application	"	fr	=	"	Application continue	"	ar	=	"	تطبيق مستمر	"	/>
+<dict	en	=	"	Application* Identical application	"	fr	=	"	Application identique 	"	ar	=	"	تطبيق حيادي / تطبيق مطابق 	"	/>
+<dict	en	=	"	Application* Injective     application	"	fr	=	"	Application injective	"	ar	=	"	تطبيق متباين	"	/>
+<dict	en	=	"	Application* Involutional application	"	fr	=	"	Application involutif 	"	ar	=	"	تطبيق متماثل عكسيا	"	/>
+<dict	en	=	"	Application* Linear application	"	fr	=	"	Application linéaire 	"	ar	=	"	تطبيق خطي	"	/>
+<dict	en	=	"	Application* Reciprocal appliacation / Reverse application	"	fr	=	"	Application réciproque	"	ar	=	"	تطبيق عكسي	"	/>
+<dict	en	=	"	Application* Related application	"	fr	=	"	Application connexe	"	ar	=	"	تطبيق ترابطي	"	/>
+<dict	en	=	"	Application* Surjective application	"	fr	=	"	Application surjective	"	ar	=	"	تطبيق غامر	"	/>
+<dict	en	=	"	Approach	"	fr	=	"	Approché (e)	"	ar	=	"	مُقرَّب	"	/>
+<dict	en	=	"	Approximate	"	fr	=	"	Approximatif 	"	ar	=	"	تقریبي	"	/>
+<dict	en	=	"	Approximation	"	fr	=	"	Approximation	"	ar	=	"	تقريب	"	/>
+<dict	en	=	"	Approximation* Affine approximation	"	fr	=	"	Approximation polynomial	"	ar	=	"	تقريب تآلفي	"	/>
+<dict	en	=	"	Approximation* Gaussian approximation	"	fr	=	"	Approximation Gaussienne	"	ar	=	"	تقريب غوسي ( نسبة إلى غوس)	"	/>
+<dict	en	=	"	Approximation* Numerical approximation	"	fr	=	"	Approximation numérique	"	ar	=	"	تقريب عددي 	"	/>
+<dict	en	=	"	Approximation* Polynomial approximation	"	fr	=	"	Approximation affine 	"	ar	=	"	تقريب بكثير حدود	"	/>
+<dict	en	=	"	Approximation* Uniform approximation	"	fr	=	"	Approximation uniforme	"	ar	=	"	تقريب منتظم	"	/>
+<dict	en	=	"	Arbitrarily	"	fr	=	"	Arbitrairement	"	ar	=	"	كيفيا / اعتبياطيا	"	/>
+<dict	en	=	"	Arbitrary	"	fr	=	"	Arbitraire	"	ar	=	"	عشوائي/ كيفي	"	/>
+<dict	en	=	"	Arc 	"	fr	=	"	Arc	"	ar	=	"	قوس	"	/>
+<dict	en	=	"	Arccosine	"	fr	=	"	Arcosinus	"	ar	=	"	قوس جيب التمام	"	/>
+<dict	en	=	"	Archimedean	"	fr	=	"	Archimédien	"	ar	=	"	أرخميدي ( نسبة لأرخميدس)	"	/>
+<dict	en	=	"	Arcsine	"	fr	=	"	Arcsinus	"	ar	=	"	قوس الجيب	"	/>
+<dict	en	=	"	Arctangent	"	fr	=	"	Arctangent	"	ar	=	"	قوس الظّل	"	/>
+<dict	en	=	"	Area	"	fr	=	"	Aire/surface	"	ar	=	"	مساحة	"	/>
+<dict	en	=	"	Argument	"	fr	=	"	Argument	"	ar	=	"	عُمدة	"	/>
+<dict	en	=	"	Arithmetic 	"	fr	=	"	Arithmétique	"	ar	=	"	حسابي / حساب 	"	/>
+<dict	en	=	"	Arithmetic* Mean arithmetic	"	fr	=	"	Moyenne arithmétique	"	ar	=	"	وسط حسابي	"	/>
+<dict	en	=	"	Arrangement	"	fr	=	"	Arrangement	"	ar	=	"	ترتيبة	"	/>
+<dict	en	=	"	Arrangement with repetition 	"	fr	=	"	Arrangement avec répétition	"	ar	=	"	ترتيب بالإعادة	"	/>
+<dict	en	=	"	Arrow 	"	fr	=	"	Flèche  	"	ar	=	"	سهم	"	/>
+<dict	en	=	"	Assembly	"	fr	=	"	Assemblage	"	ar	=	"	حشد / تجمع	"	/>
+<dict	en	=	"	Assertion	"	fr	=	"	Affirmation	"	ar	=	"	تاكيد	"	/>
+<dict	en	=	"	Associate	"	fr	=	"	Associé	"	ar	=	"	مرتبط 	"	/>
+<dict	en	=	"	Associative	"	fr	=	"	Associative	"	ar	=	"	تجميعي	"	/>
+<dict	en	=	"	Assume	"	fr	=	"	Supposer	"	ar	=	"	اِفترض	"	/>
+<dict	en	=	"	Assumption	"	fr	=	"	Supposition	"	ar	=	"	افتراض / فرضية	"	/>
+<dict	en	=	"	Astroid	"	fr	=	"	Astroïde	"	ar	=	"	نجمي ( شكل)	"	/>
+<dict	en	=	"	Asymptote	"	fr	=	"	Asymptote	"	ar	=	"	خط مُقارب	"	/>
+<dict	en	=	"	Asymptotic	"	fr	=	"	Asymptotique	"	ar	=	"	تقاربي	"	/>
+<dict	en	=	"	At least	"	fr	=	"	Au moins	"	ar	=	"	على الأقل 	"	/>
+<dict	en	=	"	At most	"	fr	=	"	Au plus	"	ar	=	"	على الأكثر	"	/>
+<dict	en	=	"	Attraction 	"	fr	=	"	Attraction 	"	ar	=	"	جذب	"	/>
+<dict	en	=	"	Automorphism	"	fr	=	"	Automorphisme	"	ar	=	"	تماثل ذاتي/ تشاكل تقابلي داخلي	"	/>
+<dict	en	=	"	Auxiliary	"	fr	=	"	Auxiliaire	"	ar	=	"	مساعد (إضافي)	"	/>
+<dict	en	=	"	Axiom	"	fr	=	"	Axiome	"	ar	=	"	بديهية او مسلمة	"	/>
+<dict	en	=	"	Axiom of choice	"	fr	=	"	Axiome du choix	"	ar	=	"	بديهية الإختيار(المجموعات )	"	/>
+<dict	en	=	"	Axiom of regularity	"	fr	=	"	Axiome de fondation (de régularité)	"	ar	=	"	بديهية الأساسات	"	/>
+<dict	en	=	"	Axiomatic	"	fr	=	"	Axiomatique	"	ar	=	"	مسلمة / بديهية	"	/>
+<dict	en	=	"	Axis	"	fr	=	"	Axe	"	ar	=	"	محور	"	/>
+<dict	en	=	"	Axis (line) of symmetry	"	fr	=	"	Axe de symétrie 	"	ar	=	"	محور تناظر	"	/>
+<dict	en	=	"	Axis of reflection	"	fr	=	"	Axe de réflexion	"	ar	=	"	محور الإنعكاس	"	/>
+<dict	en	=	"	Axis of revolution	"	fr	=	"	Axe de révolution	"	ar	=	"	محور دوران	"	/>
+<dict	en	=	"	Axis* Abscissa axis	"	fr	=	"	Axe des abscisses 	"	ar	=	"	محور الفواصل	"	/>
+<dict	en	=	"	Axis* Ordinate  axis	"	fr	=	"	Axe des ordonnées 	"	ar	=	"	محور التراتيب	"	/>
+<dict	en	=	"	Balanced	"	fr	=	"	Equilibré (e)	"	ar	=	"	متوازن (ة)	"	/>
+<dict	en	=	"	Ball	"	fr	=	"	Boule	"	ar	=	"	كرة	"	/>
+<dict	en	=	"	Ball* Closed ball    	"	fr	=	"	Boule fermée	"	ar	=	"	كُرة مغلقة	"	/>
+<dict	en	=	"	Ball* Open ball	"	fr	=	"	Boule ouverte	"	ar	=	"	كرة مفتوحة	"	/>
+<dict	en	=	"	Band	"	fr	=	"	Bande	"	ar	=	"	شريط / حزمة / رباط	"	/>
+<dict	en	=	"	Barycenter	"	fr	=	"	Barycentre	"	ar	=	"	مركز الكتلة	"	/>
+<dict	en	=	"	Basis / Base	"	fr	=	"	Base	"	ar	=	"	أساس / قاعدة	"	/>
+<dict	en	=	"	Basis / Base* Basis number system	"	fr	=	"	Base de numération 	"	ar	=	"	أساس التعداد	"	/>
+<dict	en	=	"	Basis / Base* Free base	"	fr	=	"	Base libre	"	ar	=	"	أساس حر	"	/>
+<dict	en	=	"	Basis / Base* Normal basis 	"	fr	=	"	Base normée	"	ar	=	"	أساس طبيعي	"	/>
+<dict	en	=	"	Basis / Base* Orthogonal basis	"	fr	=	"	Base orthogonale 	"	ar	=	"	أساس متعامد	"	/>
+<dict	en	=	"	Basis / Base* Orthonormal basis	"	fr	=	"	Base orthonormée 	"	ar	=	"	أساس متعامد متجانس	"	/>
+<dict	en	=	"	Behaviour	"	fr	=	"	Comportement	"	ar	=	"	سلوك	"	/>
+<dict	en	=	"	Belonging	"	fr	=	"	Appartenance	"	ar	=	"	إنتماء	"	/>
+<dict	en	=	"	Bias	"	fr	=	"	Biais 	"	ar	=	"	انحياز	"	/>
+<dict	en	=	"	Biconditional	"	fr	=	"	Biconditionel	"	ar	=	"	ثنائي الشرط	"	/>
+<dict	en	=	"	Bidual	"	fr	=	"	Bidual	"	ar	=	"	ثنوي / ثنائي / مكرر	"	/>
+<dict	en	=	"	Bifurcation	"	fr	=	"	Bifurcation	"	ar	=	"	تشعب 	"	/>
+<dict	en	=	"	Bijective	"	fr	=	"	Bijective	"	ar	=	"	تقابل	"	/>
+<dict	en	=	"	Bilinear	"	fr	=	"	Bilinéaire	"	ar	=	"	ثنائي الخطية– ثنائي خطي	"	/>
+<dict	en	=	"	Bilinear form	"	fr	=	"	Forme bilinéaire	"	ar	=	"	شكل ثنائي الخطّية	"	/>
+<dict	en	=	"	Binary	"	fr	=	"	Binaire	"	ar	=	"	ثنائي	"	/>
+<dict	en	=	"	Binomial	"	fr	=	"	Binomiale/ Binôme	"	ar	=	"	ثنائيحد	"	/>
+<dict	en	=	"	Binomial theorem	"	fr	=	"	Formule du binôme	"	ar	=	"	مبرهنة ثنائي الحد 	"	/>
+<dict	en	=	"	Binormal 	"	fr	=	"	Binormale 	"	ar	=	"	ثنائي الناظم	"	/>
+<dict	en	=	"	Bipoint 	"	fr	=	"	Bipoint 	"	ar	=	"	ثنائية نقطية 	"	/>
+<dict	en	=	"	Bipolar	"	fr	=	"	Bipolaire	"	ar	=	"	ثنائي القطب	"	/>
+<dict	en	=	"	Biprism 	"	fr	=	"	Biprisme 	"	ar	=	"	موشور ثنائي / منشور ثنائي	"	/>
+<dict	en	=	"	Biquadratic	"	fr	=	"	Bicarré	"	ar	=	"	ثنائي التربيع / مضاعف التربيع	"	/>
+<dict	en	=	"	Biquadratic equation	"	fr	=	"	Équation biquadratique	"	ar	=	"	معادلة رباعية (من الدرجة الرابعة)	"	/>
+<dict	en	=	"	Bisector  	"	fr	=	"	Bissectrice	"	ar	=	"	منصف زاوية أو ضلع	"	/>
+<dict	en	=	"	Body	"	fr	=	"	Corps	"	ar	=	"	جسم	"	/>
+<dict	en	=	"	Bound / Boundary	"	fr	=	"	Borne	"	ar	=	"	حد 	"	/>
+<dict	en	=	"	Bound / Boundary* Greater bound / higher bound	"	fr	=	"	Borne supérieure	"	ar	=	"	حد أعلى	"	/>
+<dict	en	=	"	Bound / Boundary* Lower bound / Smaller bound	"	fr	=	"	Borne inférieure	"	ar	=	"	حد أسفل	"	/>
+<dict	en	=	"	Bounded	"	fr	=	"	Borné (e) / Limité(e)	"	ar	=	"	محدود (ة) / مقيد (ة)	"	/>
+<dict	en	=	"	Bounded* Upper bounded / Bounded above	"	fr	=	"	Majoré/ Borné supérieurement	"	ar	=	"	محدود من الأعلى	"	/>
+<dict	en	=	"	Bracket 	"	fr	=	"	Parenthese 	"	ar	=	"	قوس / حاصرة	"	/>
+<dict	en	=	"	Branch	"	fr	=	"	Branche	"	ar	=	"	فرع	"	/>
+<dict	en	=	"	Branch* Hyperbolic branch	"	fr	=	"	Branche hyperbolique	"	ar	=	"	فرع زائدي	"	/>
+<dict	en	=	"	Branch* Infinite branch	"	fr	=	"	Branche infinite	"	ar	=	"	فرع لا نهائي	"	/>
+<dict	en	=	"	Branch* Parabolic branch	"	fr	=	"	Branche parabolique	"	ar	=	"	فرع مكافئ	"	/>
+<dict	en	=	"	Broken / Refracted 	"	fr	=	"	Brisé 	"	ar	=	"	منكسر	"	/>
+<dict	en	=	"	Bump (Cusp)	"	fr	=	"	Rebroussement	"	ar	=	"	نتوء	"	/>
+<dict	en	=	"	Bundle	"	fr	=	"	Faisceau	"	ar	=	"	حزمة / رزمة	"	/>
+<dict	en	=	"	Bundle* Tangent bundle	"	fr	=	"	Faisceau tangent	"	ar	=	"	حزمة مماسة	"	/>
+<dict	en	=	"	Bundle* Vector bundle	"	fr	=	"	Faisceau vectoriel	"	ar	=	"	حزمة شعاعية	"	/>
+<dict	en	=	"	Calculation	"	fr	=	"	Calcul	"	ar	=	"	حساب/ تقدير	"	/>
+<dict	en	=	"	Calculs 	"	fr	=	"	Calcul 	"	ar	=	"	حساب التفاضل والتكامل	"	/>
+<dict	en	=	"	Calipers  / Calippers 	"	fr	=	"	Pied à coulisse	"	ar	=	"	فرجار	"	/>
+<dict	en	=	"	Capacity	"	fr	=	"	Capacité	"	ar	=	"	سعة 	"	/>
+<dict	en	=	"	Cardinal number	"	fr	=	"	Cardinal  d’un nombre	"	ar	=	"	عدد أصلي	"	/>
+<dict	en	=	"	Cartesian	"	fr	=	"	Cartésien	"	ar	=	"	ديكارتي ( نسبة لديكارت )	"	/>
+<dict	en	=	"	Cartesian axes	"	fr	=	"	Axes cartésiens	"	ar	=	"	محاور ديكارتية	"	/>
+<dict	en	=	"	Cartesian coordinates	"	fr	=	"	Coordonnées cartésiennes	"	ar	=	"	إحداثيات ديكارتية	"	/>
+<dict	en	=	"	Case	"	fr	=	"	Cas 	"	ar	=	"	حالة	"	/>
+<dict	en	=	"	Case of negation of proposition	"	fr	=	"	Cas de négation d’une proposition	"	ar	=	"	حالة نفي قضية	"	/>
+<dict	en	=	"	Case* Favorable cases	"	fr	=	"	Cas favorables	"	ar	=	"	حالات ملائمة	"	/>
+<dict	en	=	"	Category	"	fr	=	"	Catégorie	"	ar	=	"	فئة / صنف / طبقة	"	/>
+<dict	en	=	"	Census	"	fr	=	"	Recensement	"	ar	=	"	إحصاء سكاني / تعداد 	"	/>
+<dict	en	=	"	Center / Centre	"	fr	=	"	Centre	"	ar	=	"	مركز	"	/>
+<dict	en	=	"	Center of circle	"	fr	=	"	Centre de cercle	"	ar	=	"	مركزالدائرة	"	/>
+<dict	en	=	"	Center of class	"	fr	=	"	Centre d'une classe	"	ar	=	"	مركز الفئة / مركز الصنف	"	/>
+<dict	en	=	"	Center of gravity	"	fr	=	"	Centre de gravité	"	ar	=	"	مركز ثقل	"	/>
+<dict	en	=	"	Center* Difference center	"	fr	=	"	Centre différence 	"	ar	=	"	فروق مركزية	"	/>
+<dict	en	=	"	Centered	"	fr	=	"	Centré	"	ar	=	"	متمركز	"	/>
+<dict	en	=	"	Central	"	fr	=	"	Central	"	ar	=	"	مركزي	"	/>
+<dict	en	=	"	Centralising                            	"	fr	=	"	Centralisateur	"	ar	=	"	مُركَز	"	/>
+<dict	en	=	"	Chain	"	fr	=	"	Chaine	"	ar	=	"	سلسلة	"	/>
+<dict	en	=	"	Change of base	"	fr	=	"	Changement de base	"	ar	=	"	تغيير الأساس	"	/>
+<dict	en	=	"	Character	"	fr	=	"	Caractère	"	ar	=	"	ميزة / طبع	"	/>
+<dict	en	=	"	Characteristic   	"	fr	=	"	Caractéristique (s)	"	ar	=	"	مميز/ مميزات	"	/>
+<dict	en	=	"	Characteristic function	"	fr	=	"	Fonction caractéristique	"	ar	=	"	دالة مميزة	"	/>
+<dict	en	=	"	Charge	"	fr	=	"	Charge 	"	ar	=	"	شحنة / مهمة	"	/>
+<dict	en	=	"	Choice	"	fr	=	"	Choix	"	ar	=	"	إختيار	"	/>
+<dict	en	=	"	Chord	"	fr	=	"	Corde 	"	ar	=	"	وتر	"	/>
+<dict	en	=	"	Chronological	"	fr	=	"	Chronologique	"	ar	=	"	ميقاتي / مرتب زمنيا	"	/>
+<dict	en	=	"	Circle	"	fr	=	"	Cercle 	"	ar	=	"	دائرة	"	/>
+<dict	en	=	"	Circuit	"	fr	=	"	Circuit	"	ar	=	"	دارة	"	/>
+<dict	en	=	"	Circular	"	fr	=	"	Circulaire	"	ar	=	"	دائري	"	/>
+<dict	en	=	"	Circumference  / Perimeter	"	fr	=	"	Circonférence / Périmétre	"	ar	=	"	محيط 	"	/>
+<dict	en	=	"	Cissoid	"	fr	=	"	Cissoïde	"	ar	=	"	منحن سهمي مستو / منحنى لبلابي	"	/>
+<dict	en	=	"	Clan	"	fr	=	"	Clan	"	ar	=	"	عشيرة / جماعة	"	/>
+<dict	en	=	"	Class 	"	fr	=	"	Classe	"	ar	=	"	فئة / صنف / صف	"	/>
+<dict	en	=	"	Class of equivalence	"	fr	=	"	Classe d'équivalence	"	ar	=	"	صنف تكافؤ	"	/>
+<dict	en	=	"	Class* Median class	"	fr	=	"	Classe médiane	"	ar	=	"	فئة الوسيط 	"	/>
+<dict	en	=	"	Class* Modal class	"	fr	=	"	Classe modale	"	ar	=	"	فئة منوالية	"	/>
+<dict	en	=	"	Closed	"	fr	=	"	Fermé	"	ar	=	"	مغلق	"	/>
+<dict	en	=	"	Closed interval	"	fr	=	"	Intervalle fermé 	"	ar	=	"	مجال مغلق	"	/>
+<dict	en	=	"	Closed* Internal closed	"	fr	=	"	Fermé interne	"	ar	=	"	مغلق داخلي	"	/>
+<dict	en	=	"	Closure	"	fr	=	"	Fermeture  	"	ar	=	"	إغلاق / ملاصقة / غلق	"	/>
+<dict	en	=	"	Code	"	fr	=	"	Code	"	ar	=	"	شفرة / كود 	"	/>
+<dict	en	=	"	Coding	"	fr	=	"	Codage	"	ar	=	"	تشفير 	"	/>
+<dict	en	=	"	Coefficient 	"	fr	=	"	Coefficient / Facteur	"	ar	=	"	معامل	"	/>
+<dict	en	=	"	Coefficient of correlation	"	fr	=	"	Coefficient de corrélation	"	ar	=	"	معامل الإرتباط	"	/>
+<dict	en	=	"	Coefficient of proportionality	"	fr	=	"	Coefficient de proportionnalit	"	ar	=	"	معامل التناسب	"	/>
+<dict	en	=	"	Coefficient of variation	"	fr	=	"	Coefficient de variation 	"	ar	=	"	معامل التباین / معامل التغير	"	/>
+<dict	en	=	"	Coefficient* Binomial coefficients 	"	fr	=	"	Coefficients du binôme 	"	ar	=	"	معاملات ثنائي الحد 	"	/>
+<dict	en	=	"	Coercive	"	fr	=	"	Coercive	"	ar	=	"	 قسري / قهري	"	/>
+<dict	en	=	"	Coercivity 	"	fr	=	"	Coercivité 	"	ar	=	"	القسرية / القهرية	"	/>
+<dict	en	=	"	Cofactor 	"	fr	=	"	Cofacteur	"	ar	=	"	عامل مساعد	"	/>
+<dict	en	=	"	Coherent	"	fr	=	"	Cohérent	"	ar	=	"	متناسق / مترابط	"	/>
+<dict	en	=	"	Collinear	"	fr	=	"	Colinéaire	"	ar	=	"	في استقامية / متسامت	"	/>
+<dict	en	=	"	Column	"	fr	=	"	Colonne	"	ar	=	"	عمود	"	/>
+<dict	en	=	"	Combination	"	fr	=	"	Combinaison	"	ar	=	"	توافقية / تركيبة / جمع / مزج	"	/>
+<dict	en	=	"	Combination* Affine combination	"	fr	=	"	Combinaison affine	"	ar	=	"	مزج تألفي	"	/>
+<dict	en	=	"	Combination* Barycentric combination	"	fr	=	"	Combinaison barycentrique	"	ar	=	"	مزج مركزي	"	/>
+<dict	en	=	"	Combination* Convex combination	"	fr	=	"	Combinaison convexe	"	ar	=	"	مزج محدب	"	/>
+<dict	en	=	"	Combination* Linear combination 	"	fr	=	"	Combinaison linéaire	"	ar	=	"	مزج خطي / شكل خطي	"	/>
+<dict	en	=	"	Combinatoric	"	fr	=	"	Combinatoire	"	ar	=	"	توفيقي 	"	/>
+<dict	en	=	"	Common	"	fr	=	"	Commun	"	ar	=	"	مشترك	"	/>
+<dict	en	=	"	Commutative	"	fr	=	"	Commutatif (ve)	"	ar	=	"	تبديلي (ة)	"	/>
+<dict	en	=	"	Commutativity	"	fr	=	"	Commutativité	"	ar	=	"	تبديلية-تبادلية	"	/>
+<dict	en	=	"	Compact	"	fr	=	"	Compact (e)	"	ar	=	"	متراص (ة)	"	/>
+<dict	en	=	"	Compact space	"	fr	=	"	Espacecompact	"	ar	=	"	فضاء متراص             	"	/>
+<dict	en	=	"	Compact* Local compact	"	fr	=	"	Compact locale	"	ar	=	"	متراص محلي 	"	/>
+<dict	en	=	"	Compactness 	"	fr	=	"	Compacité	"	ar	=	"	تراص	"	/>
+<dict	en	=	"	Compactness* Low compactness  / Weakly compactness	"	fr	=	"	Compacité faible	"	ar	=	"	تراص ضعيف	"	/>
+<dict	en	=	"	Compactness* Sequential compactness	"	fr	=	"	Compacité séquentielle	"	ar	=	"	تراص تسلسلي	"	/>
+<dict	en	=	"	Compactset	"	fr	=	"	Ensemble compacte	"	ar	=	"	مجموعة متراصة	"	/>
+<dict	en	=	"	Comparable	"	fr	=	"	Comparable	"	ar	=	"	قابل للمقارنة	"	/>
+<dict	en	=	"	Comparaison	"	fr	=	"	Comparaison 	"	ar	=	"	مقارنة	"	/>
+<dict	en	=	"	Comparison test	"	fr	=	"	Test de comparaison 	"	ar	=	"	إختبار المقارنة	"	/>
+<dict	en	=	"	Compatibilty 	"	fr	=	"	Compatibilité	"	ar	=	"	توافق / إنسجام	"	/>
+<dict	en	=	"	Complement	"	fr	=	"	Complément	"	ar	=	"	متمم (ة)	"	/>
+<dict	en	=	"	Complement* Algebraic complement	"	fr	=	"	Complément algébrique	"	ar	=	"	تتمة جبرية	"	/>
+<dict	en	=	"	Complementary	"	fr	=	"	Complémentaire 	"	ar	=	"	مُتمم / مكمل / متتام	"	/>
+<dict	en	=	"	Complete	"	fr	=	"	Complet	"	ar	=	"	كامِل / تام	"	/>
+<dict	en	=	"	Completeness	"	fr	=	"	Complétude	"	ar	=	"	كمال	"	/>
+<dict	en	=	"	Complex 	"	fr	=	"	Complexe 	"	ar	=	"	مركب	"	/>
+<dict	en	=	"	Component	"	fr	=	"	Composante	"	ar	=	"	مركبة	"	/>
+<dict	en	=	"	Compose	"	fr	=	"	Composer	"	ar	=	"	ركب / مزج	"	/>
+<dict	en	=	"	Compound	"	fr	=	"	Composé (e)	"	ar	=	"	مُرَكَّب (ة)	"	/>
+<dict	en	=	"	Compound division	"	fr	=	"	Division composé	"	ar	=	"	قسمة مركبة	"	/>
+<dict	en	=	"	Compound fraction	"	fr	=	"	Composé fraction	"	ar	=	"	كسر مركب	"	/>
+<dict	en	=	"	Compound interest	"	fr	=	"	Intérêt composé	"	ar	=	"	فائدة مركبة	"	/>
+<dict	en	=	"	Compound ratio	"	fr	=	"	Rapport composé	"	ar	=	"	نسبة مركبة	"	/>
+<dict	en	=	"	Computation	"	fr	=	"	Calcul 	"	ar	=	"	عد / حساب / إحصاء	"	/>
+<dict	en	=	"	Concave	"	fr	=	"	Concave	"	ar	=	"	مقعر	"	/>
+<dict	en	=	"	Concave polygon	"	fr	=	"	Polygone concave	"	ar	=	"	مضلع مقعر	"	/>
+<dict	en	=	"	Concavity	"	fr	=	"	Concavité	"	ar	=	"	تقعر	"	/>
+<dict	en	=	"	Concentration	"	fr	=	"	Concentration	"	ar	=	"	تركيز	"	/>
+<dict	en	=	"	Concentric	"	fr	=	"	Concentrique	"	ar	=	"	متحد المركز	"	/>
+<dict	en	=	"	Concept	"	fr	=	"	Concept	"	ar	=	"	مفهوم / تصور	"	/>
+<dict	en	=	"	Condition	"	fr	=	"	Condition	"	ar	=	"	شرط	"	/>
+<dict	en	=	"	Condition* Necessary condition	"	fr	=	"	Condition nécessaire	"	ar	=	"	شرط لازم 	"	/>
+<dict	en	=	"	Condition* Sufficient condition	"	fr	=	"	Condition suffisante	"	ar	=	"	شرط كاف	"	/>
+<dict	en	=	"	Conditional	"	fr	=	"	Conditionnel	"	ar	=	"	شرطي /مشروط	"	/>
+<dict	en	=	"	Cone	"	fr	=	"	Cône	"	ar	=	"	مخروط	"	/>
+<dict	en	=	"	Configuration	"	fr	=	"	Configuration	"	ar	=	"	تشكيل / ترتيب / هيئة	"	/>
+<dict	en	=	"	Congruence	"	fr	=	"	Congruence	"	ar	=	"	تطابق / توافق / موافقة 	"	/>
+<dict	en	=	"	Congruent	"	fr	=	"	Congru	"	ar	=	"	متوافق/ ملائم / متطابق	"	/>
+<dict	en	=	"	Congruent bymodulo	"	fr	=	"	Congrupar modulo	"	ar	=	"	متطابق بمقياس	"	/>
+<dict	en	=	"	Congruent figures	"	fr	=	"	Figures congruentes	"	ar	=	"	أشكال متطابقة 	"	/>
+<dict	en	=	"	Congruity 	"	fr	=	"	Congruence	"	ar	=	"	تطابق	"	/>
+<dict	en	=	"	Congruous quantities 	"	fr	=	"	Quantités congru	"	ar	=	"	كميات مقارنة	"	/>
+<dict	en	=	"	Conic 	"	fr	=	"	Conique	"	ar	=	"	مخروطي / قطاع مخروطي	"	/>
+<dict	en	=	"	Conic section	"	fr	=	"	Section conique	"	ar	=	"	قطع مخروطي	"	/>
+<dict	en	=	"	Conical surface	"	fr	=	"	Surface conique	"	ar	=	"	سطح مخروطي	"	/>
+<dict	en	=	"	Conical ungula	"	fr	=	"	Sabot conique	"	ar	=	"	حافر مخروطي	"	/>
+<dict	en	=	"	Conicoid	"	fr	=	"	Conicoid 	"	ar	=	"	مجسم أو سطح مخروطي	"	/>
+<dict	en	=	"	Conjecture	"	fr	=	"	Conjecture	"	ar	=	"	تخمين / مخمنة	"	/>
+<dict	en	=	"	Conjugate	"	fr	=	"	Conjugué	"	ar	=	"	مرافق	"	/>
+<dict	en	=	"	Conjugate angles	"	fr	=	"	Angles conjugués	"	ar	=	"	زاويتان متزاوجتان (مجموعهما  360 درجة )	"	/>
+<dict	en	=	"	Conjugate arcs	"	fr	=	"	Arcs conjugués	"	ar	=	"	قوسان متزاوجان ( مجموعهما دائرة )	"	/>
+<dict	en	=	"	Conjugate hyperboloids	"	fr	=	"	Hyperboloïdes conjugués	"	ar	=	"	سطحان زائدان مترافقان / سطحان زائدان متزاوجان	"	/>
+<dict	en	=	"	Conjugate planes 	"	fr	=	"	Plans conjugués	"	ar	=	"	مستويات مترافقة	"	/>
+<dict	en	=	"	Conjugate triangles	"	fr	=	"	Triangles conjugués	"	ar	=	"	مثلثان مترافقان	"	/>
+<dict	en	=	"	Conjunction	"	fr	=	"	Conjonction	"	ar	=	"	عطف / إرتباط / اتصال	"	/>
+<dict	en	=	"	Connected	"	fr	=	"	Connexe	"	ar	=	"	مُترابط / موصول / مرتبط	"	/>
+<dict	en	=	"	Connectivity	"	fr	=	"	Connexité	"	ar	=	"	ترابط	"	/>
+<dict	en	=	"	Connectors	"	fr	=	"	Connecteurs 	"	ar	=	"	روابط / وصلات	"	/>
+<dict	en	=	"	Connectors* Logical connectors	"	fr	=	"	Connecteurs logiques	"	ar	=	"	روابط منطقية 	"	/>
+<dict	en	=	"	Conoid	"	fr	=	"	Conoïde	"	ar	=	"	مخروطي/ سطح شبه مخروطي	"	/>
+<dict	en	=	"	Consecutive	"	fr	=	"	Consécutif	"	ar	=	"	متتابع (ة) / متتالي (ة)	"	/>
+<dict	en	=	"	Consecutive numbers	"	fr	=	"	Nombres consécutifs	"	ar	=	"	أعداد متتالية	"	/>
+<dict	en	=	"	Consistency	"	fr	=	"	Consistance / Cohérence	"	ar	=	"	تناسق / تجانس / ثبات	"	/>
+<dict	en	=	"	Consistent	"	fr	=	"	Compatible	"	ar	=	"	منسجم / متلائم 	"	/>
+<dict	en	=	"	Constant	"	fr	=	"	Constante	"	ar	=	"	ثابت	"	/>
+<dict	en	=	"	Constant of integration	"	fr	=	"	Constante d’integration	"	ar	=	"	ثابت التكامل	"	/>
+<dict	en	=	"	Constant of variation	"	fr	=	"	Constante de variation	"	ar	=	"	ثابت التغير	"	/>
+<dict	en	=	"	Constrained equation	"	fr	=	"	Équation contrainte	"	ar	=	"	معادلة مقيدة	"	/>
+<dict	en	=	"	Construction	"	fr	=	"	Construction	"	ar	=	"	إنشاء/ بناء / تركيب	"	/>
+<dict	en	=	"	Contact	"	fr	=	"	Contact	"	ar	=	"	تلامس/ تماس / اتصال	"	/>
+<dict	en	=	"	Contiguous	"	fr	=	"	Contigu (e)	"	ar	=	"	لصيق (ة) / مجاور(ة)	"	/>
+<dict	en	=	"	Continuity	"	fr	=	"	Continuité 	"	ar	=	"	إستمرارية / استمرار	"	/>
+<dict	en	=	"	Continuity at a point	"	fr	=	"	Continuité en un point	"	ar	=	"	إستمرارية عند نقطة	"	/>
+<dict	en	=	"	Continuity of the tangent plane	"	fr	=	"	Continuité du plan tangent	"	ar	=	"	إستمرارية المستوي المماس (الظل)	"	/>
+<dict	en	=	"	Continuity on an interval	"	fr	=	"	Continuité sur un intervalle	"	ar	=	"	إستمرارية على مجال (فترة)	"	/>
+<dict	en	=	"	Continuity* Curvature continuity	"	fr	=	"	Continuité de courbure	"	ar	=	"	إستمرارية الإنحناء	"	/>
+<dict	en	=	"	Continuity* Geometric continuity	"	fr	=	"	Continuité géométrique	"	ar	=	"	إستمرارية هندسية	"	/>
+<dict	en	=	"	Continuity* Torsional continuity	"	fr	=	"	Continuité en torsion	"	ar	=	"	إستمرارية إلتوائية	"	/>
+<dict	en	=	"	Continunous 	"	fr	=	"	Continu (e)	"	ar	=	"	مستمر / متصل	"	/>
+<dict	en	=	"	Continuous* Absolutely continuous	"	fr	=	"	Absolument continu	"	ar	=	"	استمرار مطلق 	"	/>
+<dict	en	=	"	Continuum	"	fr	=	"	Continuum / Milieux  continu	"	ar	=	"	وسط مستمر	"	/>
+<dict	en	=	"	Contour	"	fr	=	"	Contour	"	ar	=	"	محيط شكل / منحنى مقفل	"	/>
+<dict	en	=	"	Contractile	"	fr	=	"	Contractile	"	ar	=	"	قابل للتقلص / قابل للإنقباض	"	/>
+<dict	en	=	"	Contraction	"	fr	=	"	Contraction	"	ar	=	"	تقلص / إنكماش / إختصار	"	/>
+<dict	en	=	"	Contradiction 	"	fr	=	"	Contradiction	"	ar	=	"	تناقض	"	/>
+<dict	en	=	"	Contradictory	"	fr	=	"	Contradictoire	"	ar	=	"	متناقض / متناف 	"	/>
+<dict	en	=	"	Contrapositive	"	fr	=	"	Contraposé	"	ar	=	"	العكس النقيض	"	/>
+<dict	en	=	"	Convenient	"	fr	=	"	Pratique 	"	ar	=	"	مناسب / موافق	"	/>
+<dict	en	=	"	Convergence	"	fr	=	"	Convergence	"	ar	=	"	تقارب	"	/>
+<dict	en	=	"	Convergence in probabilities / Convergence in probability 	"	fr	=	"	Convergence en probabilités	"	ar	=	"	التقارب في الاحتمالات	"	/>
+<dict	en	=	"	Convergence series	"	fr	=	"	Convergence des series	"	ar	=	"	سلاسل متقاربة	"	/>
+<dict	en	=	"	Convergence* Absolute convergence	"	fr	=	"	Convergence absolue	"	ar	=	"	تقارب مطلق	"	/>
+<dict	en	=	"	Convergence* Almost surely convergence 	"	fr	=	"	Convergence presque sûre	"	ar	=	"	تقريبا متقاربة 	"	/>
+<dict	en	=	"	Convergence* Dominated convergence	"	fr	=	"	Convergence dominée	"	ar	=	"	تقارب مسيطر	"	/>
+<dict	en	=	"	Convergence* Geometric convergence	"	fr	=	"	Convergence géométrique	"	ar	=	"	تقارب هندسي	"	/>
+<dict	en	=	"	Convergence* Hypergeometric convergence	"	fr	=	"	Convergence supergéométrique	"	ar	=	"	تقارب هندسي فوقي	"	/>
+<dict	en	=	"	Convergence* law convergence	"	fr	=	"	Convergence en loi	"	ar	=	"	تقارب قانوني / تقارب توزيعي	"	/>
+<dict	en	=	"	Convergence* Mean square convergence / Average convergence	"	fr	=	"	Convergence en moyenne quadratique	"	ar	=	"	تقارب المتوسط التربيعي	"	/>
+<dict	en	=	"	Convergence* Measurement convergence	"	fr	=	"	Convergence de mesure	"	ar	=	"	تقارب القياس	"	/>
+<dict	en	=	"	Convergence* Slow convergence / Factorial convergence	"	fr	=	"	Convergence factorielle	"	ar	=	"	تقارب العاملي	"	/>
+<dict	en	=	"	Convergence* Strong convergence	"	fr	=	"	Convergence forte	"	ar	=	"	تقارب قوي	"	/>
+<dict	en	=	"	Convergence* Uniform convergence	"	fr	=	"	Convergence uniforme	"	ar	=	"	تقارب منتظم	"	/>
+<dict	en	=	"	Convergence* Weak convergence	"	fr	=	"	Convergence faible	"	ar	=	"	تقارب ضعيف	"	/>
+<dict	en	=	"	Convergent 	"	fr	=	"	Convergent	"	ar	=	"	متقارب	"	/>
+<dict	en	=	"	Conversely	"	fr	=	"	Inversement  	"	ar	=	"	عكسيا 	"	/>
+<dict	en	=	"	Conversion	"	fr	=	"	Conversion	"	ar	=	"	تحويل 	"	/>
+<dict	en	=	"	Convex	"	fr	=	"	Convexe	"	ar	=	"	مُحدَّب	"	/>
+<dict	en	=	"	Convex combination	"	fr	=	"	Combinaison convexe	"	ar	=	"	تركيبة مُحدّبة	"	/>
+<dict	en	=	"	Convexity 	"	fr	=	"	Convexité	"	ar	=	"	تحدب	"	/>
+<dict	en	=	"	Convolution	"	fr	=	"	Convolution	"	ar	=	"	إلتفاف / إلتواء	"	/>
+<dict	en	=	"	Coordinate (s)	"	fr	=	"	Coordonné (es)	"	ar	=	"	إحداثية / إحداثيات	"	/>
+<dict	en	=	"	Coordinate (s)* Barycentric coordinates	"	fr	=	"	Coordonnées barycentriques	"	ar	=	"	إحداثيات مركزية	"	/>
+<dict	en	=	"	Coordinate (s)* Cartesian coordinates	"	fr	=	"	Coordonnées cartésiennes	"	ar	=	"	إحداثيات ديكارتية	"	/>
+<dict	en	=	"	Coordinate (s)* Coordinate geometry	"	fr	=	"	Géométrie coordonnée (Analytique)	"	ar	=	"	هندسة تحليلية	"	/>
+<dict	en	=	"	Coordinate (s)* Coordinate plane	"	fr	=	"	Coordonnée du plan	"	ar	=	"	إحداثية مستوي	"	/>
+<dict	en	=	"	Coordinate (s)* Curvilinear coordinates	"	fr	=	"	Coordonnées curvilignes	"	ar	=	"	إحداثيات قوسية أو منحنية	"	/>
+<dict	en	=	"	Coordinate (s)* Half polarity	"	fr	=	"	Coordonnées semi-polaires	"	ar	=	"	إحداثيات نصف قطبية	"	/>
+<dict	en	=	"	Coordinate (s)* Homogeneous coordinates	"	fr	=	"	Coordonnées homogènes	"	ar	=	"	إحداثيات متجانسة	"	/>
+<dict	en	=	"	Coordinate (s)* Polar coordinates 	"	fr	=	"	Coordonnées polaires	"	ar	=	"	إحداثيات قطبية	"	/>
+<dict	en	=	"	Coordinate (s)* Spherical coordinates	"	fr	=	"	Coordonnées sphériques	"	ar	=	"	إحداثيات كروية 	"	/>
+<dict	en	=	"	Coplanar	"	fr	=	"	Coplanaires	"	ar	=	"	في نفس المستوي / متحد المستوى	"	/>
+<dict	en	=	"	Copolar triangles	"	fr	=	"	Triangles copolaires	"	ar	=	"	مثلثان متحدا القطب	"	/>
+<dict	en	=	"	Coprimes	"	fr	=	"	Premiers entre eux	"	ar	=	"	أولية فيما بينها	"	/>
+<dict	en	=	"	Corollary	"	fr	=	"	Corollaire 	"	ar	=	"	لازمة / نتيجة طبيعية	"	/>
+<dict	en	=	"	Correct	"	fr	=	"	Rectifier  	"	ar	=	"	يعدل	"	/>
+<dict	en	=	"	Correlation	"	fr	=	"	Corrélation	"	ar	=	"	ارتباط / الترابط	"	/>
+<dict	en	=	"	Correlation* Statistical correlation	"	fr	=	"	Corrélation statistique	"	ar	=	"	ارتباط إحصائي	"	/>
+<dict	en	=	"	Correspondence 	"	fr	=	"	Correspondance	"	ar	=	"	توافق / موافقة / تماثل / تناظر	"	/>
+<dict	en	=	"	Cosecant 	"	fr	=	"	Cosécante	"	ar	=	"	قاطع التمام (قتا)	"	/>
+<dict	en	=	"	Cosine                                   	"	fr	=	"	Cosinus	"	ar	=	"	جيب تمام (جتا)	"	/>
+<dict	en	=	"	Cotangent                            	"	fr	=	"	Cotangente	"	ar	=	"	ظل التمام (ظتا)	"	/>
+<dict	en	=	"	Count	"	fr	=	"	Dénombrement	"	ar	=	"	عد / تعداد / إحصاء	"	/>
+<dict	en	=	"	Countability 	"	fr	=	"	Dénombrabilité	"	ar	=	"	قابلية العد / عدودية	"	/>
+<dict	en	=	"	Countable	"	fr	=	"	Dénombrable	"	ar	=	"	قابل (ة) للعد	"	/>
+<dict	en	=	"	Counter example	"	fr	=	"	Contre-exemple	"	ar	=	"	مثال مضاد 	"	/>
+<dict	en	=	"	Couple	"	fr	=	"	Couple	"	ar	=	"	ثنائي (ة) / زوج	"	/>
+<dict	en	=	"	Covariance	"	fr	=	"	Covariance	"	ar	=	"	تغاير	"	/>
+<dict	en	=	"	Coverage to a set	"	fr	=	"	Couverture à un ensemble	"	ar	=	"	تغطية لمجموعة ( طوبولوجي)	"	/>
+<dict	en	=	"	Criteria	"	fr	=	"	Critère	"	ar	=	"	معيار	"	/>
+<dict	en	=	"	Cube	"	fr	=	"	Cube	"	ar	=	"	مُكعَّب	"	/>
+<dict	en	=	"	Cube root	"	fr	=	"	Racine cubique	"	ar	=	"	جذر تكعيبي	"	/>
+<dict	en	=	"	Cubic / Cubical    	"	fr	=	"	Cubique	"	ar	=	"	تكعيبي / مكعب / حجمي	"	/>
+<dict	en	=	"	Cubic / Cubical*Cubic function	"	fr	=	"	Fonction cubique	"	ar	=	"	دالة تكعيبية	"	/>
+<dict	en	=	"	Curvature	"	fr	=	"	Courbure	"	ar	=	"	إنحناء/ تقوس/ منحنى	"	/>
+<dict	en	=	"	Curvature* Absolute curvature	"	fr	=	"	Courbure absolue	"	ar	=	"	انحناء مطلق	"	/>
+<dict	en	=	"	Curvature* Fixed curvature	"	fr	=	"	Courbure constante	"	ar	=	"	انحناء ثابت	"	/>
+<dict	en	=	"	Curvature* Mean curvature	"	fr	=	"	Courburemoyenne	"	ar	=	"	انحناء متوسط	"	/>
+<dict	en	=	"	Curvature* Negative curvature	"	fr	=	"	Courbure négatif	"	ar	=	"	انحناء سالب	"	/>
+<dict	en	=	"	Curvature* Normal curvature	"	fr	=	"	Courbure normale	"	ar	=	"	انحناء طبيعي	"	/>
+<dict	en	=	"	Curvature* Positive curvature	"	fr	=	"	Courbure positif (ve)	"	ar	=	"	انحناء موجب	"	/>
+<dict	en	=	"	Curvature* Principal curvature / Main curvature	"	fr	=	"	Courbure principale	"	ar	=	"	انحناء رئيسي	"	/>
+<dict	en	=	"	Curve 	"	fr	=	"	Courbe	"	ar	=	"	منحنى	"	/>
+<dict	en	=	"	Curve* Bell curve	"	fr	=	"	Courbe en cloche	"	ar	=	"	منحنى جرسي	"	/>
+<dict	en	=	"	Curve* Closed curve	"	fr	=	"	Courbe fermée	"	ar	=	"	منحنى مغلق	"	/>
+<dict	en	=	"	Curve* Free form curve	"	fr	=	"	Courbe de forme libre	"	ar	=	"	منحنى شكل حر	"	/>
+<dict	en	=	"	Curve* Frequency curve	"	fr	=	"	Courbe de fréquence	"	ar	=	"	منحني تكراري	"	/>
+<dict	en	=	"	Curve* No parametric curve	"	fr	=	"	Courbe non-paramétrique	"	ar	=	"	منحنى غير وسيطي	"	/>
+<dict	en	=	"	Curve* Parameterised curve	"	fr	=	"	Courbe paramétrée	"	ar	=	"	منحنى وسيطي	"	/>
+<dict	en	=	"	Curve* Polynomial curve	"	fr	=	"	Courbe polynomiale 	"	ar	=	"	منحنى متعدد الحدود	"	/>
+<dict	en	=	"	Curve* Rational curve	"	fr	=	"	Courbe rationnelle	"	ar	=	"	منحنى ناطق	"	/>
+<dict	en	=	"	Curvilinear	"	fr	=	"	Curviligne	"	ar	=	"	مُنحنِي الأضلاع /  ذو خطوط منحنية	"	/>
+<dict	en	=	"	Cut 	"	fr	=	"	Coupe 	"	ar	=	"	قطع	"	/>
+<dict	en	=	"	Cycle / Period	"	fr	=	"	Cycle / Période	"	ar	=	"	دورة / فترة	"	/>
+<dict	en	=	"	Cyclic	"	fr	=	"	Cyclique	"	ar	=	"	دوري / حلقي	"	/>
+<dict	en	=	"	Cycloid	"	fr	=	"	Cycloïde	"	ar	=	"	دويري / شبيه بدائرة	"	/>
+<dict	en	=	"	Cylinder	"	fr	=	"	Cylindre	"	ar	=	"	أسطوانة 	"	/>
+<dict	en	=	"	Cylindrical	"	fr	=	"	Cylindrique	"	ar	=	"	أسطواني	"	/>
+<dict	en	=	"	Data	"	fr	=	"	Data	"	ar	=	"	معلومات	"	/>
+<dict	en	=	"	Data collection 	"	fr	=	"	Collecte de données	"	ar	=	"	جمع البيانات	"	/>
+<dict	en	=	"	Decile	"	fr	=	"	Décile	"	ar	=	"	عشري	"	/>
+<dict	en	=	"	Decimal	"	fr	=	"	Décimale	"	ar	=	"	عشري	"	/>
+<dict	en	=	"	Decimal logarithm 	"	fr	=	"	Logarithme décimal	"	ar	=	"	لوغاريتم عشري	"	/>
+<dict	en	=	"	Decimal point	"	fr	=	"	Virgule décimale	"	ar	=	"	فاصلة عشرية	"	/>
+<dict	en	=	"	Decimal system	"	fr	=	"	Système décimale	"	ar	=	"	نظامعشري	"	/>
+<dict	en	=	"	Decomposable	"	fr	=	"	Décomposable	"	ar	=	"	قابل للتحليل / قابل للفك	"	/>
+<dict	en	=	"	Decomposition	"	fr	=	"	Décomposition 	"	ar	=	"	تحليل / تفكيك	"	/>
+<dict	en	=	"	Decreasing	"	fr	=	"	Décroissant (e)	"	ar	=	"	مُتناقِص (ة)	"	/>
+<dict	en	=	"	Defined / Definite 	"	fr	=	"	Défini	"	ar	=	"	معرف / محدد	"	/>
+<dict	en	=	"	Defined / Definite* Well defined	"	fr	=	"	Bien défini 	"	ar	=	"	معرفة جيدا	"	/>
+<dict	en	=	"	Definition	"	fr	=	"	Définition	"	ar	=	"	تعريف	"	/>
+<dict	en	=	"	Deflation 	"	fr	=	"	Déflation 	"	ar	=	"	إنكماش / ركود / تفريغ من الهواء	"	/>
+<dict	en	=	"	Degenerated curve	"	fr	=	"	Courbe dégénéré	"	ar	=	"	منحنى منحل	"	/>
+<dict	en	=	"	Degree	"	fr	=	"	Degré	"	ar	=	"	درجة	"	/>
+<dict	en	=	"	Deltoid 	"	fr	=	"	Deltoïde	"	ar	=	"	شكل دلتا ( دلتوي) / شبه دالي / شبه مثلث	"	/>
+<dict	en	=	"	Demonstration / Proof 	"	fr	=	"	Démonstration	"	ar	=	"	برهان / إثبات 	"	/>
+<dict	en	=	"	Denominator	"	fr	=	"	Dénominateur	"	ar	=	"	مَقام (الكسر)	"	/>
+<dict	en	=	"	Dense 	"	fr	=	"	Dense	"	ar	=	"	كثيفة	"	/>
+<dict	en	=	"	Density                                 	"	fr	=	"	Densité	"	ar	=	"	كثافة	"	/>
+<dict	en	=	"	Density* Probability density	"	fr	=	"	Densité de probabilité	"	ar	=	"	كثافة الاحتمال	"	/>
+<dict	en	=	"	Dependence               	"	fr	=	"	Dépendance 	"	ar	=	"	ارتباط 	"	/>
+<dict	en	=	"	Dependence* Linear dependence               	"	fr	=	"	Dépendance linéaire	"	ar	=	"	ارتباط خطي	"	/>
+<dict	en	=	"	Derivable 	"	fr	=	"	Dérivable	"	ar	=	"	قابل للاشتقاق	"	/>
+<dict	en	=	"	Derivation	"	fr	=	"	Dérivation	"	ar	=	"	إشتقاق / اشتقاقية	"	/>
+<dict	en	=	"	Derivative	"	fr	=	"	Dérivée	"	ar	=	"	مشتق (ة)	"	/>
+<dict	en	=	"	Derivative* Directional derivative	"	fr	=	"	Dérivée directionnelle	"	ar	=	"	مشتق اتجاهي / مشتق وفق اتجاه	"	/>
+<dict	en	=	"	Derivative* First derivative	"	fr	=	"	Dérivée première	"	ar	=	"	مشتق أول / مشتقة أولى	"	/>
+<dict	en	=	"	Derivative* Infinite derivative	"	fr	=	"	Dérivée infini	"	ar	=	"	مشتق لا نهائي 	"	/>
+<dict	en	=	"	Derivative* Mixed partial derivative	"	fr	=	"	Dérivée partielle mixte	"	ar	=	"	مشتق جزئي مختلط	"	/>
+<dict	en	=	"	Derivative* Partial derivative	"	fr	=	"	Dérivée partielle	"	ar	=	"	مشتق جزئي	"	/>
+<dict	en	=	"	Derivative* Second derivative	"	fr	=	"	Dérivée seconde	"	ar	=	"	مشتق ثاني / مشتقة ثانية	"	/>
+<dict	en	=	"	Derivative* Successive derivative	"	fr	=	"	Dérivée (s( successive (s)	"	ar	=	"	مشتقات متتابعة	"	/>
+<dict	en	=	"	Derivative* Superior derivative / Greater derivative / Higher derivative	"	fr	=	"	Dérivée supérieure	"	ar	=	"	مشتق أعلى	"	/>
+<dict	en	=	"	Descending	"	fr	=	"	Décroissant	"	ar	=	"	متناقص / تناقصي	"	/>
+<dict	en	=	"	Descent	"	fr	=	"	Descente	"	ar	=	"	انحدار	"	/>
+<dict	en	=	"	Descriptive                           	"	fr	=	"	Descriptive	"	ar	=	"	وصفي	"	/>
+<dict	en	=	"	Determinant	"	fr	=	"	Déterminant	"	ar	=	"	مُمَيّز	"	/>
+<dict	en	=	"	Developable                          	"	fr	=	"	Développable	"	ar	=	"	قابل للنشر	"	/>
+<dict	en	=	"	Developed	"	fr	=	"	Développée	"	ar	=	"	مطور/  ناشر	"	/>
+<dict	en	=	"	Development / Expansion	"	fr	=	"	Développement	"	ar	=	"	نشر	"	/>
+<dict	en	=	"	Development / Expansion* Decimal expansion	"	fr	=	"	Développement decimal	"	ar	=	"	نشر عشري	"	/>
+<dict	en	=	"	Development / Expansion* Limited developments 	"	fr	=	"	Développements limités	"	ar	=	"	نشور منتهية	"	/>
+<dict	en	=	"	Deviation	"	fr	=	"	Ecart / Déviation	"	ar	=	"	إنحراف / إنعطاف	"	/>
+<dict	en	=	"	Deviation* Average deviation  / Means deviation	"	fr	=	"	Ecart moyen	"	ar	=	"	إنحراف متوسط	"	/>
+<dict	en	=	"	Deviation* Interdecile deviation	"	fr	=	"	Ecart inter décile	"	ar	=	"	إنحراف عشیري	"	/>
+<dict	en	=	"	Deviation* Interquartil deviation	"	fr	=	"	Ecartinterquartile	"	ar	=	"	إنحراف ربعي 	"	/>
+<dict	en	=	"	Deviation* Quadratic deviation	"	fr	=	"	Ecart quadratique 	"	ar	=	"	إنحراف تربيعي	"	/>
+<dict	en	=	"	Deviation* Standard deviation / Type deviation	"	fr	=	"	Ecarttype	"	ar	=	"	انحراف معیاري	"	/>
+<dict	en	=	"	Diagonal / Diameter	"	fr	=	"	Diagonale / Diamètre	"	ar	=	"	قطر	"	/>
+<dict	en	=	"	Diagonalisable	"	fr	=	"	Diagonalisable	"	ar	=	"	قابل للتقطير / قابل للقطرنة ( مصفوفة قطورة)	"	/>
+<dict	en	=	"	Diagonalisation	"	fr	=	"	Diagonalisation	"	ar	=	"	أقطرة / تقطير / قطرنة ( مصفوفة)	"	/>
+<dict	en	=	"	Diagram	"	fr	=	"	Schéma / Diagramme	"	ar	=	"	رسم تخطيطي / مخطط	"	/>
+<dict	en	=	"	Diagram box	"	fr	=	"	Diagramme en boîte (boîte à moustaches)	"	ar	=	"	مخطط بالعلبة (بالصندوق)	"	/>
+<dict	en	=	"	Diagram* Bar graph diagram	"	fr	=	"	Diagramme à bandes	"	ar	=	"	مخطط بالأشرطة	"	/>
+<dict	en	=	"	Diagram* Bars diagram                                     	"	fr	=	"	Diagramme en barres	"	ar	=	"	مخطط بالأعمدة 	"	/>
+<dict	en	=	"	Diagram* Broken line graph diagram	"	fr	=	"	Diagramme à ligne brisée	"	ar	=	"	مخطط بالخط المتقطع	"	/>
+<dict	en	=	"	Diagram* Circular diagram	"	fr	=	"	Diagramme circulaire	"	ar	=	"	مخطط دائري 	"	/>
+<dict	en	=	"	Diagram* Cumulative  frequency diagram	"	fr	=	"	Diagramme de fréquence cumulée	"	ar	=	"	مخطط التكرارات المجمعة	"	/>
+<dict	en	=	"	Diagram* Double bar graph diagram	"	fr	=	"	Diagramme à bandes doubles	"	ar	=	"	مخطط بالأشرطة المضاعفة	"	/>
+<dict	en	=	"	Diagram* Sectorial diagram	"	fr	=	"	Diagrammesectoriel	"	ar	=	"	مخطط قطاعي	"	/>
+<dict	en	=	"	Diagram* Tree diagram	"	fr	=	"	Diagramme en arbre	"	ar	=	"	مخطط الشجرة	"	/>
+<dict	en	=	"	Diagram* Venn diagram	"	fr	=	"	Diagramme de Venn 	"	ar	=	"	مخطط فين ( نسبة لعالم )	"	/>
+<dict	en	=	"	Diameter	"	fr	=	"	Diamètre	"	ar	=	"	قُطر	"	/>
+<dict	en	=	"	Dice / Die	"	fr	=	"	Dé 	"	ar	=	"	نرد  ( لعبة النرد)	"	/>
+<dict	en	=	"	Diffeomorphism	"	fr	=	"	Difféomorphisme	"	ar	=	"	تَماثُل	"	/>
+<dict	en	=	"	Difference                             	"	fr	=	"	Différence	"	ar	=	"	فرق	"	/>
+<dict	en	=	"	Difference of squares	"	fr	=	"	Différence de carrés	"	ar	=	"	فرق المربعات	"	/>
+<dict	en	=	"	Difference* Backward difference	"	fr	=	"	Différence backward	"	ar	=	"	فروق خلفية	"	/>
+<dict	en	=	"	Difference* Symmetrical difference	"	fr	=	"	Différence symétrique 	"	ar	=	"	الفرق التناظري	"	/>
+<dict	en	=	"	Differentiability                    	"	fr	=	"	Différentiabilité	"	ar	=	"	قابلية المفاضلة	"	/>
+<dict	en	=	"	Differentiable 	"	fr	=	"	Différentiable	"	ar	=	"	قابل للاشتقاق/  قابل للمفاضلة	"	/>
+<dict	en	=	"	Differential	"	fr	=	"	Différentiel	"	ar	=	"	تَفاضُلي	"	/>
+<dict	en	=	"	Differential equation	"	fr	=	"	Equation différentiel	"	ar	=	"	مُعادلة تفاضلية	"	/>
+<dict	en	=	"	Differentiation 	"	fr	=	"	Différentiation	"	ar	=	"	مفاضلة	"	/>
+<dict	en	=	"	Diffusion 	"	fr	=	"	Diffusion	"	ar	=	"	اِنتشار	"	/>
+<dict	en	=	"	Digit	"	fr	=	"	Digit	"	ar	=	"	رقْم	"	/>
+<dict	en	=	"	Digital	"	fr	=	"	Digital	"	ar	=	"	رقمي	"	/>
+<dict	en	=	"	Digital computer	"	fr	=	"	Digital computer	"	ar	=	"	حاسِب رقمي	"	/>
+<dict	en	=	"	Dihedral	"	fr	=	"	Diedral	"	ar	=	"	ثنائية الأوجه  ( زمرة----)	"	/>
+<dict	en	=	"	Dilatation	"	fr	=	"	Homothétie	"	ar	=	"	تَمدُد	"	/>
+<dict	en	=	"	Dimension	"	fr	=	"	Dimension	"	ar	=	"	بُعد	"	/>
+<dict	en	=	"	Dimension* Finite dimension	"	fr	=	"	Dimensionfinie	"	ar	=	"	بعد منته	"	/>
+<dict	en	=	"	Dimension* Matrix dimension	"	fr	=	"	Dimension d’une matrice	"	ar	=	"	بعد مصفوفة 	"	/>
+<dict	en	=	"	Dimension* Space vector dimension	"	fr	=	"	Dimension d’un espace vectoriel	"	ar	=	"	بعد فضاء شعاعي	"	/>
+<dict	en	=	"	Direction  / Sense	"	fr	=	"	Direction / Sens	"	ar	=	"	اتجاه / منحى	"	/>
+<dict	en	=	"	Director                                	"	fr	=	"	Directeur	"	ar	=	"	موجه 	"	/>
+<dict	en	=	"	Directrix  / Index	"	fr	=	"	Directrice	"	ar	=	"	دليل (قطع مكافئ)	"	/>
+<dict	en	=	"	Disc	"	fr	=	"	Disque	"	ar	=	"	قُرص	"	/>
+<dict	en	=	"	Discontinous	"	fr	=	"	Discret 	"	ar	=	"	متقطع	"	/>
+<dict	en	=	"	Discontinuity	"	fr	=	"	Discontinuité	"	ar	=	"	تَقطُّع /عدم إستمرار	"	/>
+<dict	en	=	"	Discount	"	fr	=	"	Remise  	"	ar	=	"	تخفيض	"	/>
+<dict	en	=	"	Discreet	"	fr	=	"	Discontinue	"	ar	=	"	غير مستمر / متقطع 	"	/>
+<dict	en	=	"	Discriminant	"	fr	=	"	Discriminant	"	ar	=	"	مُمَيِّز	"	/>
+<dict	en	=	"	Disjoint	"	fr	=	"	Disjoint	"	ar	=	"	مُنفصِل	"	/>
+<dict	en	=	"	Disjoint  / Separated                              	"	fr	=	"	Disjoint	"	ar	=	"	منفصل / متقاطع	"	/>
+<dict	en	=	"	Disjunction	"	fr	=	"	Disjonction	"	ar	=	"	فَصْل	"	/>
+<dict	en	=	"	Dispersion	"	fr	=	"	Dispersion	"	ar	=	"	تشتت	"	/>
+<dict	en	=	"	Displacement 	"	fr	=	"	Déplacement	"	ar	=	"	إزاحة	"	/>
+<dict	en	=	"	Displacement* Rise displacement / Vertical displacement	"	fr	=	"	Déplacementvertical	"	ar	=	"	إزاحة عمودية	"	/>
+<dict	en	=	"	Displacement* Run displacement  / Horizontal displacement	"	fr	=	"	Déplacement horizontal	"	ar	=	"	إزاحة أفقية	"	/>
+<dict	en	=	"	Distance	"	fr	=	"	Distance	"	ar	=	"	بُعد / مسافة	"	/>
+<dict	en	=	"	Distance* Discreet distance	"	fr	=	"	Distance discrète	"	ar	=	"	مسافة منفصلة / مسافة منعزلة	"	/>
+<dict	en	=	"	Distance* Equivalent distances	"	fr	=	"	Distance(s( équivalentes 	"	ar	=	"	مسافات متكافئة 	"	/>
+<dict	en	=	"	Distance* Focal distance	"	fr	=	"	Distance focale	"	ar	=	"	مسافة بؤرية	"	/>
+<dict	en	=	"	Distance* Usual distance	"	fr	=	"	Distance usuelle	"	ar	=	"	مسافة عادية	"	/>
+<dict	en	=	"	Distinguished 	"	fr	=	"	Distingué 	"	ar	=	"	متميزة  / مميزة 	"	/>
+<dict	en	=	"	Distribution	"	fr	=	"	Distribution	"	ar	=	"	توزيع	"	/>
+<dict	en	=	"	Distribution of probability	"	fr	=	"	Distribution de probabilité	"	ar	=	"	توزيع احتمالي	"	/>
+<dict	en	=	"	Distribution* Bimodal distribution	"	fr	=	"	Distributionbimodale	"	ar	=	"	توزيع ثنائي	"	/>
+<dict	en	=	"	Distribution* Iterative     distribution	"	fr	=	"	Distribution de fréquences	"	ar	=	"	توزيع تِكراري	"	/>
+<dict	en	=	"	Distribution* Normal distribution	"	fr	=	"	Distribution normale	"	ar	=	"	توزيع  طبيعي	"	/>
+<dict	en	=	"	Distribution* Standard normal distribution	"	fr	=	"	Distribution normale standard	"	ar	=	"	التوزيع الطبيعي المعياري  (القياسي)	"	/>
+<dict	en	=	"	Distribution* Unimodal 	"	fr	=	"	Distribution unimodale	"	ar	=	"	توزيع احادي	"	/>
+<dict	en	=	"	Distributive	"	fr	=	"	Distributif	"	ar	=	"	توزيعي 	"	/>
+<dict	en	=	"	Distributivity	"	fr	=	"	Distributivité	"	ar	=	"	توزيعية	"	/>
+<dict	en	=	"	Divergence	"	fr	=	"	Divergence	"	ar	=	"	تباعُد	"	/>
+<dict	en	=	"	Divergent	"	fr	=	"	Divergent	"	ar	=	"	مُتَباعِد	"	/>
+<dict	en	=	"	Dividend 	"	fr	=	"	Dividende	"	ar	=	"	مقسوم / ربح	"	/>
+<dict	en	=	"	Divisibility                            	"	fr	=	"	Divisibilité 	"	ar	=	"	قابلية القسمة	"	/>
+<dict	en	=	"	Divisible	"	fr	=	"	Divisible	"	ar	=	"	قابِل للقسمة	"	/>
+<dict	en	=	"	Division	"	fr	=	"	Division	"	ar	=	"	قِسمة 	"	/>
+<dict	en	=	"	Division* Euclidean  division	"	fr	=	"	Division euclidienne	"	ar	=	"	قسمة إقليدية	"	/>
+<dict	en	=	"	Division* Harmonic division	"	fr	=	"	Division harmonique	"	ar	=	"	قسمة توافقية	"	/>
+<dict	en	=	"	Divisor	"	fr	=	"	Diviseur	"	ar	=	"	قاسم 	"	/>
+<dict	en	=	"	Divisor* Common divisor	"	fr	=	"	Diviseur commun	"	ar	=	"	قاسم مشترك	"	/>
+<dict	en	=	"	Dodecagon	"	fr	=	"	Dodécagone	"	ar	=	"	متعدد الأضلاع (اثنا عشر ضلع)	"	/>
+<dict	en	=	"	Dodecahedron	"	fr	=	"	Dodécaèdre	"	ar	=	"	متعدد السطوح (اثنا عشر وجه)	"	/>
+<dict	en	=	"	Domain	"	fr	=	"	Domaine	"	ar	=	"	مجال / فترة	"	/>
+<dict	en	=	"	Domain of  definition 	"	fr	=	"	Domaine de définition 	"	ar	=	"	مجالتعريف	"	/>
+<dict	en	=	"	Double                                  	"	fr	=	"	Double	"	ar	=	"	مزدوج 	"	/>
+<dict	en	=	"	Dual	"	fr	=	"	Dual	"	ar	=	"	ثنائي / ثنوي	"	/>
+<dict	en	=	"	Dual* Vector space dual	"	fr	=	"	Dual d’un espace vectoriel 	"	ar	=	"	ثنوية فضاء شعاعي 	"	/>
+<dict	en	=	"	Duality	"	fr	=	"	Dualité	"	ar	=	"	إزدواجيّة	"	/>
+<dict	en	=	"	Eccentricity	"	fr	=	"	Excentricité	"	ar	=	"	إختلاف المركز (القطوع)	"	/>
+<dict	en	=	"	Edge	"	fr	=	"	Arête	"	ar	=	"	حرف / حد / طرف	"	/>
+<dict	en	=	"	Eigenfunction	"	fr	=	"	Fonction propre	"	ar	=	"	دالة ذاتية	"	/>
+<dict	en	=	"	Eigenspace 	"	fr	=	"	Espace propre	"	ar	=	"	فضاءذاتي	"	/>
+<dict	en	=	"	Eigenvalue	"	fr	=	"	Valeur propre	"	ar	=	"	قيمة ذاتية	"	/>
+<dict	en	=	"	Eigenvector	"	fr	=	"	Vecteur propre	"	ar	=	"	شعاع ذاتي	"	/>
+<dict	en	=	"	Element                                	"	fr	=	"	Élément	"	ar	=	"	عنصر	"	/>
+<dict	en	=	"	Element* Absorbing element	"	fr	=	"	Élément absorbant	"	ar	=	"	عنصر ماص	"	/>
+<dict	en	=	"	Element* Acute element  / Extremtiy element	"	fr	=	"	Élément extremum	"	ar	=	"	عنصر حاد	"	/>
+<dict	en	=	"	Element* Identity element	"	fr	=	"	Élément neutre/ Élément identité	"	ar	=	"	عنصر حيادي	"	/>
+<dict	en	=	"	Element* Simple element	"	fr	=	"	Élément simple	"	ar	=	"	عنصر بسيط	"	/>
+<dict	en	=	"	Elementary / Primary / First 	"	fr	=	"	Elémentaire	"	ar	=	"	ابتدائي / أولي	"	/>
+<dict	en	=	"	Elevation degree	"	fr	=	"	Élévation de degré	"	ar	=	"	ارتفاع درجي	"	/>
+<dict	en	=	"	Elimination	"	fr	=	"	Élimination	"	ar	=	"	حذف / إزالة	"	/>
+<dict	en	=	"	Ellipse	"	fr	=	"	Ellipse	"	ar	=	"	إهليج / قطع ناقص / ناقصي	"	/>
+<dict	en	=	"	Ellipsoid 	"	fr	=	"	Ellipsoïde	"	ar	=	"	مجسم القطع الناقص / ناقصي	"	/>
+<dict	en	=	"	Elliptical / Elliptic	"	fr	=	"	Elliptique	"	ar	=	"	ناقصي / بيضاوي الشكل	"	/>
+<dict	en	=	"	Elongation	"	fr	=	"	Élongation / Prolongement	"	ar	=	"	استطالة / إمتداد	"	/>
+<dict	en	=	"	Embedding	"	fr	=	"	Incorporation	"	ar	=	"	غمر / إدماج	"	/>
+<dict	en	=	"	Empty	"	fr	=	"	Vide	"	ar	=	"	فارغ / خال / لا يحتوي أي عنصر 	"	/>
+<dict	en	=	"	Encryption	"	fr	=	"	Chiffrement	"	ar	=	"	التشفير	"	/>
+<dict	en	=	"	Endomorphism	"	fr	=	"	Endomorphisme	"	ar	=	"	تَماثُل داخلي / تشاكل  داخلي	"	/>
+<dict	en	=	"	Endpoint	"	fr	=	"	Extrémité	"	ar	=	"	نِهاية	"	/>
+<dict	en	=	"	Ensemble	"	fr	=	"	Ensemble	"	ar	=	"	مجموعة	"	/>
+<dict	en	=	"	Enumeration 	"	fr	=	"	Dénombroment	"	ar	=	"	عَدٌّ	"	/>
+<dict	en	=	"	Envelope	"	fr	=	"	Enveloppe	"	ar	=	"	غلاف / غشاء	"	/>
+<dict	en	=	"	Envelope* Convex   envelope	"	fr	=	"	Enveloppe convexe	"	ar	=	"	غشاء محدب	"	/>
+<dict	en	=	"	Equal	"	fr	=	"	Egale	"	ar	=	"	يُساوي / يعادل / مساوي	"	/>
+<dict	en	=	"	Equality	"	fr	=	"	Égalité	"	ar	=	"	مساواة	"	/>
+<dict	en	=	"	Equation	"	fr	=	"	Équation	"	ar	=	"	معادلة	"	/>
+<dict	en	=	"	Equation of motion	"	fr	=	"	Équation du mouvement	"	ar	=	"	معادلة الحركة	"	/>
+<dict	en	=	"	Equation system	"	fr	=	"	Système des equations	"	ar	=	"	نظام معادلات	"	/>
+<dict	en	=	"	Equation* Algebraic equation	"	fr	=	"	Équation algébrique	"	ar	=	"	معادلة جبرية	"	/>
+<dict	en	=	"	Equation* Biquadratic  equation	"	fr	=	"	Équation bicarrées	"	ar	=	"	معادلة مضاعفة التربيع	"	/>
+<dict	en	=	"	Equation* Cartesian equation 	"	fr	=	"	Équation cartésienne	"	ar	=	"	معادلة ديكارتية	"	/>
+<dict	en	=	"	Equation* Differential  equation  	"	fr	=	"	Équation différentielle	"	ar	=	"	معادلة تفاضلية	"	/>
+<dict	en	=	"	Equation* Differential linear equation	"	fr	=	"	Équation différentielle linéaire	"	ar	=	"	معادلة تفاضلية  خطية	"	/>
+<dict	en	=	"	Equation* Elliptic equation	"	fr	=	"	Équation elliptique	"	ar	=	"	معادلة إهليلجية	"	/>
+<dict	en	=	"	Equation* Explicit equation	"	fr	=	"	Équation explicite	"	ar	=	"	معادلة صريحة	"	/>
+<dict	en	=	"	Equation* Heat  equation	"	fr	=	"	Équation de la chaleur	"	ar	=	"	معادلة الحرارة / معادلة الانتشار	"	/>
+<dict	en	=	"	Equation* Homogeneous equation	"	fr	=	"	Équation homogène	"	ar	=	"	معادلة متجانسة	"	/>
+<dict	en	=	"	Equation* Hyperbolic  equation	"	fr	=	"	Équation hyperbolique	"	ar	=	"	معادلة القطع الزائد	"	/>
+<dict	en	=	"	Equation* Parabolic  equation	"	fr	=	"	Équation parabolique	"	ar	=	"	معادلة القطع المكافئ	"	/>
+<dict	en	=	"	Equation* Parametric equation	"	fr	=	"	Équation paramétrique	"	ar	=	"	معادلة وسيطية	"	/>
+<dict	en	=	"	Equation* Quadratic equation	"	fr	=	"	Équation quadratique	"	ar	=	"	معادلة من الدرجة الثانية	"	/>
+<dict	en	=	"	Equation* Quartic equation	"	fr	=	"	Équation quartique	"	ar	=	"	معادلة من الدرجة الرابعة	"	/>
+<dict	en	=	"	Equation* Solution of  an equation	"	fr	=	"	Solution d’une équation	"	ar	=	"	حل معادلة	"	/>
+<dict	en	=	"	Equidistant 	"	fr	=	"	Équidistant	"	ar	=	"	مُتَساوي المسافة 	"	/>
+<dict	en	=	"	Equilateral 	"	fr	=	"	Équilatère	"	ar	=	"	مُتَساوي الأضلاع 	"	/>
+<dict	en	=	"	Equipotent	"	fr	=	"	Équipotent	"	ar	=	"	متساوي القوة / متساوي القدرة	"	/>
+<dict	en	=	"	Equiprobability 	"	fr	=	"	Équiprobabilité	"	ar	=	"	تساوي الاحتمال	"	/>
+<dict	en	=	"	Equiprobable	"	fr	=	"	Équiprobable	"	ar	=	"	مُتَساوي الاحتمال 	"	/>
+<dict	en	=	"	Equistribution  	"	fr	=	"	Équidistribution	"	ar	=	"	متساوي التوزيع	"	/>
+<dict	en	=	"	Equivalence	"	fr	=	"	Équivalence	"	ar	=	"	مساواة / تكافؤ	"	/>
+<dict	en	=	"	Equivalence* Logic equivalence	"	fr	=	"	Équivalence logique	"	ar	=	"	تكافؤ منطقي	"	/>
+<dict	en	=	"	Equivalent	"	fr	=	"	Équivalent	"	ar	=	"	مكافيء	"	/>
+<dict	en	=	"	Error	"	fr	=	"	Érreur	"	ar	=	"	خطأ	"	/>
+<dict	en	=	"	Error* Rounding error	"	fr	=	"	Érreur d'arrondi	"	ar	=	"	خطأ التدوير	"	/>
+<dict	en	=	"	Essential	"	fr	=	"	Éssentiel	"	ar	=	"	رئيسي/ أساسي	"	/>
+<dict	en	=	"	Estimate / Estimation	"	fr	=	"	Éstimation	"	ar	=	"	تقدير / تخمين	"	/>
+<dict	en	=	"	Estimate / Estimation* Estimate by a gap	"	fr	=	"	Éstimation par un intervalle	"	ar	=	"	تقدير بمجال / تخمين بمجال	"	/>
+<dict	en	=	"	Estimate / Estimation* Point estimate	"	fr	=	"	Estimation ponctuelle	"	ar	=	"	تقدير نقطي / تخمين نقطي	"	/>
+<dict	en	=	"	Estimator	"	fr	=	"	Estimateur	"	ar	=	"	مُقَدَّر	"	/>
+<dict	en	=	"	Euclidean 	"	fr	=	"	Euclidien	"	ar	=	"	اقليدي 	"	/>
+<dict	en	=	"	Evaluation	"	fr	=	"	Evaluation	"	ar	=	"	تقدير/ تقييم	"	/>
+<dict	en	=	"	Even 	"	fr	=	"	Pair (e)	"	ar	=	"	زوجي (ة)	"	/>
+<dict	en	=	"	Event	"	fr	=	"	Evénement	"	ar	=	"	حادث / حادثة	"	/>
+<dict	en	=	"	Event contrary	"	fr	=	"	Evénement contraire	"	ar	=	"	حادثة معاكسة	"	/>
+<dict	en	=	"	Event not	"	fr	=	"	Evénement impossible	"	ar	=	"	حادثة مستحيلة	"	/>
+<dict	en	=	"	Event sure	"	fr	=	"	Evénement certain	"	ar	=	"	حادثة أكيدة	"	/>
+<dict	en	=	"	Event* Compatible events / Consistent events	"	fr	=	"	Evénements compatibles	"	ar	=	"	حوادث متلائمة / حوادث متناسقة	"	/>
+<dict	en	=	"	Event* Compound event	"	fr	=	"	Evénement composé	"	ar	=	"	حادثة مركبة	"	/>
+<dict	en	=	"	Event* Elementary event	"	fr	=	"	Evénement élémentaire	"	ar	=	"	حادثة أولية	"	/>
+<dict	en	=	"	Event* Incompatible events	"	fr	=	"	Evénements incompatibles	"	ar	=	"	حوادث غير متلائمة / حوادث غير متناسقة	"	/>
+<dict	en	=	"	Event* Independent events	"	fr	=	"	Evénements indépendants	"	ar	=	"	حوادث مستقلة 	"	/>
+<dict	en	=	"	Exact  / Correct	"	fr	=	"	Exact	"	ar	=	"	دقيق / مضبوط	"	/>
+<dict	en	=	"	Existence	"	fr	=	"	Existence	"	ar	=	"	وجود	"	/>
+<dict	en	=	"	Existential	"	fr	=	"	Existentiel	"	ar	=	"	وجودي	"	/>
+<dict	en	=	"	Expectation                           	"	fr	=	"	Espérance	"	ar	=	"	أمل / توقع	"	/>
+<dict	en	=	"	Expectation* Mathematic expectation	"	fr	=	"	Espérance mathématique	"	ar	=	"	أمل رياضياتي / توقع رياضياتي	"	/>
+<dict	en	=	"	Experience	"	fr	=	"	Expérience	"	ar	=	"	تجربة 	"	/>
+<dict	en	=	"	Experience* Random experience	"	fr	=	"	Expérience aléatoire	"	ar	=	"	تجربة عشوائية	"	/>
+<dict	en	=	"	Exponant	"	fr	=	"	Exposant	"	ar	=	"	أس / دليل	"	/>
+<dict	en	=	"	Exponential                          	"	fr	=	"	Exponentiel (le)	"	ar	=	"	أسي (ة)	"	/>
+<dict	en	=	"	Expression	"	fr	=	"	Expression 	"	ar	=	"	عبارة	"	/>
+<dict	en	=	"	Expression* Algebraic expression	"	fr	=	"	Expression algébrique	"	ar	=	"	عبارة جبرية	"	/>
+<dict	en	=	"	Expression* Equivalent expressions	"	fr	=	"	Expressions équivalentes	"	ar	=	"	عبارات متكافئة	"	/>
+<dict	en	=	"	Expression* Fractional expression	"	fr	=	"	Expression fractionnaire 	"	ar	=	"	عبارة كسرية	"	/>
+<dict	en	=	"	Expression* Literal expression	"	fr	=	"	Expression littérale 	"	ar	=	"	عبارة حرفية	"	/>
+<dict	en	=	"	Expression* Logical Expression	"	fr	=	"	Expression logique	"	ar	=	"	تعبير منطقي / عبارة منطقية	"	/>
+<dict	en	=	"	Expression* Polynomial expression	"	fr	=	"	Expression polynomiale	"	ar	=	"	عبارة كثير حدود	"	/>
+<dict	en	=	"	Expression* Quadratic expression	"	fr	=	"	Expression dedeuxième degré 	"	ar	=	"	عبارة من الدرجة الثانية	"	/>
+<dict	en	=	"	Expression* Rational expression	"	fr	=	"	Expression rationnelle	"	ar	=	"	عبارة ناطقة	"	/>
+<dict	en	=	"	Extand	"	fr	=	"	Prolonger	"	ar	=	"	مَدَّد	"	/>
+<dict	en	=	"	Extensible 	"	fr	=	"	Extensible	"	ar	=	"	قابل للمد / للتوسيع	"	/>
+<dict	en	=	"	Extension	"	fr	=	"	Prolongement	"	ar	=	"	تمديد / إمتداد / إنتشار / توسيع	"	/>
+<dict	en	=	"	Extension* Extension by continuity	"	fr	=	"	Prolongement par continuité	"	ar	=	"	تمديد بالإستمرارية	"	/>
+<dict	en	=	"	Extensionality	"	fr	=	"	Extensionalité	"	ar	=	"	إتساع	"	/>
+<dict	en	=	"	Exterior 	"	fr	=	"	Extérieur (produit----)	"	ar	=	"	خارجي  ( جداء ----)	"	/>
+<dict	en	=	"	Externe 	"	fr	=	"	Externe ( loi----)	"	ar	=	"	خارجي    (قانون----)	"	/>
+<dict	en	=	"	Extract	"	fr	=	"	Extraction	"	ar	=	"	إستخراج	"	/>
+<dict	en	=	"	Extreme 	"	fr	=	"	Extrême 	"	ar	=	"	طرف / نهائي	"	/>
+<dict	en	=	"	Extremity	"	fr	=	"	Extrémité	"	ar	=	"	نِهاية	"	/>
+<dict	en	=	"	Extremum                             	"	fr	=	"	Extremum	"	ar	=	"	نهاية حدية / قيمة قصوى 	"	/>
+<dict	en	=	"	Face	"	fr	=	"	Face	"	ar	=	"	وجه	"	/>
+<dict	en	=	"	Factor	"	fr	=	"	Facteur	"	ar	=	"	عامل	"	/>
+<dict	en	=	"	Factor* Common factor	"	fr	=	"	Facteur commun 	"	ar	=	"	عامل مشترك	"	/>
+<dict	en	=	"	Factor* Highest common factor (Divisor)                                      	"	fr	=	"	Plus Grand Commun facteur (Diviseur)	"	ar	=	"	قاسم مشترك أكبر	"	/>
+<dict	en	=	"	Factorial	"	fr	=	"	Factorielle	"	ar	=	"	عاملي	"	/>
+<dict	en	=	"	Factorise  / Factor	"	fr	=	"	Factoriser	"	ar	=	"	حلل إل عوامل	"	/>
+<dict	en	=	"	False 	"	fr	=	"	Faux  	"	ar	=	"	خاطئ	"	/>
+<dict	en	=	"	Family 	"	fr	=	"	Famille	"	ar	=	"	جملة / عائلة	"	/>
+<dict	en	=	"	Family* Free family	"	fr	=	"	Famillelibre	"	ar	=	"	جملة مستقلة خطيا	"	/>
+<dict	en	=	"	Family* Generator family	"	fr	=	"	Famille génératrice	"	ar	=	"	جملة مولدة 	"	/>
+<dict	en	=	"	Family* Summable family	"	fr	=	"	Famille sommable	"	ar	=	"	جملة قابلة للجمع / جملة جموعة	"	/>
+<dict	en	=	"	Fault 	"	fr	=	"	Faute  	"	ar	=	"	خطأ	"	/>
+<dict	en	=	"	Feasible	"	fr	=	"	Réalisable 	"	ar	=	"	عملي 	"	/>
+<dict	en	=	"	Fictive	"	fr	=	"	Fictif	"	ar	=	"	صوري / خيالي	"	/>
+<dict	en	=	"	Field  	"	fr	=	"	Corps / Champ / Espace	"	ar	=	"	جسم / حقل	"	/>
+<dict	en	=	"	Field* Dual Field	"	fr	=	"	Espace dual	"	ar	=	"	حقل ثانوي	"	/>
+<dict	en	=	"	Field* Gradient field	"	fr	=	"	Champ de gradient	"	ar	=	"	حقل تدرجي	"	/>
+<dict	en	=	"	Field* Vector field	"	fr	=	"	Champ de vecteurs	"	ar	=	"	حقل شعاعي 	"	/>
+<dict	en	=	"	Figure	"	fr	=	"	Figure	"	ar	=	"	شكل	"	/>
+<dict	en	=	"	Filtration	"	fr	=	"	Filtration	"	ar	=	"	تصفية	"	/>
+<dict	en	=	"	Finite	"	fr	=	"	Fini (e)	"	ar	=	"	مُنتهٍ	"	/>
+<dict	en	=	"	Finite difference	"	fr	=	"	Différence 	"	ar	=	"	فرق محدود 	"	/>
+<dict	en	=	"	Finite elements	"	fr	=	"	Eléments finis	"	ar	=	"	عناصر مُنتهية	"	/>
+<dict	en	=	"	Fitting	"	fr	=	"	Ajustement	"	ar	=	"	تعديل	"	/>
+<dict	en	=	"	Fixed 	"	fr	=	"	Fixé	"	ar	=	"	مثبت	"	/>
+<dict	en	=	"	Flattening 	"	fr	=	"	Aplatissement	"	ar	=	"	تسطح / تفرطح 	"	/>
+<dict	en	=	"	Flexion	"	fr	=	"	Flexion	"	ar	=	"	إنثناء-ثني / إلتواء	"	/>
+<dict	en	=	"	Flow	"	fr	=	"	Flux	"	ar	=	"	تدفق/ فيض / جريان	"	/>
+<dict	en	=	"	Fluctuation                            	"	fr	=	"	Fluctuation	"	ar	=	"	تذبذب	"	/>
+<dict	en	=	"	Fluctuaton* Sampling fluctuation	"	fr	=	"	Fluctuation d'échantillonnage	"	ar	=	"	تذبذب العينات 	"	/>
+<dict	en	=	"	Fluid	"	fr	=	"	Fluide	"	ar	=	"	مائع	"	/>
+<dict	en	=	"	Fluidity	"	fr	=	"	Fluidité	"	ar	=	"	ميوعة	"	/>
+<dict	en	=	"	Flux / Flow                              	"	fr	=	"	Flot	"	ar	=	"	تدفق	"	/>
+<dict	en	=	"	Focus (Foci)	"	fr	=	"	Foyer	"	ar	=	"	بؤرة / محرق	"	/>
+<dict	en	=	"	Forecast	"	fr	=	"	Prévision  	"	ar	=	"	توقع	"	/>
+<dict	en	=	"	Form	"	fr	=	"	Forme	"	ar	=	"	شكل / عِبارة / صيغة	"	/>
+<dict	en	=	"	Form* Algebraic form	"	fr	=	"	Forme algébrique	"	ar	=	"	شكل جبري / صيغة جبرية	"	/>
+<dict	en	=	"	Form* Closed form	"	fr	=	"	Forme fermé	"	ar	=	"	شكل مُغلق	"	/>
+<dict	en	=	"	Form* Exponential form	"	fr	=	"	Forme exponentielle	"	ar	=	"	شكل أسي / صيغة أسية	"	/>
+<dict	en	=	"	Form* Fundamental form	"	fr	=	"	Forme fondamentale	"	ar	=	"	شكل أساسي / صيغة أساسية	"	/>
+<dict	en	=	"	Form* Indeterminate form	"	fr	=	"	Forme indéterminée	"	ar	=	"	حالة عدم تعيين	"	/>
+<dict	en	=	"	Form* Linear form	"	fr	=	"	Forme linéaire	"	ar	=	"	شكل خطي / صيغة خطية	"	/>
+<dict	en	=	"	Form* Modular form	"	fr	=	"	Forme modulaire	"	ar	=	"	شكل نمطي / صيغة نمطية	"	/>
+<dict	en	=	"	Form* Polar form	"	fr	=	"	Forme polaire	"	ar	=	"	شكل قطبي / صيغة قطبية	"	/>
+<dict	en	=	"	Form* Trigonometric form	"	fr	=	"	Forme trigonométrique	"	ar	=	"	شكل مثلثي / صيغة مثلثية	"	/>
+<dict	en	=	"	Formal	"	fr	=	"	Formel 	"	ar	=	"	شكلي / تقليدي	"	/>
+<dict	en	=	"	Formula	"	fr	=	"	Formule	"	ar	=	"	صيغة / دستور	"	/>
+<dict	en	=	"	Formulation	"	fr	=	"	Formulation  	"	ar	=	"	صياغة / تشكيل	"	/>
+<dict	en	=	"	Formulation* Variational formulation	"	fr	=	"	Formulation variationnelle	"	ar	=	"	صِيغة تبايُنيّة	"	/>
+<dict	en	=	"	Founded 	"	fr	=	"	Fondé  	"	ar	=	"	مؤسس	"	/>
+<dict	en	=	"	Fractal	"	fr	=	"	Fractal	"	ar	=	"	كسيري / كسوري ( هندسة كسيرية )	"	/>
+<dict	en	=	"	Fraction	"	fr	=	"	Fraction	"	ar	=	"	كَسْر	"	/>
+<dict	en	=	"	Fraction* Equivalent fraction	"	fr	=	"	Fraction équivalente	"	ar	=	"	كسر مكافئ	"	/>
+<dict	en	=	"	Fraction* Partial fraction 	"	fr	=	"	Fraction irréductible	"	ar	=	"	كسر غير قابل للاختزال / كسر جزئي	"	/>
+<dict	en	=	"	Fraction* Rational fraction	"	fr	=	"	Fraction rationnelle	"	ar	=	"	كسر ناطق / كسر نسبي	"	/>
+<dict	en	=	"	Fraction* Volume fraction	"	fr	=	"	Fraction volumique	"	ar	=	"	كسر حجمي 	"	/>
+<dict	en	=	"	Fractional	"	fr	=	"	Fractionnaire	"	ar	=	"	كسري	"	/>
+<dict	en	=	"	Frame 	"	fr	=	"	Encadrer	"	ar	=	"	أحصر / إطار / هيكل	"	/>
+<dict	en	=	"	Frame 	"	fr	=	"	Repère	"	ar	=	"	معلم 	"	/>
+<dict	en	=	"	Framing 	"	fr	=	"	Encadrement	"	ar	=	"	حصر	"	/>
+<dict	en	=	"	Free	"	fr	=	"	Libre	"	ar	=	"	حُرّ	"	/>
+<dict	en	=	"	Frequency	"	fr	=	"	Fréquence	"	ar	=	"	تواتر / تردد	"	/>
+<dict	en	=	"	Frequency* Cumulative frequency	"	fr	=	"	Fréquence cumulative	"	ar	=	"	تواتر تجميعي / تواتر تراكمي	"	/>
+<dict	en	=	"	Frequency* Cumulative frequency	"	fr	=	"	Fréquence cumulée	"	ar	=	"	تواتر متجمع	"	/>
+<dict	en	=	"	Frequency* Decreasing cum, frequencies	"	fr	=	"	Fréquences cumulées décroissantes	"	ar	=	"	تواترات متجمع النازل	"	/>
+<dict	en	=	"	Frequency* Increasing cum / Frequencies	"	fr	=	"	Fréquences cumulées croissantes	"	ar	=	"	تواترات متجمع الصاعد	"	/>
+<dict	en	=	"	Friction	"	fr	=	"	Frottement	"	ar	=	"	احتكاك	"	/>
+<dict	en	=	"	Frontier  / Boundary                	"	fr	=	"	Frontière	"	ar	=	"	جبهة / حافة 	"	/>
+<dict	en	=	"	Function	"	fr	=	"	Fonction	"	ar	=	"	دالّة	"	/>
+<dict	en	=	"	Function of Class                                      	"	fr	=	"	Fonction de classe	"	ar	=	"	دالة من الصنف 	"	/>
+<dict	en	=	"	Function* Absolute value function	"	fr	=	"	Fonction valeur absolue	"	ar	=	"	دالة القيمة المطلقة	"	/>
+<dict	en	=	"	Function* Accumulative distribution function	"	fr	=	"	Fonction de distribution cumulative	"	ar	=	"	دالة التوزيع التراكمي	"	/>
+<dict	en	=	"	Function* Analytic  function	"	fr	=	"	Fonction analytique	"	ar	=	"	دالة تحليلية	"	/>
+<dict	en	=	"	Function* Associated function	"	fr	=	"	Fonction associée	"	ar	=	"	دالة مرفقة 	"	/>
+<dict	en	=	"	Function* Bounded function	"	fr	=	"	Fonction bornée	"	ar	=	"	دالة محدودة	"	/>
+<dict	en	=	"	Function* Characteristic function	"	fr	=	"	Fonction caractéristique	"	ar	=	"	دالة مميزة	"	/>
+<dict	en	=	"	Function* Circular function	"	fr	=	"	Fonction circulaire	"	ar	=	"	دالة دائرية	"	/>
+<dict	en	=	"	Function* Coercive function	"	fr	=	"	Fonction coercive	"	ar	=	"	 دالة قسرية (قهرية)	"	/>
+<dict	en	=	"	Function* Concave function	"	fr	=	"	Fonction concave	"	ar	=	"	دالة مقعرة	"	/>
+<dict	en	=	"	Function* Conjugate  function	"	fr	=	"	Conjugué d’une  fonction	"	ar	=	"	مرافق دالة	"	/>
+<dict	en	=	"	Function* Constant function	"	fr	=	"	Fonction constante	"	ar	=	"	دالة ثابتة	"	/>
+<dict	en	=	"	Function* Continuous  function	"	fr	=	"	Fonction continuée	"	ar	=	"	دالة مُستمرة	"	/>
+<dict	en	=	"	Function* Convex function	"	fr	=	"	Fonction convexe	"	ar	=	"	دالة محدبة	"	/>
+<dict	en	=	"	Function* Cost function	"	fr	=	"	Fonction de coût	"	ar	=	"	دالة الكلفة 	"	/>
+<dict	en	=	"	Function* Cubic function	"	fr	=	"	Fonction cubique	"	ar	=	"	دالة المكعب	"	/>
+<dict	en	=	"	Function* Decreasing function	"	fr	=	"	Fonction décroissante	"	ar	=	"	دالة متناقصة	"	/>
+<dict	en	=	"	Function* Derivative function	"	fr	=	"	Fonction dérivée	"	ar	=	"	دالة مُشتقة	"	/>
+<dict	en	=	"	Function* Discontinuous function	"	fr	=	"	Fonction discontinue	"	ar	=	"	دالّة غيرمستمرة	"	/>
+<dict	en	=	"	Function* Even function	"	fr	=	"	Fonction paire	"	ar	=	"	دالّة زوجيّة	"	/>
+<dict	en	=	"	Function* Harmonic  function	"	fr	=	"	Fonction harmonique	"	ar	=	"	دالّة توافقية	"	/>
+<dict	en	=	"	Function* Holomorphic function	"	fr	=	"	Fonction holomorphe	"	ar	=	"	دالة تامة الشكل ( في الأعداد المركبة) / دالة تحليلية / دالة هولومورفية 	"	/>
+<dict	en	=	"	Function* Homographic function	"	fr	=	"	Fonction homographique	"	ar	=	"	دالة تناظرية / دالة جناسية 	"	/>
+<dict	en	=	"	Function* Hyperbolic function	"	fr	=	"	Fonction hyperbolique	"	ar	=	"	دالة قطع زائد / دالة زائدية 	"	/>
+<dict	en	=	"	Function* Identity function	"	fr	=	"	Fonction identité	"	ar	=	"	دالة حيادية	"	/>
+<dict	en	=	"	Function* Implicit function	"	fr	=	"	Fonction implicite	"	ar	=	"	دالة ضمنية	"	/>
+<dict	en	=	"	Function* Increasing function	"	fr	=	"	Fonction croissante	"	ar	=	"	دالة متزايدة	"	/>
+<dict	en	=	"	Function* Indicator function	"	fr	=	"	Fonction indicatrice	"	ar	=	"	دالة المؤشر	"	/>
+<dict	en	=	"	Function* Integer part function	"	fr	=	"	Fonction partie entière	"	ar	=	"	دالة الجزء الصحيح 	"	/>
+<dict	en	=	"	Function* Integrable function	"	fr	=	"	Fonction intégrable	"	ar	=	"	دالة قابلة للتكامل	"	/>
+<dict	en	=	"	Function* Likelihood function	"	fr	=	"	Fonction de vraisemblance	"	ar	=	"	دالة الإمكان	"	/>
+<dict	en	=	"	Function* Linear function	"	fr	=	"	Fonction linéaire	"	ar	=	"	دالة خطية 	"	/>
+<dict	en	=	"	Function* Logarithmic function	"	fr	=	"	Fonction logarithmique	"	ar	=	"	دالة لوغاريتمية / دالة خوارزمية	"	/>
+<dict	en	=	"	Function* Measurable function	"	fr	=	"	Fonction mesurable	"	ar	=	"	دالة قابلة للقياس	"	/>
+<dict	en	=	"	Function* Monotone function  / Monotonic function          	"	fr	=	"	Fonction monotone	"	ar	=	"	دالة رتيبة	"	/>
+<dict	en	=	"	Function* Multivalued function	"	fr	=	"	Fonction multivaluée	"	ar	=	"	دالة متعددة القيم	"	/>
+<dict	en	=	"	Function* Objective function	"	fr	=	"	Fonction objective	"	ar	=	"	دالة موضوعية	"	/>
+<dict	en	=	"	Function* Periodic function	"	fr	=	"	Fonction périodique	"	ar	=	"	دالة دورية	"	/>
+<dict	en	=	"	Function* Piecewise function	"	fr	=	"	Fonction définie par morceaux	"	ar	=	"	دالة معرفة بأجزاء	"	/>
+<dict	en	=	"	Function* Polynomial function	"	fr	=	"	Fonction polynomiale	"	ar	=	"	دالة كثير حدود	"	/>
+<dict	en	=	"	Function* Probability mass function	"	fr	=	"	Fonction de masse deprobabilité	"	ar	=	"	دالة الكتلة الاحتمالية 	"	/>
+<dict	en	=	"	Function* Random function	"	fr	=	"	Fonction aléatoire	"	ar	=	"	دالة عشوائية	"	/>
+<dict	en	=	"	Function* Reciprocal function	"	fr	=	"	Fonction réciproque	"	ar	=	"	دالة عكسية	"	/>
+<dict	en	=	"	Function* Refined function	"	fr	=	"	Fonctionaffine	"	ar	=	"	دالة تآلفية	"	/>
+<dict	en	=	"	Function* Riemann zeta function	"	fr	=	"	Fonction zêta de Riemann	"	ar	=	"	دالة زيتا لريمان 	"	/>
+<dict	en	=	"	Function* Root function	"	fr	=	"	Fonction racine	"	ar	=	"	دالة جذرية	"	/>
+<dict	en	=	"	Function* Sinusoidal functions	"	fr	=	"	Fonction sinusoïdale	"	ar	=	"	دالة جيبية	"	/>
+<dict	en	=	"	Function* Step function	"	fr	=	"	Fonction étagée	"	ar	=	"	دالة طابقية مدرجة	"	/>
+<dict	en	=	"	Function* Stepped function	"	fr	=	"	Fonction en escalier	"	ar	=	"	دالة متدرجة	"	/>
+<dict	en	=	"	Function* Support of a  function	"	fr	=	"	Support d’une fonction	"	ar	=	"	حامِل دالّة	"	/>
+<dict	en	=	"	Function* Symmetric function	"	fr	=	"	Fonction symétrique	"	ar	=	"	دالة تناظرية	"	/>
+<dict	en	=	"	Function* Trigonometric function	"	fr	=	"	Fonction trigonométrique	"	ar	=	"	دالة مثلثية	"	/>
+<dict	en	=	"	Function* Usual function	"	fr	=	"	Fonction usuelle	"	ar	=	"	دالة مرجعية	"	/>
+<dict	en	=	"	Function* Weight function	"	fr	=	"	Fonction poids	"	ar	=	"	دالة الثِّقل	"	/>
+<dict	en	=	"	Functional	"	fr	=	"	Fonctionnel	"	ar	=	"	دالّي/ وظيفي	"	/>
+<dict	en	=	"	Functor 	"	fr	=	"	Foncteur	"	ar	=	"	دلول / دلال ( نوع من التشاكلات)	"	/>
+<dict	en	=	"	Fundamental	"	fr	=	"	Fondamental	"	ar	=	"	أساسي 	"	/>
+<dict	en	=	"	Gain 	"	fr	=	"	Gain  	"	ar	=	"	ربح	"	/>
+<dict	en	=	"	General	"	fr	=	"	Général  	"	ar	=	"	عام 	"	/>
+<dict	en	=	"	Generalization	"	fr	=	"	Généralisation  	"	ar	=	"	تعميم 	"	/>
+<dict	en	=	"	Generated	"	fr	=	"	Engendré	"	ar	=	"	مُوَلَّد	"	/>
+<dict	en	=	"	Generation	"	fr	=	"	Génération  	"	ar	=	"	توليد / جيل	"	/>
+<dict	en	=	"	Generator 	"	fr	=	"	Générateur	"	ar	=	"	مُوَلِّد	"	/>
+<dict	en	=	"	Generatrix 	"	fr	=	"	Génératrice	"	ar	=	"	مُولِّدة	"	/>
+<dict	en	=	"	Geodetic line                              	"	fr	=	"	Ligne géodésique	"	ar	=	"	اقصر خط بين نقطتين على سطح منحني	"	/>
+<dict	en	=	"	Geometric	"	fr	=	"	Géométrique	"	ar	=	"	هندسي 	"	/>
+<dict	en	=	"	Geometric  Mean	"	fr	=	"	Moyenne géométrique	"	ar	=	"	متوسط هندسي	"	/>
+<dict	en	=	"	Geometry	"	fr	=	"	Géométrie	"	ar	=	"	هندسة	"	/>
+<dict	en	=	"	Geometry* Absolute geometry	"	fr	=	"	Géométrie absolue	"	ar	=	"	هندسة مطلقة	"	/>
+<dict	en	=	"	Geometry* Affine geometry  	"	fr	=	"	Géométrie affine	"	ar	=	"	هندسة تآلفية 	"	/>
+<dict	en	=	"	Geometry* Coordinate geometry	"	fr	=	"	Géométrie analytique	"	ar	=	"	هندسة تحليلية	"	/>
+<dict	en	=	"	Geometry* Euclidian geometry	"	fr	=	"	Géométrie euclidienne	"	ar	=	"	هندسة اقليدية	"	/>
+<dict	en	=	"	Geometry* Imaginary geometry	"	fr	=	"	Géométrie imaginaire	"	ar	=	"	هندسة تخيلية	"	/>
+<dict	en	=	"	Geometry* Intrinsic geometry	"	fr	=	"	Géométrie intrinsèque	"	ar	=	"	هندسة جوهرية	"	/>
+<dict	en	=	"	Geometry* Non Euclidian geometry	"	fr	=	"	Géométrie non Euclidienne	"	ar	=	"	هندسة لا اقليدية	"	/>
+<dict	en	=	"	Geometry* Projective geometry	"	fr	=	"	Géométrie projective	"	ar	=	"	هندسة إسقاطيه	"	/>
+<dict	en	=	"	Global	"	fr	=	"	Global	"	ar	=	"	عام	"	/>
+<dict	en	=	"	Globally coprimes 	"	fr	=	"	Premiers entre eux globalement	"	ar	=	"	أولية فيما بينها إجمالا	"	/>
+<dict	en	=	"	Globally invariant	"	fr	=	"	Globalement invariante	"	ar	=	"	صامد إجمالا 	"	/>
+<dict	en	=	"	Gradient	"	fr	=	"	Gradient	"	ar	=	"	معدل الإنحدار / درجة الميل	"	/>
+<dict	en	=	"	Graduated 	"	fr	=	"	Gradué	"	ar	=	"	مدرج	"	/>
+<dict	en	=	"	Graduation                            	"	fr	=	"	Graduation	"	ar	=	"	تدريج	"	/>
+<dict	en	=	"	Graduation* Increasing graduation 	"	fr	=	"	Graduation croissante 	"	ar	=	"	تدريج تزايدي / تدريج تصاعدي	"	/>
+<dict	en	=	"	Graph 	"	fr	=	"	Graphe	"	ar	=	"	مُنحَنى / بيان 	"	/>
+<dict	en	=	"	Graph of a function              	"	fr	=	"	Graphe d’une fonction	"	ar	=	"	بيان دالة	"	/>
+<dict	en	=	"	Graphic 	"	fr	=	"	Graphique  	"	ar	=	"	بياني	"	/>
+<dict	en	=	"	Gravity	"	fr	=	"	Gravité	"	ar	=	"	جاذبية  / ثقالة	"	/>
+<dict	en	=	"	Greater / Higher 	"	fr	=	"	Supérieur	"	ar	=	"	أعلى / اكبر	"	/>
+<dict	en	=	"	Grid	"	fr	=	"	Grille	"	ar	=	"	شبكة / شبيكة 	"	/>
+<dict	en	=	"	Group	"	fr	=	"	Groupe	"	ar	=	"	زمرة	"	/>
+<dict	en	=	"	Group* Alternating group	"	fr	=	"	Groupe alterné 	"	ar	=	"	زمرة متناوبة	"	/>
+<dict	en	=	"	Group* Commutative group	"	fr	=	"	Groupe commutatif	"	ar	=	"	زمرة تبديلية	"	/>
+<dict	en	=	"	Group* Cyclic group	"	fr	=	"	Groupe cyclique	"	ar	=	"	زمرة دائرية	"	/>
+<dict	en	=	"	Group* Dihedral group	"	fr	=	"	Groupe diédral	"	ar	=	"	زمرة زوجية / زمرة ثنائية	"	/>
+<dict	en	=	"	Group* Homogeneous group  	"	fr	=	"	Groupe monogène	"	ar	=	"	زمرة متجانسة	"	/>
+<dict	en	=	"	Group* Linear group	"	fr	=	"	Groupe linéaire	"	ar	=	"	زمرة خطية (المصفوفات المربعة)	"	/>
+<dict	en	=	"	Group* Orthogonal group	"	fr	=	"	Groupe orthogonal	"	ar	=	"	زمرة متعامدة 	"	/>
+<dict	en	=	"	Group* Symmetric group 	"	fr	=	"	Groupe symétrique	"	ar	=	"	زمرة تناظرية	"	/>
+<dict	en	=	"	Group* Symplectic group	"	fr	=	"	Groupe symplectique	"	ar	=	"	زمر متداخلة  / زمرة تماسكية 	"	/>
+<dict	en	=	"	Groupoid	"	fr	=	"	Groupoïde	"	ar	=	"	زميرة 	"	/>
+<dict	en	=	"	Growth 	"	fr	=	"	Croissance	"	ar	=	"	تزايد	"	/>
+<dict	en	=	"	Growth * Comparative growth	"	fr	=	"	Croissance comparée	"	ar	=	"	تزايد مقارن	"	/>
+<dict	en	=	"	Growth* Exponential growth	"	fr	=	"	Croissance exponentielle	"	ar	=	"	تزايد أسي	"	/>
+<dict	en	=	"	Half	"	fr	=	"	Demi / Moitié	"	ar	=	"	نصف	"	/>
+<dict	en	=	"	Harmonic 	"	fr	=	"	Harmonique	"	ar	=	"	توافقي / تناسقي / منسجم	"	/>
+<dict	en	=	"	Hatched	"	fr	=	"	Hachuré (e)  	"	ar	=	"	مظلّل (ة) 	"	/>
+<dict	en	=	"	Hazard	"	fr	=	"	Aléa	"	ar	=	"	عشواءة / صدفة	"	/>
+<dict	en	=	"	Height	"	fr	=	"	Hauteur	"	ar	=	"	ارتفاع / طول 	"	/>
+<dict	en	=	"	Helical 	"	fr	=	"	Hélicoïdale	"	ar	=	"	حلزوني / لولبي	"	/>
+<dict	en	=	"	Helicoid surface	"	fr	=	"	Hélicoïde	"	ar	=	"	سطح حلزوني 	"	/>
+<dict	en	=	"	Helix angle	"	fr	=	"	Angle hélice	"	ar	=	"	زاوية اللولبة الحلزونية	"	/>
+<dict	en	=	"	Hemisphere	"	fr	=	"	Hémisphère	"	ar	=	"	نصف كرة	"	/>
+<dict	en	=	"	Hemispherical 	"	fr	=	"	Hémisphérique	"	ar	=	"	نصف كروي	"	/>
+<dict	en	=	"	Hendecagon 	"	fr	=	"	Hendécagone	"	ar	=	"	ذو أحد عشر ضلعا	"	/>
+<dict	en	=	"	Heptagon 	"	fr	=	"	Heptagone	"	ar	=	"	مسبع / سباعي الأضلاع	"	/>
+<dict	en	=	"	Heptahedron 	"	fr	=	"	Heptaèdre	"	ar	=	"	جسم سباعي السطوح	"	/>
+<dict	en	=	"	Hermitian 	"	fr	=	"	Hermitienne 	"	ar	=	"	هِرميتي	"	/>
+<dict	en	=	"	Heterologous series	"	fr	=	"	Série hétérologue	"	ar	=	"	متسلسلة متغايرة	"	/>
+<dict	en	=	"	Heuristic method	"	fr	=	"	Méthode heuristique	"	ar	=	"	طريقة تنقيبية	"	/>
+<dict	en	=	"	Hexagon	"	fr	=	"	Hexagone	"	ar	=	"	سداسي الأضلاع	"	/>
+<dict	en	=	"	Hexagon* Regular hexagon	"	fr	=	"	Hexagone régulier	"	ar	=	"	سداسي الأضلاع منتظم 	"	/>
+<dict	en	=	"	Hexahedron 	"	fr	=	"	Hexaèdre	"	ar	=	"	مكعب / مجسم سداسي السطوح	"	/>
+<dict	en	=	"	Highest common divisor 	"	fr	=	"	Le plus grand diviseur commun	"	ar	=	"	القاسم المشترك الأعظم	"	/>
+<dict	en	=	"	Histogram	"	fr	=	"	Histogramme	"	ar	=	"	مدرج / مخطط توزيع التواتر	"	/>
+<dict	en	=	"	Histogram* Frequency histogram	"	fr	=	"	Histogramme des effectifs	"	ar	=	"	مدرج تكراري أو تواتر	"	/>
+<dict	en	=	"	Holomorphic	"	fr	=	"	Holomorphe	"	ar	=	"	تام الشكل (البلوري)	"	/>
+<dict	en	=	"	Homogeneity	"	fr	=	"	Homogénéité	"	ar	=	"	تجانُس 	"	/>
+<dict	en	=	"	Homogeneous	"	fr	=	"	Homogène	"	ar	=	"	مُتَجانِس 	"	/>
+<dict	en	=	"	Homologous sides	"	fr	=	"	Côtés homologues	"	ar	=	"	أضلاع متناظرة	"	/>
+<dict	en	=	"	Homomorphic	"	fr	=	"	Homomorphisme	"	ar	=	"	متماثل الشكل ( مع اختلاف التكوين)	"	/>
+<dict	en	=	"	Homothetic	"	fr	=	"	Homothétique	"	ar	=	"	متحاكي / متماثل الوضع	"	/>
+<dict	en	=	"	Homothety	"	fr	=	"	Homothétie	"	ar	=	"	تحاكي / تماثل	"	/>
+<dict	en	=	"	Horizontal 	"	fr	=	"	Horizontal	"	ar	=	"	أفقي	"	/>
+<dict	en	=	"	Hybercyloid	"	fr	=	"	Hyperboloïde	"	ar	=	"	مجسم زايدي	"	/>
+<dict	en	=	"	Hyper surface	"	fr	=	"	Hypersurface	"	ar	=	"	سطح زائدي فوقي	"	/>
+<dict	en	=	"	Hyperbola                             	"	fr	=	"	Hyperbole	"	ar	=	"	قطع زائد	"	/>
+<dict	en	=	"	Hyperbolic	"	fr	=	"	Hyperbolique	"	ar	=	"	زائدي المقطع	"	/>
+<dict	en	=	"	Hypergeometry 	"	fr	=	"	Hypergéométrie	"	ar	=	"	هندسة فوقية	"	/>
+<dict	en	=	"	Hyperplane	"	fr	=	"	Hyperplan	"	ar	=	"	مستو زائدي فوقي	"	/>
+<dict	en	=	"	Hypocycloid 	"	fr	=	"	Hypocycloïde	"	ar	=	"	دويري تحتي	"	/>
+<dict	en	=	"	Hypotenuse 	"	fr	=	"	Hypoténuse	"	ar	=	"	وتر المثلث القائم الزاوية	"	/>
+<dict	en	=	"	Hypothesis	"	fr	=	"	Hypothèse	"	ar	=	"	فرضية	"	/>
+<dict	en	=	"	Hypotrochoid 	"	fr	=	"	Hypotrochoïde	"	ar	=	"	عجلي تحتي	"	/>
+<dict	en	=	"	Icosahedron	"	fr	=	"	Icosaèdre	"	ar	=	"	مجسم منتظم ذو عشرين وجها	"	/>
+<dict	en	=	"	Icositetrahedron 	"	fr	=	"	Icositétraèdre	"	ar	=	"	مجسم ذو أربعة وعشرين وجها	"	/>
+<dict	en	=	"	Ideal 	"	fr	=	"	Idéal	"	ar	=	"	مثالي 	"	/>
+<dict	en	=	"	Ideal* Maximal ideal	"	fr	=	"	Idéal maximal	"	ar	=	"	مثالي أعظمي	"	/>
+<dict	en	=	"	Ideal* Sided ideal	"	fr	=	"	Idéal bilatère	"	ar	=	"	مثالي ثنائي الجانب 	"	/>
+<dict	en	=	"	Identical	"	fr	=	"	Identique	"	ar	=	"	متطابق	"	/>
+<dict	en	=	"	Identity	"	fr	=	"	Identité	"	ar	=	"	متطابقة 	"	/>
+<dict	en	=	"	Identity element	"	fr	=	"	Élément unité	"	ar	=	"	عنصر حيادي	"	/>
+<dict	en	=	"	Identity* Remarkable identities	"	fr	=	"	Identités remarquables	"	ar	=	"	متطابقات شهيرة 	"	/>
+<dict	en	=	"	Illustration	"	fr	=	"	Illustration	"	ar	=	"	توضيح / إيضاح	"	/>
+<dict	en	=	"	Image	"	fr	=	"	Image	"	ar	=	"	صورة	"	/>
+<dict	en	=	"	Image* Direct image	"	fr	=	"	Imagedirecte	"	ar	=	"	صورة مباشرة 	"	/>
+<dict	en	=	"	Image* Inverse image	"	fr	=	"	Image réciproque	"	ar	=	"	صورة عكسية	"	/>
+<dict	en	=	"	Imaginary	"	fr	=	"	Imaginaire	"	ar	=	"	تخيلي 	"	/>
+<dict	en	=	"	Imaginary* Pure imaginary	"	fr	=	"	Imaginaire pur	"	ar	=	"	تخيلي بحت أو صرف	"	/>
+<dict	en	=	"	Immersion 	"	fr	=	"	Immersion 	"	ar	=	"	غمور / غمس 	"	/>
+<dict	en	=	"	Implication	"	fr	=	"	Implication 	"	ar	=	"	إستلزام	"	/>
+<dict	en	=	"	Implication* Inverse implication	"	fr	=	"	Implication réciproque	"	ar	=	"	إستلزام عكسي	"	/>
+<dict	en	=	"	Implication* Logic implication	"	fr	=	"	Implication logique	"	ar	=	"	إستلزام منطقي	"	/>
+<dict	en	=	"	Implicit  	"	fr	=	"	Implicite  	"	ar	=	"	ضمني 	"	/>
+<dict	en	=	"	Imply	"	fr	=	"	Impliquer  	"	ar	=	"	يستلزم / يؤدي إلى	"	/>
+<dict	en	=	"	Impossible  	"	fr	=	"	Impossible	"	ar	=	"	مستحيل 	"	/>
+<dict	en	=	"	Improper	"	fr	=	"	Impropre 	"	ar	=	"	غير ملائم / موسَّع	"	/>
+<dict	en	=	"	Incertitude	"	fr	=	"	Incertitude	"	ar	=	"	إرتياب	"	/>
+<dict	en	=	"	Inclined 	"	fr	=	"	Incliné	"	ar	=	"	مائل	"	/>
+<dict	en	=	"	Included	"	fr	=	"	Inclus 	"	ar	=	"	محتوى	"	/>
+<dict	en	=	"	Inclusion	"	fr	=	"	Inclusion    	"	ar	=	"	إحتواء	"	/>
+<dict	en	=	"	Incompatibility	"	fr	=	"	Incompatibilité	"	ar	=	"	عدم الإنسجام / تنافي	"	/>
+<dict	en	=	"	Incompatible	"	fr	=	"	Incompatible	"	ar	=	"	غيرمنسجم / متنافي	"	/>
+<dict	en	=	"	Incorrect 	"	fr	=	"	Inexact   	"	ar	=	"	غير صحيح	"	/>
+<dict	en	=	"	Increase	"	fr	=	"	Accroissement	"	ar	=	"	تزايد	"	/>
+<dict	en	=	"	Increasing	"	fr	=	"	Croissant (e)	"	ar	=	"	مُتَزايد (ة)	"	/>
+<dict	en	=	"	Indecidable 	"	fr	=	"	Indécidable	"	ar	=	"	غير قابل للبت	"	/>
+<dict	en	=	"	Indefinite	"	fr	=	"	Indéfini (e)	"	ar	=	"	غير معرف (ة) / غير محدد (ة)	"	/>
+<dict	en	=	"	Indefinite integral 	"	fr	=	"	Intégral indéfini  	"	ar	=	"	تكامل غير محدود	"	/>
+<dict	en	=	"	Independance	"	fr	=	"	Indépendance	"	ar	=	"	إستقلال	"	/>
+<dict	en	=	"	Independence* Linear independance                                   	"	fr	=	"	Indépendance linéaire	"	ar	=	"	استقلال خطي	"	/>
+<dict	en	=	"	Independence* Multual independance	"	fr	=	"	Indépendance mutuelle	"	ar	=	"	استقلال تبادلي	"	/>
+<dict	en	=	"	Independent	"	fr	=	"	Indépendant  	"	ar	=	"	مستقل 	"	/>
+<dict	en	=	"	Indetermination	"	fr	=	"	Indétermination	"	ar	=	"	عدم تعيين	"	/>
+<dict	en	=	"	Index	"	fr	=	"	Indice	"	ar	=	"	دليل	"	/>
+<dict	en	=	"	Indexed 	"	fr	=	"	Indexé  	"	ar	=	"	مفهرس	"	/>
+<dict	en	=	"	Indicator	"	fr	=	"	Indicateur	"	ar	=	"	مؤشر	"	/>
+<dict	en	=	"	Indicator of dispersion	"	fr	=	"	Indicateur de dispersion	"	ar	=	"	مؤشرالتشتّت	"	/>
+<dict	en	=	"	Indicator* Position indicator	"	fr	=	"	Indicateur de position	"	ar	=	"	مؤشر الموضع	"	/>
+<dict	en	=	"	Indirect 	"	fr	=	"	Indirect	"	ar	=	"	غير مباشر	"	/>
+<dict	en	=	"	Individual 	"	fr	=	"	Individu	"	ar	=	"	فرد / فردي	"	/>
+<dict	en	=	"	Indivisible 	"	fr	=	"	Indivisible	"	ar	=	"	غير قابل للقسمة	"	/>
+<dict	en	=	"	Induce	"	fr	=	"	Induire	"	ar	=	"	حثّ / حرّض	"	/>
+<dict	en	=	"	Inductance 	"	fr	=	"	Inductance	"	ar	=	"	معامل الحث / محاثة / تأثيرية	"	/>
+<dict	en	=	"	Inductif 	"	fr	=	"	Inductif	"	ar	=	"	استقرائي / حثي	"	/>
+<dict	en	=	"	Induction	"	fr	=	"	Induction	"	ar	=	"	إستقراء / إستنتاج	"	/>
+<dict	en	=	"	Inequal 	"	fr	=	"	Inégal  	"	ar	=	"	غير متساو	"	/>
+<dict	en	=	"	Inequality	"	fr	=	"	Inégalité	"	ar	=	"	مُتراجحة / متباينة	"	/>
+<dict	en	=	"	Inequality of continuity	"	fr	=	"	Inégalité de continuité	"	ar	=	"	متراجحة الاستمرارية 	"	/>
+<dict	en	=	"	Inequality* Isoperimetric inequality 	"	fr	=	"	Inégalité isopérimétrique	"	ar	=	"	متباينة محيطية	"	/>
+<dict	en	=	"	Inequality* Triangular  inequality	"	fr	=	"	Inégalité triangulaire	"	ar	=	"	متباينة مثلثية	"	/>
+<dict	en	=	"	Inertia 	"	fr	=	"	Inertie	"	ar	=	"	عطالة /  قصور ذاتي	"	/>
+<dict	en	=	"	Inference	"	fr	=	"	Inférence	"	ar	=	"	إستدلال / إستنتاج	"	/>
+<dict	en	=	"	Infinite	"	fr	=	"	Infini (e)	"	ar	=	"	غيرمُنته / غير محدود / لا متناه	"	/>
+<dict	en	=	"	Infinite set	"	fr	=	"	Ensemble infinie	"	ar	=	"	مجموعة غيرمنتهية	"	/>
+<dict	en	=	"	Infinitely 	"	fr	=	"	Infiniment	"	ar	=	"	على نحو لا متناه	"	/>
+<dict	en	=	"	Infinitesimal	"	fr	=	"	Infinitésimal	"	ar	=	"	متناهي الصغر	"	/>
+<dict	en	=	"	Infinity	"	fr	=	"	Infinité  	"	ar	=	"	لا نهاية	"	/>
+<dict	en	=	"	Inflation                               	"	fr	=	"	Inflation	"	ar	=	"	تضخم / تمدد	"	/>
+<dict	en	=	"	Inflexion  / Inflection	"	fr	=	"	Inflexion	"	ar	=	"	إنعطاف / إنقلاب	"	/>
+<dict	en	=	"	Inflexion point 	"	fr	=	"	Point d’inflexion	"	ar	=	"	نقطة إنعطاف	"	/>
+<dict	en	=	"	Infographics	"	fr	=	"	Infographie	"	ar	=	"	الرسم الحاسوبي ( الحاسوب)	"	/>
+<dict	en	=	"	Initial                                   	"	fr	=	"	Initial 	"	ar	=	"	إبتدائي / أولي	"	/>
+<dict	en	=	"	Initial point	"	fr	=	"	Point initial	"	ar	=	"	نقطة البدء	"	/>
+<dict	en	=	"	Injection	"	fr	=	"	Injection	"	ar	=	"	تباين	"	/>
+<dict	en	=	"	Injective	"	fr	=	"	Injectif  / Injective	"	ar	=	"	مُتَبايِن  	"	/>
+<dict	en	=	"	Inscribed	"	fr	=	"	Inscrit	"	ar	=	"	محاط / مرسوم داخل شكل	"	/>
+<dict	en	=	"	Inscribed angle	"	fr	=	"	Angle inscrit	"	ar	=	"	زاوية محوطة	"	/>
+<dict	en	=	"	Insertion 	"	fr	=	"	Insertion 	"	ar	=	"	ادراج	"	/>
+<dict	en	=	"	Inside	"	fr	=	"	Intérieur	"	ar	=	"	داخل	"	/>
+<dict	en	=	"	Instantaneous 	"	fr	=	"	Instantané	"	ar	=	"	فوري / آني	"	/>
+<dict	en	=	"	Insufficient	"	fr	=	"	Insuffisant  	"	ar	=	"	غير كافي	"	/>
+<dict	en	=	"	Insulating	"	fr	=	"	Isolant	"	ar	=	"	عازل	"	/>
+<dict	en	=	"	Integer	"	fr	=	"	Entier	"	ar	=	"	صحيح	"	/>
+<dict	en	=	"	Integer* Integer number	"	fr	=	"	Nombre entier 	"	ar	=	"	عددصحيح	"	/>
+<dict	en	=	"	Integrable	"	fr	=	"	Intégrable	"	ar	=	"	مُتكامَل / قابل للمكاملة	"	/>
+<dict	en	=	"	Integrable* Locally integrable	"	fr	=	"	Localement intégrable	"	ar	=	"	مُتكامَل محليًا	"	/>
+<dict	en	=	"	Integral	"	fr	=	"	Intégrale	"	ar	=	"	تكامُل	"	/>
+<dict	en	=	"	Integral* Definite integral	"	fr	=	"	Intégrale défini	"	ar	=	"	تكامل محدود	"	/>
+<dict	en	=	"	Integral* Improper integral	"	fr	=	"	Intégrale impropre	"	ar	=	"	تكامل معتل	"	/>
+<dict	en	=	"	Integral* Indefinite integral	"	fr	=	"	Intégrale indéfini	"	ar	=	"	تكامل غير محدود	"	/>
+<dict	en	=	"	Integral* Line integral 	"	fr	=	"	Ligne intégrale	"	ar	=	"	تكامل خطي 	"	/>
+<dict	en	=	"	Integral* Multiple integral	"	fr	=	"	Intégrale multiple	"	ar	=	"	تكامل متعدد	"	/>
+<dict	en	=	"	Integral* Surface integral	"	fr	=	"	Intégrales de surface	"	ar	=	"	تكامل سطحي	"	/>
+<dict	en	=	"	Integrand	"	fr	=	"	Intégrant	"	ar	=	"	مكامل / تكاملية	"	/>
+<dict	en	=	"	Integrate	"	fr	=	"	Intégrer  	"	ar	=	"	دمج / كامل	"	/>
+<dict	en	=	"	Integrated	"	fr	=	"	Intégré	"	ar	=	"	تام / متكامل	"	/>
+<dict	en	=	"	Integration	"	fr	=	"	Intégration	"	ar	=	"	مُكامَلة / تكاملية / تكامل	"	/>
+<dict	en	=	"	Integration by parts	"	fr	=	"	Intégration par partie	"	ar	=	"	مُكاملة بالتجزئة / تكامل بالتجزئة     	"	/>
+<dict	en	=	"	Integration by substitution	"	fr	=	"	Intégration par substitution	"	ar	=	"	تكامل بالتعويض	"	/>
+<dict	en	=	"	Intensity	"	fr	=	"	Intensité	"	ar	=	"	شدة	"	/>
+<dict	en	=	"	Interdecile	"	fr	=	"	Inter décile	"	ar	=	"	الانحراف العشري	"	/>
+<dict	en	=	"	Interference	"	fr	=	"	Interférence	"	ar	=	"	تداخل	"	/>
+<dict	en	=	"	Internal	"	fr	=	"	Interne  	"	ar	=	"	داخلي 	"	/>
+<dict	en	=	"	Interpolation	"	fr	=	"	Interpolation	"	ar	=	"	إستقطاب / استكمال	"	/>
+<dict	en	=	"	Interpretation	"	fr	=	"	Interprétation	"	ar	=	"	تمثيل	"	/>
+<dict	en	=	"	Interpretation* Graphic interpretation	"	fr	=	"	Interprétation graphique	"	ar	=	"	تمثيل بياني	"	/>
+<dict	en	=	"	Interquartile	"	fr	=	"	Interquartile	"	ar	=	"	بين رُبْعَيْن	"	/>
+<dict	en	=	"	Interquartile range	"	fr	=	"	Écart interquartile	"	ar	=	"	إنحراف ربيعي	"	/>
+<dict	en	=	"	Intersection	"	fr	=	"	Intersection	"	ar	=	"	تقاطع	"	/>
+<dict	en	=	"	Interval	"	fr	=	"	Intervalle	"	ar	=	"	مجال	"	/>
+<dict	en	=	"	Interval* Field distraction interval      	"	fr	=	"	Intervalle de dispersion / Intervalle de de prévision	"	ar	=	"	مجال التشتت	"	/>
+<dict	en	=	"	Interval* Trust interval	"	fr	=	"	Intervalle de confiance	"	ar	=	"	مجال الثقة 	"	/>
+<dict	en	=	"	Intrinsic equation 	"	fr	=	"	Équation intrinsèque	"	ar	=	"	معادلة أصيلة	"	/>
+<dict	en	=	"	Invariable / Invariant 	"	fr	=	"	Invariable/ Invariant	"	ar	=	"	صامد / لا متغير	"	/>
+<dict	en	=	"	Invariance	"	fr	=	"	Invariance  	"	ar	=	"	صمود / ثبات	"	/>
+<dict	en	=	"	Invariance symmetry 	"	fr	=	"	Invariance par symétrie	"	ar	=	"	ثبات التماثل	"	/>
+<dict	en	=	"	Invariant point by point	"	fr	=	"	Invariante point par point	"	ar	=	"	صامدة  نقطة بنقطة	"	/>
+<dict	en	=	"	Inventory	"	fr	=	"	Inventaire	"	ar	=	"	إحصاء / جرد	"	/>
+<dict	en	=	"	Inverse	"	fr	=	"	Inverse	"	ar	=	"	مُعاكِس / مقلوب / نظير	"	/>
+<dict	en	=	"	Inverse function	"	fr	=	"	Fonction inverse	"	ar	=	"	دالّة عكسية	"	/>
+<dict	en	=	"	Inversion 	"	fr	=	"	Inversion 	"	ar	=	"	تعاكس 	"	/>
+<dict	en	=	"	Invertible                             	"	fr	=	"	Inversible	"	ar	=	"	قابل للقلب	"	/>
+<dict	en	=	"	Involution	"	fr	=	"	Involution	"	ar	=	"	ترقية / رفع كمية إلى قوة ما	"	/>
+<dict	en	=	"	Irrational	"	fr	=	"	Irrationnel	"	ar	=	"	غيرناطق / أصم / غير نسبي	"	/>
+<dict	en	=	"	Irreducible	"	fr	=	"	Irréductible 	"	ar	=	"	غير قابل للاختصار / غير قابل  للإختزال	"	/>
+<dict	en	=	"	Irregular	"	fr	=	"	Irrégulier   	"	ar	=	"	غير منتظم	"	/>
+<dict	en	=	"	Isobarycentre	"	fr	=	"	Isobarycentre	"	ar	=	"	المرجح المتوسط / المرجح المتساوي الثقل	"	/>
+<dict	en	=	"	Isocline	"	fr	=	"	Isocline	"	ar	=	"	متساوي الميل	"	/>
+<dict	en	=	"	Isolated	"	fr	=	"	Isolé	"	ar	=	"	معزول 	"	/>
+<dict	en	=	"	Isometric	"	fr	=	"	Isométrique	"	ar	=	"	متساوي القياس	"	/>
+<dict	en	=	"	Isometry                                	"	fr	=	"	Isométrie	"	ar	=	"	تساوي قياس	"	/>
+<dict	en	=	"	Isomorphic 	"	fr	=	"	Homomorphe / Isomorphe 	"	ar	=	"	متشاكل / متشاكل تقابليا	"	/>
+<dict	en	=	"	Isomorphism                        	"	fr	=	"	Isomorphisme 	"	ar	=	"	تشاكل تقابلي 	"	/>
+<dict	en	=	"	Isosceles	"	fr	=	"	Isocèle	"	ar	=	"	متساوي الساقين 	"	/>
+<dict	en	=	"	Isotropic	"	fr	=	"	Isotrope	"	ar	=	"	موحد الخواص 	"	/>
+<dict	en	=	"	Isotropy	"	fr	=	"	Isotropie	"	ar	=	"	توحُد الخواص / التناحي	"	/>
+<dict	en	=	"	Iteration 	"	fr	=	"	Itération	"	ar	=	"	تكرار	"	/>
+<dict	en	=	"	Iteration* Cumulative effective iteration	"	fr	=	"	Effectif cumulé	"	ar	=	"	تكرار متجمع	"	/>
+<dict	en	=	"	Iteration* Decreasing actual aggregated iteration	"	fr	=	"	Effectifs cumulés décroissants	"	ar	=	"	تكرار متجمع نازل	"	/>
+<dict	en	=	"	Iteration* Increasing actual aggregated iteration	"	fr	=	"	Effectif  cumulés croissants	"	ar	=	"	تكرار متجمع صاعد	"	/>
+<dict	en	=	"	Iteration* Total workforce	"	fr	=	"	Effectif total	"	ar	=	"	تكرار كلي	"	/>
+<dict	en	=	"	Joint	"	fr	=	"	Conjoint	"	ar	=	"	مشترك	"	/>
+<dict	en	=	"	Junction	"	fr	=	"	Jonction	"	ar	=	"	ملتقى / ربط / إتصال	"	/>
+<dict	en	=	"	Karat 	"	fr	=	"	Carat 	"	ar	=	"	قيراط (وهو خمس الغرام)	"	/>
+<dict	en	=	"	Kernel	"	fr	=	"	Noyau	"	ar	=	"	نواة	"	/>
+<dict	en	=	"	Kinetics	"	fr	=	"	Cinématique	"	ar	=	"	الحركية / علم الحركة	"	/>
+<dict	en	=	"	Law	"	fr	=	"	Loi	"	ar	=	"	قانون 	"	/>
+<dict	en	=	"	Law of large numbers 	"	fr	=	"	Loi des grands nombres	"	ar	=	"	قانون الأعداد الكبيرة	"	/>
+<dict	en	=	"	Law* Binomial law	"	fr	=	"	Loi binomiale	"	ar	=	"	قانون ثنائي الحدين	"	/>
+<dict	en	=	"	Law* Exponential law	"	fr	=	"	Loi exponentielle	"	ar	=	"	قانون أسي / قانون القوى	"	/>
+<dict	en	=	"	Law* External composition law	"	fr	=	"	Loi de composition externe	"	ar	=	"	قانون التركيب الخارجي	"	/>
+<dict	en	=	"	Law* Geometric law     	"	fr	=	"	Loi géométrique	"	ar	=	"	توزيع هندسي	"	/>
+<dict	en	=	"	Law* Hypergeometric law	"	fr	=	"	Loi hypergéométrique	"	ar	=	"	قانون فوق هندسي  /زائد هندسي 	"	/>
+<dict	en	=	"	Law* Internal composition law	"	fr	=	"	Loi de composition interne	"	ar	=	"	قانون تركيب  داخلي	"	/>
+<dict	en	=	"	Law* Marginal law	"	fr	=	"	Loi marginale	"	ar	=	"	قانون هامشي	"	/>
+<dict	en	=	"	Law* Natural law	"	fr	=	"	Loi normale / Loi naturel	"	ar	=	"	قانون طبيعي	"	/>
+<dict	en	=	"	Law* Probability law	"	fr	=	"	Loi de probabilités	"	ar	=	"	قانون احتمال	"	/>
+<dict	en	=	"	Law* Uniform distribution law	"	fr	=	"	Loi de distribution uniforme	"	ar	=	"	قانون التوزيع المنتظم	"	/>
+<dict	en	=	"	Left 	"	fr	=	"	Gauche    	"	ar	=	"	يسار	"	/>
+<dict	en	=	"	Lemma	"	fr	=	"	Lemme	"	ar	=	"	تَوْطِئة /  فرضية مساعدة	"	/>
+<dict	en	=	"	Lemniscate 	"	fr	=	"	Lemniscate 	"	ar	=	"	منحنى ذو عروتين	"	/>
+<dict	en	=	"	Length                             	"	fr	=	"	Longueur	"	ar	=	"	طول	"	/>
+<dict	en	=	"	Less than 	"	fr	=	"	Plus petit que 	"	ar	=	"	أصغر من 	"	/>
+<dict	en	=	"	Level	"	fr	=	"	Niveau  	"	ar	=	"	مستوى	"	/>
+<dict	en	=	"	Likelihood	"	fr	=	"	Vraisemblance	"	ar	=	"	محتمل / ممكن / ترجيح  	"	/>
+<dict	en	=	"	Likely	"	fr	=	"	Probable	"	ar	=	"	محتمل / على الأرجح 	"	/>
+<dict	en	=	"	Limit	"	fr	=	"	Limite	"	ar	=	"	نهاية / حد	"	/>
+<dict	en	=	"	Limit* Series limit	"	fr	=	"	Limite d’une série	"	ar	=	"	نهاية سِلْسِلة	"	/>
+<dict	en	=	"	Line	"	fr	=	"	Ligne	"	ar	=	"	خط	"	/>
+<dict	en	=	"	Line of curvature	"	fr	=	"	Ligne de courbure	"	ar	=	"	خط انحناء 	"	/>
+<dict	en	=	"	Line* Asymptoticline	"	fr	=	"	Ligne asymptotique	"	ar	=	"	خط مقارب	"	/>
+<dict	en	=	"	Line* Dotted line	"	fr	=	"	Ligne en pointillés	"	ar	=	"	خط منقط /خط متقطع	"	/>
+<dict	en	=	"	Line* Feature line	"	fr	=	"	Ligne caractéristique	"	ar	=	"	خط مميز	"	/>
+<dict	en	=	"	Line* Reflectionline	"	fr	=	"	Ligne de réflexion	"	ar	=	"	خط انعكاسي	"	/>
+<dict	en	=	"	Linear	"	fr	=	"	Linéaire	"	ar	=	"	خطيّ (ة)	"	/>
+<dict	en	=	"	Linear combination	"	fr	=	"	Combinaison linéaire      	"	ar	=	"	توافقية خطية	"	/>
+<dict	en	=	"	Linear function	"	fr	=	"	Fonction linéaire    	"	ar	=	"	دالة خطّية	"	/>
+<dict	en	=	"	Linear operator	"	fr	=	"	Operateur linéaire	"	ar	=	"	مُؤثر خطّي	"	/>
+<dict	en	=	"	Linear transformation	"	fr	=	"	Transformation linéaire	"	ar	=	"	تحويل خطّي	"	/>
+<dict	en	=	"	Linear* Almost linear	"	fr	=	"	Quasi linéaire	"	ar	=	"	شبه خطي 	"	/>
+<dict	en	=	"	Linearisation	"	fr	=	"	Linéarisation  	"	ar	=	"	الخطية / خطخطة / إخطاط	"	/>
+<dict	en	=	"	Linearity	"	fr	=	"	Linéarité	"	ar	=	"	خطي / إستقامية	"	/>
+<dict	en	=	"	Linearly	"	fr	=	"	Linéairement	"	ar	=	"	خطيا	"	/>
+<dict	en	=	"	Link	"	fr	=	"	Lier	"	ar	=	"	يَرْتَبِطُ	"	/>
+<dict	en	=	"	Listing / List 	"	fr	=	"	Liste	"	ar	=	"	قائمة	"	/>
+<dict	en	=	"	Local	"	fr	=	"	Locale	"	ar	=	"	محلي / موضعي	"	/>
+<dict	en	=	"	Locally 	"	fr	=	"	Localement	"	ar	=	"	محليا	"	/>
+<dict	en	=	"	Location	"	fr	=	"	Localisation 	"	ar	=	"	محلية / موضعية / موقع	"	/>
+<dict	en	=	"	Locus	"	fr	=	"	Lieux géométrique 	"	ar	=	"	محل هندسي 	"	/>
+<dict	en	=	"	Logarithm	"	fr	=	"	Logarithme 	"	ar	=	"	لوغاريتم / خوارزمي	"	/>
+<dict	en	=	"	Logarithm* Decimal logarithm	"	fr	=	"	Logarithme décimal (log)	"	ar	=	"	لوغاريتم العشري	"	/>
+<dict	en	=	"	Logarithm* Neperian logarithm (natural)	"	fr	=	"	Logarithme népérien (ln)	"	ar	=	"	لوغاريتم النيبري 	"	/>
+<dict	en	=	"	Logarithmic	"	fr	=	"	Logarithmique  	"	ar	=	"	لوغاريتمية / خوارزمية	"	/>
+<dict	en	=	"	Logic	"	fr	=	"	Logique        	"	ar	=	"	منطق 	"	/>
+<dict	en	=	"	Logically	"	fr	=	"	Logiquement        	"	ar	=	"	منطقيا	"	/>
+<dict	en	=	"	Long division 	"	fr	=	"	Division longue	"	ar	=	"	قسمة طويلة	"	/>
+<dict	en	=	"	Longitude	"	fr	=	"	Longitude	"	ar	=	"	خط الطول	"	/>
+<dict	en	=	"	Loop 	"	fr	=	"	Boucle	"	ar	=	"	التواء / حلقة	"	/>
+<dict	en	=	"	Lower / Smaller than ---	"	fr	=	"	Inférieur à ----	"	ar	=	"	أصغر من ----	"	/>
+<dict	en	=	"	Lowering	"	fr	=	"	Abaissement	"	ar	=	"	خفض	"	/>
+<dict	en	=	"	Lowest commun multiple (LCM)	"	fr	=	"	Plus Petit Commun Multiple	"	ar	=	"	مضاعف مشترك أصغر	"	/>
+<dict	en	=	"	Lozenge                                	"	fr	=	"	Losange	"	ar	=	"	مُعيّن / قرص معين الشكل	"	/>
+<dict	en	=	"	Mantisse (a)	"	fr	=	"	Mantisse	"	ar	=	"	الجزء العشري ( ---- للوغاريتم عدد)	"	/>
+<dict	en	=	"	Margin	"	fr	=	"	Marge  	"	ar	=	"	هامش 	"	/>
+<dict	en	=	"	Marginal	"	fr	=	"	Marginal	"	ar	=	"	هامشي	"	/>
+<dict	en	=	"	Markdown	"	fr	=	"	Minoration / réduction	"	ar	=	"	تخفيض	"	/>
+<dict	en	=	"	Mass	"	fr	=	"	Masse	"	ar	=	"	كتلة	"	/>
+<dict	en	=	"	Mathematician	"	fr	=	"	Mathématicien	"	ar	=	"	رياضياتي	"	/>
+<dict	en	=	"	Mathematics	"	fr	=	"	Mathématiques	"	ar	=	"	رياضيات 	"	/>
+<dict	en	=	"	Mathematics* Fractal mathematics	"	fr	=	"	Mathématiques fractales	"	ar	=	"	الرياضيات الكسيرية  / الرياضيات الكسورية	"	/>
+<dict	en	=	"	Mathematisation	"	fr	=	"	Mathématisation	"	ar	=	"	ترييض / روضنة	"	/>
+<dict	en	=	"	Matrix	"	fr	=	"	Matrice 	"	ar	=	"	مَصْفُوفة  	"	/>
+<dict	en	=	"	Matrix product	"	fr	=	"	Produit matriciel	"	ar	=	"	جداء مصفوفي	"	/>
+<dict	en	=	"	Matrix switch	"	fr	=	"	Matrice de passage	"	ar	=	"	مصفوفة العبور	"	/>
+<dict	en	=	"	Matrix* Adjugate matrix	"	fr	=	"	Comatrice	"	ar	=	"	مصفوفة مصاحبة	"	/>
+<dict	en	=	"	Matrix* Associate matrix	"	fr	=	"	Matrice associé	"	ar	=	"	مصفوفة مرفقة	"	/>
+<dict	en	=	"	Matrix* Connection matrix	"	fr	=	"	Matrice de connexion	"	ar	=	"	مصفوفة اتصال	"	/>
+<dict	en	=	"	Matrix* Diagonal matrix	"	fr	=	"	Matrice diagonale.	"	ar	=	"	مصفوفة قطرية	"	/>
+<dict	en	=	"	Matrix* Diagonalizable matrix	"	fr	=	"	Matrice diagonalisable	"	ar	=	"	مصفوفة قطورة 	"	/>
+<dict	en	=	"	Matrix* Full matrix	"	fr	=	"	Matrice pleine	"	ar	=	"	مصفوفة ممتلئة	"	/>
+<dict	en	=	"	Matrix* Identity matrix	"	fr	=	"	Matrice identité	"	ar	=	"	مصفوفة حيادية	"	/>
+<dict	en	=	"	Matrix* Inverse matrix	"	fr	=	"	Matrice inverse	"	ar	=	"	معكوس مصفوفة	"	/>
+<dict	en	=	"	Matrix* Nilpotent matrix	"	fr	=	"	Matrice nilpotente	"	ar	=	"	مصفوفة معدومة القوى 	"	/>
+<dict	en	=	"	Matrix* Null matrix	"	fr	=	"	Matrice nulle	"	ar	=	"	مصفوفة صفرية / مصفوفة معدومة	"	/>
+<dict	en	=	"	Matrix* Passage matrix     	"	fr	=	"	Matrice de passage	"	ar	=	"	مصفوفة المرور / مصفوفة العبور	"	/>
+<dict	en	=	"	Matrix* Positive definite matrix	"	fr	=	"	Matrice définie positive	"	ar	=	"	مصفوفة معرفة موجبة	"	/>
+<dict	en	=	"	Matrix* Positive semi-definite matrix	"	fr	=	"	Matrice semi-définie positive	"	ar	=	"	مصفوفة نصف موجبة	"	/>
+<dict	en	=	"	Matrix* Row echelon formmatrix	"	fr	=	"	Matrice échelonnée	"	ar	=	"	مصفوفة مدرجة 	"	/>
+<dict	en	=	"	Matrix* Similar matrices	"	fr	=	"	Matrices semblables	"	ar	=	"	مصفوفات متشابهة	"	/>
+<dict	en	=	"	Matrix* Square matrix	"	fr	=	"	Matrice carrée	"	ar	=	"	مصفوفة مربعة	"	/>
+<dict	en	=	"	Matrix* Stiffness matrix	"	fr	=	"	Matrice de rigidité	"	ar	=	"	تصلب مصفوفة	"	/>
+<dict	en	=	"	Matrix* Symmetric matrix	"	fr	=	"	Matrice symétrique	"	ar	=	"	مصفوفة متناظرة / مصفوفة متماثلة	"	/>
+<dict	en	=	"	Matrix* Symplectic matrix	"	fr	=	"	Matrice symplectique	"	ar	=	"	مصفوفة الربط / مصفوفة متماسكة 	"	/>
+<dict	en	=	"	Matrix* Transpose of a matrix	"	fr	=	"	Matrice transposée	"	ar	=	"	منقول مصفوفة  	"	/>
+<dict	en	=	"	Matrix* Triangular matrix	"	fr	=	"	Matrice triangulaire 	"	ar	=	"	مصفوفة مثلثية 	"	/>
+<dict	en	=	"	Matrix* Variance matrix	"	fr	=	"	Matrice de variance	"	ar	=	"	مصفوفة تباين	"	/>
+<dict	en	=	"	Maximal 	"	fr	=	"	Maximal 	"	ar	=	"	أعلى / أكبر / أعظمي	"	/>
+<dict	en	=	"	Maximization	"	fr	=	"	Maximisation	"	ar	=	"	تكبير	"	/>
+<dict	en	=	"	Maximum	"	fr	=	"	Maximum	"	ar	=	"	حد أعلى	"	/>
+<dict	en	=	"	Maximum* Global maximum	"	fr	=	"	Maximum global	"	ar	=	"	حد أعلى عام	"	/>
+<dict	en	=	"	Maximum* Local maximum	"	fr	=	"	Maximum local	"	ar	=	"	حد أعلى مَوْضِعي / حد أعلى محلي	"	/>
+<dict	en	=	"	Mean / Average                       	"	fr	=	"	Moyenne	"	ar	=	"	متوسط / معدل	"	/>
+<dict	en	=	"	Mean / Average* Arithmetic mean / Arithmetic average	"	fr	=	"	Moyenne arithmétique	"	ar	=	"	متوسط حسابي	"	/>
+<dict	en	=	"	Mean / Average* Harmonic average	"	fr	=	"	Moyenne harmonique	"	ar	=	"	متوسط توافقي	"	/>
+<dict	en	=	"	Mean / Average* Moving average	"	fr	=	"	Moyenne glissante	"	ar	=	"	متوسط المتحرك / متوسط منزلق	"	/>
+<dict	en	=	"	Mean / Average* Quadratic average	"	fr	=	"	Moyenne quadratique	"	ar	=	"	متوسط تربيعي	"	/>
+<dict	en	=	"	Mean / Average* Simple average	"	fr	=	"	Moyenne simple	"	ar	=	"	متوسط بسيط	"	/>
+<dict	en	=	"	Mean / Average* Square average	"	fr	=	"	Moyenne quadratique	"	ar	=	"	متوسطي تربيعي / معدل تربيعي	"	/>
+<dict	en	=	"	Mean / Average* Weighted average	"	fr	=	"	Moyenne pondérée	"	ar	=	"	متوسط متزن	"	/>
+<dict	en	=	"	Mean/ Average* Truncated mean	"	fr	=	"	Moyenne tronquée	"	ar	=	"	متوسط المقتطع / متوسط مختصر	"	/>
+<dict	en	=	"	Measurability 	"	fr	=	"	Mesurabilité	"	ar	=	"	قابلية القياس / مقياسية	"	/>
+<dict	en	=	"	Measurable 	"	fr	=	"	Mesurable	"	ar	=	"	قابل للقياس / مقيس	"	/>
+<dict	en	=	"	Measurable function	"	fr	=	"	Fonction mesurable	"	ar	=	"	دالّة قابلة للقياس	"	/>
+<dict	en	=	"	Measurable set	"	fr	=	"	Ensemble mesurable	"	ar	=	"	مجموعة قابلة للقياس	"	/>
+<dict	en	=	"	Measurable space	"	fr	=	"	Espace mesurable	"	ar	=	"	فضاء قابل للقياس	"	/>
+<dict	en	=	"	Measure	"	fr	=	"	Mesure	"	ar	=	"	قياسر/ حجم / سعة	"	/>
+<dict	en	=	"	Measure of dispersion	"	fr	=	"	Mesure de dispersion 	"	ar	=	"	قياس التشتت	"	/>
+<dict	en	=	"	Measure* Foreign measure	"	fr	=	"	Mesure étrangère	"	ar	=	"	قياس خارجي	"	/>
+<dict	en	=	"	Measure* Probability measure  	"	fr	=	"	Mesure de probabilité	"	ar	=	"	قياس احتمال	"	/>
+<dict	en	=	"	Measured	"	fr	=	"	Mesuré	"	ar	=	"	متناسب / موزون	"	/>
+<dict	en	=	"	Median	"	fr	=	"	Médiane	"	ar	=	"	وسيط / متوسط	"	/>
+<dict	en	=	"	Mediator	"	fr	=	"	Médiateur	"	ar	=	"	محوري (مستوي لقطعة مستقيمة) / وسيط	"	/>
+<dict	en	=	"	Membership	"	fr	=	"	Appartenance	"	ar	=	"	إنتماء	"	/>
+<dict	en	=	"	Meridian 	"	fr	=	"	Méridien	"	ar	=	"	خط التنصيف	"	/>
+<dict	en	=	"	Mesh	"	fr	=	"	Maillage	"	ar	=	"	شبكة	"	/>
+<dict	en	=	"	Method	"	fr	=	"	Méthode	"	ar	=	"	طريقة / منهج	"	/>
+<dict	en	=	"	Method* Deductive method	"	fr	=	"	Méthode déductive / Méthode déductif 	"	ar	=	"	منهج الإستنباط / منهج الإستنتاج	"	/>
+<dict	en	=	"	Method* Inductive method	"	fr	=	"	Méthode inductive	"	ar	=	"	منهج الإستقراء / منهج الإستدلال	"	/>
+<dict	en	=	"	Methodology	"	fr	=	"	Méthodologie	"	ar	=	"	منهجية	"	/>
+<dict	en	=	"	Metric	"	fr	=	"	Métrique	"	ar	=	"	مترية	"	/>
+<dict	en	=	"	Metrication	"	fr	=	"	Métrisation	"	ar	=	"	مترزة	"	/>
+<dict	en	=	"	Metrisable	"	fr	=	"	Métrisable	"	ar	=	"	قابل للمترية 	"	/>
+<dict	en	=	"	Midpoint 	"	fr	=	"	Milieu	"	ar	=	"	منتصف	"	/>
+<dict	en	=	"	 Minimal	"	fr	=	"	Minimal	"	ar	=	"	أصغري 	"	/>
+<dict	en	=	"	Minimization	"	fr	=	"	Minimisation	"	ar	=	"	تصغير	"	/>
+<dict	en	=	"	Minimum	"	fr	=	"	Minimum	"	ar	=	"	حد أسفل	"	/>
+<dict	en	=	"	Minor	"	fr	=	"	Mineur  	"	ar	=	"	صُغير 	"	/>
+<dict	en	=	"	Mixed 	"	fr	=	"	Mixte  	"	ar	=	"	مختلط	"	/>
+<dict	en	=	"	Modal	"	fr	=	"	Modale	"	ar	=	"	منوالي 	"	/>
+<dict	en	=	"	 Mode	"	fr	=	"	Mode ( Stat)	"	ar	=	"	منوال	"	/>
+<dict	en	=	"	Model                                  	"	fr	=	"	Modèle	"	ar	=	"	نموذج	"	/>
+<dict	en	=	"	Model* Mathematical model	"	fr	=	"	Modèle mathématique	"	ar	=	"	نموذج رياضياتي	"	/>
+<dict	en	=	"	 Modelisation	"	fr	=	"	Modélisation	"	ar	=	"	نمذجة	"	/>
+<dict	en	=	"	Modular	"	fr	=	"	Modulaire	"	ar	=	"	معياري / قياسي	"	/>
+<dict	en	=	"	Module	"	fr	=	"	Module	"	ar	=	"	طويلة	"	/>
+<dict	en	=	"	Module of a ring	"	fr	=	"	Module sur un anneau	"	ar	=	"	فضاء حلقي / حلقية	"	/>
+<dict	en	=	"	Modulo	"	fr	=	"	Modulo	"	ar	=	"	ترديد  /عملية حساب حاصل قسمة إقليدية 	"	/>
+<dict	en	=	"	Modulus                                	"	fr	=	"	Module	"	ar	=	"	طويلة / مقياس / معيار	"	/>
+<dict	en	=	"	Moment / Momentum	"	fr	=	"	Moment	"	ar	=	"	عزم / لحظة	"	/>
+<dict	en	=	"	Moment / Momentum* Angular momentum	"	fr	=	"	Moment cinétique	"	ar	=	"	عزم حركي / عزم زاوي	"	/>
+<dict	en	=	"	Monoid	"	fr	=	"	Monoïde	"	ar	=	"	نصف زمرة واحدية 	"	/>
+<dict	en	=	"	Monôme	"	fr	=	"	Monôme	"	ar	=	"	وحيد الحد	"	/>
+<dict	en	=	"	Monomorphism	"	fr	=	"	Monomorphisme	"	ar	=	"	تشاكل متباين	"	/>
+<dict	en	=	"	Monotone / Monotonic 	"	fr	=	"	Monotone	"	ar	=	"	رتيبة	"	/>
+<dict	en	=	"	Morphism	"	fr	=	"	Morphisme	"	ar	=	"	تشاكل	"	/>
+<dict	en	=	"	Movement / Motion	"	fr	=	"	Mouvement	"	ar	=	"	حركة	"	/>
+<dict	en	=	"	Movement / Motion* Absolute movement / Absolute motion	"	fr	=	"	Mouvement absolu	"	ar	=	"	حركة مطلقة / مطلق 	"	/>
+<dict	en	=	"	Movement / Motion* Circular motion	"	fr	=	"	Mouvement circulaire	"	ar	=	"	حركة دائرية 	"	/>
+<dict	en	=	"	Movement / Motion* Relative movement / Relative motion	"	fr	=	"	Mouvement relative	"	ar	=	"	حركة نسبية	"	/>
+<dict	en	=	"	Movement / Motion* Spinning movement	"	fr	=	"	Mouvement filage	"	ar	=	"	حركة مغزلية 	"	/>
+<dict	en	=	"	Multi linear	"	fr	=	"	Multi linéaire	"	ar	=	"	متعدد الخطية 	"	/>
+<dict	en	=	"	Multi true (setup )	"	fr	=	"	Multientire	"	ar	=	"	متعدد صحيح ( الأعداد )	"	/>
+<dict	en	=	"	Multiform	"	fr	=	"	Multiforms	"	ar	=	"	متعدد الأشكال	"	/>
+<dict	en	=	"	Multilateral	"	fr	=	"	Multilateral	"	ar	=	"	متعدد الأطراف / متعدد الجوانب	"	/>
+<dict	en	=	"	Multi-numbering 	"	fr	=	"	Multi-numéro	"	ar	=	"	متعدد الترقيم 	"	/>
+<dict	en	=	"	Multiple (s)	"	fr	=	"	Multiple (s)	"	ar	=	"	مُضاعف(ات)	"	/>
+<dict	en	=	"	Multiple (s)* Common multiples	"	fr	=	"	Multiples communs	"	ar	=	"	مضاعفات مُشتركة	"	/>
+<dict	en	=	"	Multiplicand	"	fr	=	"	Multiplicande	"	ar	=	"	المضروب	"	/>
+<dict	en	=	"	Multiplication	"	fr	=	"	Multiplication	"	ar	=	"	ضَرْب	"	/>
+<dict	en	=	"	Multiplicative 	"	fr	=	"	Multipliable 	"	ar	=	"	قابل للضرب 	"	/>
+<dict	en	=	"	Multiplicity	"	fr	=	"	Multiplicité	"	ar	=	"	تعدد / كثرة	"	/>
+<dict	en	=	"	Multiplier	"	fr	=	"	Multiplicateur	"	ar	=	"	المضروب فيه 	"	/>
+<dict	en	=	"	Multiply                              	"	fr	=	"	Multiplier 	"	ar	=	"	يضرب / يضاعف ضرب / ضاعف	"	/>
+<dict	en	=	"	Multipolynomial	"	fr	=	"	Multi nomiale	"	ar	=	"	متعدد الحدود 	"	/>
+<dict	en	=	"	Natural  	"	fr	=	"	Naturel  	"	ar	=	"	طبيعي	"	/>
+<dict	en	=	"	Near	"	fr	=	"	Près  	"	ar	=	"	قريب	"	/>
+<dict	en	=	"	Necessary 	"	fr	=	"	Nécessaire	"	ar	=	"	لازم / ضروري	"	/>
+<dict	en	=	"	Negation 	"	fr	=	"	Négation	"	ar	=	"	نفي  	"	/>
+<dict	en	=	"	Negative	"	fr	=	"	Négatif	"	ar	=	"	سالب	"	/>
+<dict	en	=	"	Neglect	"	fr	=	"	Négliger  	"	ar	=	"	أهمل	"	/>
+<dict	en	=	"	Negligible 	"	fr	=	"	Négligeable	"	ar	=	"	مهمل / قابل للإهمال	"	/>
+<dict	en	=	"	Neighborhood	"	fr	=	"	Voisinage	"	ar	=	"	جِوار	"	/>
+<dict	en	=	"	Neighborhood* Compact neighborhood	"	fr	=	"	Voisinage compact 	"	ar	=	"	جوار متراص	"	/>
+<dict	en	=	"	Nested	"	fr	=	"	Emboîté (e)	"	ar	=	"	متداخل / متداخلة 	"	/>
+<dict	en	=	"	Neutral	"	fr	=	"	Neutre	"	ar	=	"	حِيادي	"	/>
+<dict	en	=	"	Node / Knot	"	fr	=	"	Nœud	"	ar	=	"	عقدة	"	/>
+<dict	en	=	"	Nonagon	"	fr	=	"	Ennéagone / Nonagone	"	ar	=	"	تساعي ( مضلع)	"	/>
+<dict	en	=	"	Norm	"	fr	=	"	Norme	"	ar	=	"	معيار	"	/>
+<dict	en	=	"	Normal	"	fr	=	"	Normal	"	ar	=	"	عياري	"	/>
+<dict	en	=	"	Notation  	"	fr	=	"	Notation        	"	ar	=	"	رمز/ رمزية	"	/>
+<dict	en	=	"	Notion / Concept	"	fr	=	"	Notion  	"	ar	=	"	مفهوم	"	/>
+<dict	en	=	"	Number 	"	fr	=	"	Nombre 	"	ar	=	"	عدد	"	/>
+<dict	en	=	"	Number* Abundant number	"	fr	=	"	Nombre abondant	"	ar	=	"	عدد كثير / عدد وفير /عدد زائد	"	/>
+<dict	en	=	"	Number* Amicable numbers	"	fr	=	"	Nombres amicaux	"	ar	=	"	أعداد متحابة	"	/>
+<dict	en	=	"	Number* Cardinal number	"	fr	=	"	Nombre cardinal	"	ar	=	"	عدد أصلي	"	/>
+<dict	en	=	"	Number* Complex number	"	fr	=	"	Complexe nombre	"	ar	=	"	عدد مركب	"	/>
+<dict	en	=	"	Number* Decimal number                   	"	fr	=	"	Nombre décimal	"	ar	=	"	عدد عشري	"	/>
+<dict	en	=	"	Number* Deficient number	"	fr	=	"	Nombre déficient	"	ar	=	"	عدد ناقص	"	/>
+<dict	en	=	"	Number* Derivative number  	"	fr	=	"	Nombre derivé	"	ar	=	"	عدد مشتق	"	/>
+<dict	en	=	"	Number* Even number	"	fr	=	"	Nombre pair	"	ar	=	"	عدد زوجي 	"	/>
+<dict	en	=	"	Number* Finite decimal number	"	fr	=	"	Nombre décimal fini	"	ar	=	"	عدد عشري منته	"	/>
+<dict	en	=	"	Number* Imaginary number	"	fr	=	"	Nombre imaginaire	"	ar	=	"	عدد تخيلي	"	/>
+<dict	en	=	"	Number* Integer number 	"	fr	=	"	Nombre entier	"	ar	=	"	عدد صحيح	"	/>
+<dict	en	=	"	Number* Irrational number	"	fr	=	"	Nombre irrationnel	"	ar	=	"	عدد أصم / غير ناطق / غير نسبي	"	/>
+<dict	en	=	"	Number* Mixed number	"	fr	=	"	Nombre mixte	"	ar	=	"	عدد مختلط	"	/>
+<dict	en	=	"	Number* Natural number	"	fr	=	"	Nombre naturel       	"	ar	=	"	عدد طبيعي	"	/>
+<dict	en	=	"	Number* Negative number	"	fr	=	"	Nombre négatif	"	ar	=	"	عدد سالِب	"	/>
+<dict	en	=	"	Number* Odd number	"	fr	=	"	Nombre impair	"	ar	=	"	عدد فردي 	"	/>
+<dict	en	=	"	Number* Ordinal number	"	fr	=	"	Nombre ordinal	"	ar	=	"	عدد ترتيبي	"	/>
+<dict	en	=	"	Number* Perfect number	"	fr	=	"	Nombre parfait	"	ar	=	"	عدد مثالي / عدد كامل	"	/>
+<dict	en	=	"	Number* Perfect square number	"	fr	=	"	Nombre carré parfait	"	ar	=	"	عدد مربع كامل	"	/>
+<dict	en	=	"	Number* Periodic decimal number	"	fr	=	"	Nombre décimal périodique	"	ar	=	"	عدد عشري دوري	"	/>
+<dict	en	=	"	Number* Positive integer number	"	fr	=	"	Nombre entier positif	"	ar	=	"	عدد صحيح موجب 	"	/>
+<dict	en	=	"	Number* Prime number	"	fr	=	"	Nombre premier	"	ar	=	"	عدد أولي	"	/>
+<dict	en	=	"	Number* Random number	"	fr	=	"	Nombre aléatoire	"	ar	=	"	عدد عشوائي	"	/>
+<dict	en	=	"	Number* Rational number	"	fr	=	"	Nombre rationnel	"	ar	=	"	عدد ناطق	"	/>
+<dict	en	=	"	Number* Real number	"	fr	=	"	Nombre réel	"	ar	=	"	عدد حقيقي	"	/>
+<dict	en	=	"	Number* Reciprocal number	"	fr	=	"	Nombre inverse	"	ar	=	"	عدد مقلوب 	"	/>
+<dict	en	=	"	Number* Square number	"	fr	=	"	Nombre carré	"	ar	=	"	عدد مربع	"	/>
+<dict	en	=	"	Number* Whole number	"	fr	=	"	Nombre entire	"	ar	=	"	عدد تام	"	/>
+<dict	en	=	"	Numbered	"	fr	=	"	Numéroté	"	ar	=	"	مرقم	"	/>
+<dict	en	=	"	Numbering	"	fr	=	"	Numérotage	"	ar	=	"	ترقيم	"	/>
+<dict	en	=	"	Numerator 	"	fr	=	"	Numérateur	"	ar	=	"	بسط (كسر)	"	/>
+<dict	en	=	"	Numerical  / Digital 	"	fr	=	"	Numérique  	"	ar	=	"	عددي 	"	/>
+<dict	en	=	"	Object 	"	fr	=	"	Objet	"	ar	=	"	كائن	"	/>
+<dict	en	=	"	Oblique 	"	fr	=	"	Oblique	"	ar	=	"	مائل	"	/>
+<dict	en	=	"	Observation / Note	"	fr	=	"	Observation  	"	ar	=	"	ملاحظة 	"	/>
+<dict	en	=	"	Observed	"	fr	=	"	Observé        	"	ar	=	"	ملاحظ	"	/>
+<dict	en	=	"	Obtuse 	"	fr	=	"	Obtus	"	ar	=	"	منفرج	"	/>
+<dict	en	=	"	Occurrence of an event	"	fr	=	"	Réalisation d’un événement	"	ar	=	"	وقوع حادثة / تحقق حادثة	"	/>
+<dict	en	=	"	Octal	"	fr	=	"	Octal  	"	ar	=	"	ثماني 	"	/>
+<dict	en	=	"	Odd	"	fr	=	"	Impaire	"	ar	=	"	فردي	"	/>
+<dict	en	=	"	Omission / Oversight	"	fr	=	"	Omission  	"	ar	=	"	إغفال / سهو	"	/>
+<dict	en	=	"	Omit 	"	fr	=	"	Omettre  	"	ar	=	"	حذف / ترك / أهمل /  نسي / أغفل	"	/>
+<dict	en	=	"	One-to-One	"	fr	=	"	Un par un	"	ar	=	"	واحد لواحد / تقابل	"	/>
+<dict	en	=	"	Open	"	fr	=	"	Ouvert	"	ar	=	"	مفتوح	"	/>
+<dict	en	=	"	Operate	"	fr	=	"	Opérer  	"	ar	=	"	أثر 	"	/>
+<dict	en	=	"	Operation 	"	fr	=	"	Opération	"	ar	=	"	عملية / تأثير	"	/>
+<dict	en	=	"	Operator	"	fr	=	"	Opérateur	"	ar	=	"	مُؤثّر	"	/>
+<dict	en	=	"	Operator of dilatation	"	fr	=	"	Opérateur de dilatation	"	ar	=	"	مُؤثّر تمدد	"	/>
+<dict	en	=	"	Operator of reflection	"	fr	=	"	Opérateur de reflexion	"	ar	=	"	مُؤثّر الانعكاس 	"	/>
+<dict	en	=	"	Operator* Adjoint operator	"	fr	=	"	Opérateur adjoint	"	ar	=	"	مُؤثّر مجاور	"	/>
+<dict	en	=	"	Operator* Continuous operator	"	fr	=	"	Opérateur continu	"	ar	=	"	مؤثّرمستمر	"	/>
+<dict	en	=	"	Operator* Differential  operator	"	fr	=	"	Opérateur différentiel	"	ar	=	"	مؤثر تفاضلي	"	/>
+<dict	en	=	"	Operator* Extension operator	"	fr	=	"	Opérateur de prolongement	"	ar	=	"	مُؤثّر تمديد 	"	/>
+<dict	en	=	"	Operator* Invertible operator	"	fr	=	"	Opérateur inversible	"	ar	=	"	مؤثر قابل للقلب	"	/>
+<dict	en	=	"	Operator* Linear operator	"	fr	=	"	Opérateur linéaire	"	ar	=	"	مؤثرخطي	"	/>
+<dict	en	=	"	Operator* Positive operator	"	fr	=	"	Opérateur positive	"	ar	=	"	مؤثر موجب	"	/>
+<dict	en	=	"	Operator* Reverse operator	"	fr	=	"	Opérateur d'inverse	"	ar	=	"	مُؤثّر معاكس	"	/>
+<dict	en	=	"	Operator* Symmetric operator	"	fr	=	"	Opérateur  symétrique	"	ar	=	"	مؤثر متناظر	"	/>
+<dict	en	=	"	Operator* Translation operator	"	fr	=	"	Opérateur de translation	"	ar	=	"	مُؤثّر التحويل 	"	/>
+<dict	en	=	"	Opposite 	"	fr	=	"	Opposé	"	ar	=	"	نظير / مقابل	"	/>
+<dict	en	=	"	 Opposite of an element	"	fr	=	"	Opposé d’un élément	"	ar	=	"	نظير عنصر / مقابل عنصر	"	/>
+<dict	en	=	"	Opposition / Interview	"	fr	=	"	Opposition	"	ar	=	"	مقابلة 	"	/>
+<dict	en	=	"	Optimization	"	fr	=	"	Optimisation	"	ar	=	"	استمثال / الأمثل	"	/>
+<dict	en	=	"	Optimization*  Combinatorial optimization	"	fr	=	"	Optimisation combinatoire	"	ar	=	"	تحسين توافقي	"	/>
+<dict	en	=	"	Orbit                                    	"	fr	=	"	Orbite	"	ar	=	"	مدار	"	/>
+<dict	en	=	"	Order	"	fr	=	"	Ordre	"	ar	=	"	ترتيب	"	/>
+<dict	en	=	"	Order of a matrix	"	fr	=	"	Ordre d’une matrice 	"	ar	=	"	رتبة مصفوفة	"	/>
+<dict	en	=	"	Ordered  	"	fr	=	"	Ordonné	"	ar	=	"	مرتب 	"	/>
+<dict	en	=	"	Ordered* Totally ordered 	"	fr	=	"	Totalement ordonné 	"	ar	=	"	مرتبة كليا	"	/>
+<dict	en	=	"	Ordinal	"	fr	=	"	Ordinal	"	ar	=	"	ترتيبي 	"	/>
+<dict	en	=	"	 Ordinate of  point	"	fr	=	"	Ordonnée d'un point	"	ar	=	"	ترتيبة نقطة 	"	/>
+<dict	en	=	"	Organisation chart	"	fr	=	"	Organigramme     	"	ar	=	"	هيكل تنظيمي	"	/>
+<dict	en	=	"	Organiser	"	fr	=	"	Normalisateur 	"	ar	=	"	منظم 	"	/>
+<dict	en	=	"	Orientation 	"	fr	=	"	Orientation	"	ar	=	"	توجيه	"	/>
+<dict	en	=	"	Oriented	"	fr	=	"	Orienté	"	ar	=	"	موجه	"	/>
+<dict	en	=	"	Origin	"	fr	=	"	Origine	"	ar	=	"	نقطة الأصل / نقطة المبدأ	"	/>
+<dict	en	=	"	Orthocenter 	"	fr	=	"	Orthocentre	"	ar	=	"	نقطة تلاقي ارتفاعات المثلث	"	/>
+<dict	en	=	"	Orthogonal	"	fr	=	"	Orthogonal (e)	"	ar	=	"	متعامد (ة)	"	/>
+<dict	en	=	"	Orthogonality	"	fr	=	"	Orthogonalité	"	ar	=	"	تعامد / تعامدية 	"	/>
+<dict	en	=	"	Orthonormal 	"	fr	=	"	Orthonormal	"	ar	=	"	متعامد متجانس	"	/>
+<dict	en	=	"	Oval	"	fr	=	"	Oval (e)	"	ar	=	"	بيضوي	"	/>
+<dict	en	=	"	Overall	"	fr	=	"	Globalement	"	ar	=	"	إجمالا / شموليا	"	/>
+<dict	en	=	"	Pair	"	fr	=	"	Couple	"	ar	=	"	ثنائية / زوج	"	/>
+<dict	en	=	"	Parabola	"	fr	=	"	Parabole	"	ar	=	"	قَطْع مكافئ	"	/>
+<dict	en	=	"	Paraboloid                            	"	fr	=	"	Paraboloïde	"	ar	=	"	مجسم قطع دوراني	"	/>
+<dict	en	=	"	 Paracompact	"	fr	=	"	Paracompact	"	ar	=	"	شبه متراص 	"	/>
+<dict	en	=	"	Paradox 	"	fr	=	"	Paradoxe	"	ar	=	"	مفارقة / محيرة	"	/>
+<dict	en	=	"	Parallel  	"	fr	=	"	Parallèle	"	ar	=	"	موازٍ / مُوازي	"	/>
+<dict	en	=	"	 Parallelepiped 	"	fr	=	"	Parallélépipède	"	ar	=	"	متوازي السطوح 	"	/>
+<dict	en	=	"	Parallelism	"	fr	=	"	Parallélisme  	"	ar	=	"	توازي	"	/>
+<dict	en	=	"	Parallelogram	"	fr	=	"	Parallélogramme	"	ar	=	"	مُتوازي أضلاع	"	/>
+<dict	en	=	"	Parameter	"	fr	=	"	Paramètre	"	ar	=	"	وسيط	"	/>
+<dict	en	=	"	Parameter* Local parameter  	"	fr	=	"	Paramètre local	"	ar	=	"	وسيط محلي	"	/>
+<dict	en	=	"	Parameterization	"	fr	=	"	Paramètrisation	"	ar	=	"	توسيط 	"	/>
+<dict	en	=	"	Parametric 	"	fr	=	"	Paramétrique	"	ar	=	"	وسيطي 	"	/>
+<dict	en	=	"	Parenthesis	"	fr	=	"	Parenthèse	"	ar	=	"	بين قوسين	"	/>
+<dict	en	=	"	Part	"	fr	=	"	Part	"	ar	=	"	جزء	"	/>
+<dict	en	=	"	Partial	"	fr	=	"	Partiel(le)	"	ar	=	"	جُزئي (ة)	"	/>
+<dict	en	=	"	Partial derivative	"	fr	=	"	Dérivée partielle	"	ar	=	"	مُشتقة	"	/>
+<dict	en	=	"	Partial summation	"	fr	=	"	Sommation partielle	"	ar	=	"	مجموع  جزئي	"	/>
+<dict	en	=	"	 Partially	"	fr	=	"	Partiellement	"	ar	=	"	جزئيا 	"	/>
+<dict	en	=	"	Particle	"	fr	=	"	Particule	"	ar	=	"	جسيم	"	/>
+<dict	en	=	"	Particular	"	fr	=	"	Particulier  	"	ar	=	"	مميز / خاص	"	/>
+<dict	en	=	"	Partition                                	"	fr	=	"	Partition 	"	ar	=	"	تجزئة (مجموعة)	"	/>
+<dict	en	=	"	Passage	"	fr	=	"	Passage  	"	ar	=	"	مرور / ممر / انتقال	"	/>
+<dict	en	=	"	Pavement	"	fr	=	"	Pavé	"	ar	=	"	مرصوف / بلاط	"	/>
+<dict	en	=	"	Paving	"	fr	=	"	Pavage	"	ar	=	"	رصف / تبليط	"	/>
+<dict	en	=	"	Pedal curve	"	fr	=	"	Podaire	"	ar	=	"	منحنى المواقع	"	/>
+<dict	en	=	"	Pentagon 	"	fr	=	"	Pentagone	"	ar	=	"	خماسي الأضلاع	"	/>
+<dict	en	=	"	Percentage 	"	fr	=	"	Pourcentage     	"	ar	=	"	نسبة مئوية 	"	/>
+<dict	en	=	"	Perfect 	"	fr	=	"	Parfait (e)	"	ar	=	"	مثالي (ة)	"	/>
+<dict	en	=	"	Perimeter	"	fr	=	"	Périmètre	"	ar	=	"	محيط	"	/>
+<dict	en	=	"	Period 	"	fr	=	"	Période	"	ar	=	"	دور / دورة / فترة	"	/>
+<dict	en	=	"	Periodic	"	fr	=	"	Périodique	"	ar	=	"	دوري (ة)	"	/>
+<dict	en	=	"	Periodicity	"	fr	=	"	Périodicité	"	ar	=	"	دورية	"	/>
+<dict	en	=	"	Permutation 	"	fr	=	"	Permutation	"	ar	=	"	تبديلة	"	/>
+<dict	en	=	"	Permute 	"	fr	=	"	Permuter  	"	ar	=	"	بدل / يبدل / بادل	"	/>
+<dict	en	=	"	Perpendicular 	"	fr	=	"	Perpendiculaire	"	ar	=	"	عمودي	"	/>
+<dict	en	=	"	Perspective 	"	fr	=	"	Perspectif	"	ar	=	"	منظور 	"	/>
+<dict	en	=	"	Phase	"	fr	=	"	Phase	"	ar	=	"	طور	"	/>
+<dict	en	=	"	Phemomenon	"	fr	=	"	Phénomène	"	ar	=	"	ظاهرة 	"	/>
+<dict	en	=	"	Piece	"	fr	=	"	Morceau  	"	ar	=	"	قطعة / جزء	"	/>
+<dict	en	=	"	Pivot 	"	fr	=	"	Pivot	"	ar	=	"	محور/ مفصل / مدار	"	/>
+<dict	en	=	"	Plane	"	fr	=	"	Plan	"	ar	=	"	مُستوي / مستوٍ	"	/>
+<dict	en	=	"	Point / Dot	"	fr	=	"	Point	"	ar	=	"	نُقطة	"	/>
+<dict	en	=	"	Point / Dot*  Cusp point	"	fr	=	"	Point de rebroussement	"	ar	=	"	نقطة رجوع / نتوء	"	/>
+<dict	en	=	"	Point / Dot* Accumulation point / Cluster point	"	fr	=	"	Point d’accumulation	"	ar	=	"	نقطة تجمع / نقطة تراكم	"	/>
+<dict	en	=	"	Point / Dot* Adjacent point	"	fr	=	"	Point adjacent	"	ar	=	"	نقطة لاصقة / نقطة مجاورة	"	/>
+<dict	en	=	"	Point / Dot* Angle point	"	fr	=	"	Point anguleux	"	ar	=	"	نقطة زاوية	"	/>
+<dict	en	=	"	Point / Dot* Branching point	"	fr	=	"	Point de ramification	"	ar	=	"	نقطة تفرع 	"	/>
+<dict	en	=	"	Point / Dot* Cloud points 	"	fr	=	"	Nuages des points 	"	ar	=	"	نقاط سحابة	"	/>
+<dict	en	=	"	Point / Dot* Critical point	"	fr	=	"	Point critique	"	ar	=	"	نقطة حرجة	"	/>
+<dict	en	=	"	Point / Dot* Double point	"	fr	=	"	Point double	"	ar	=	"	نقطة مضاعفة	"	/>
+<dict	en	=	"	Point / Dot* Elliptic point	"	fr	=	"	Point elliptique	"	ar	=	"	نقطة بيضاوية / نقطة ناقصية	"	/>
+<dict	en	=	"	Point / Dot* Hyperbolic point	"	fr	=	"	Point hyperbolique	"	ar	=	"	نقطة قطعية زائدية	"	/>
+<dict	en	=	"	Point / Dot* Inflexion point / Inflection point	"	fr	=	"	Point d’inflexion	"	ar	=	"	نقطة انعطاف	"	/>
+<dict	en	=	"	Point / Dot* Intersection point	"	fr	=	"	Point d’intersection 	"	ar	=	"	نقطة تقاطع	"	/>
+<dict	en	=	"	Point / Dot* Invariant point	"	fr	=	"	Point invariant	"	ar	=	"	نقطة صامدة	"	/>
+<dict	en	=	"	Point / Dot* Isolated point	"	fr	=	"	Point isolé	"	ar	=	"	نقطة معزولة / نقطة منعزلة	"	/>
+<dict	en	=	"	Point / Dot* Midpoint of a cloud	"	fr	=	"	Point moyen d'un nuage	"	ar	=	"	نقطة وسطى لسحابة 	"	/>
+<dict	en	=	"	Point / Dot* Moderation point	"	fr	=	"	Point de modération	"	ar	=	"	نقاط اعتدال	"	/>
+<dict	en	=	"	Point / Dot* Origin  point	"	fr	=	"	Origine	"	ar	=	"	مَبْدأ	"	/>
+<dict	en	=	"	Point / Dot* Rule point	"	fr	=	"	Point régulier 	"	ar	=	"	نقطة نظامية 	"	/>
+<dict	en	=	"	Point / Dot* Single  point	"	fr	=	"	Singleton	"	ar	=	"	نُقطة معزولة	"	/>
+<dict	en	=	"	Polar	"	fr	=	"	Polaire	"	ar	=	"	قُطبية	"	/>
+<dict	en	=	"	Pole 	"	fr	=	"	Pôle	"	ar	=	"	قطب 	"	/>
+<dict	en	=	"	Polygon 	"	fr	=	"	Polygone	"	ar	=	"	مضلع	"	/>
+<dict	en	=	"	Polygon* Frequency polygon	"	fr	=	"	Polygone des fréquences	"	ar	=	"	مضلع تكراري	"	/>
+<dict	en	=	"	Polyhedron	"	fr	=	"	Polyèdre	"	ar	=	"	متعدد السطوح 	"	/>
+<dict	en	=	"	Polynomial	"	fr	=	"	Polynôme	"	ar	=	"	كثير حدود / حدودي	"	/>
+<dict	en	=	"	Polynomial degree	"	fr	=	"	Degré d’un polynôme	"	ar	=	"	رُتبة / درجة  كثير حدود	"	/>
+<dict	en	=	"	Polynomial function	"	fr	=	"	Fonction polynôme	"	ar	=	"	دالة كثير حدود	"	/>
+<dict	en	=	"	Polynomial* Characteristic polynomial	"	fr	=	"	Polynôme caractéristique	"	ar	=	"	كثير حدود مميز	"	/>
+<dict	en	=	"	Polynomial* Minimal polynomial 	"	fr	=	"	Polynôme minimal 	"	ar	=	"	كثير حدود أصغري	"	/>
+<dict	en	=	"	Population                           	"	fr	=	"	Population	"	ar	=	"	مجتمع  (إحصائي) / سكان	"	/>
+<dict	en	=	"	Portion	"	fr	=	"	Portion  	"	ar	=	"	جزء / قطعة	"	/>
+<dict	en	=	"	Position	"	fr	=	"	Position        	"	ar	=	"	موضع	"	/>
+<dict	en	=	"	Positive	"	fr	=	"	Positif (ve)	"	ar	=	"	موجب (ة)	"	/>
+<dict	en	=	"	Possibility	"	fr	=	"	Possibilité	"	ar	=	"	إمكانية	"	/>
+<dict	en	=	"	Possible	"	fr	=	"	Possible	"	ar	=	"	ممكن	"	/>
+<dict	en	=	"	Postulate	"	fr	=	"	Postulat	"	ar	=	"	مسلمة / موضوعة	"	/>
+<dict	en	=	"	Potential	"	fr	=	"	Potentiel	"	ar	=	"	جهد / كمون / ممكن إحتمالي	"	/>
+<dict	en	=	"	Power 	"	fr	=	"	Puissance	"	ar	=	"	قوة	"	/>
+<dict	en	=	"	Precompact	"	fr	=	"	Précompact	"	ar	=	"	متراص نسبي / شبه متراص	"	/>
+<dict	en	=	"	Predecessor 	"	fr	=	"	Prédécesseur  	"	ar	=	"	سابق	"	/>
+<dict	en	=	"	Primary	"	fr	=	"	Primaire	"	ar	=	"	إبتدائي	"	/>
+<dict	en	=	"	Prime	"	fr	=	"	Premier	"	ar	=	"	أولي 	"	/>
+<dict	en	=	"	Primitive	"	fr	=	"	Primitif (ve)	"	ar	=	"	أصلي (ة)	"	/>
+<dict	en	=	"	Primitive  function                           	"	fr	=	"	Fonction primitive 	"	ar	=	"	دالة أصلية	"	/>
+<dict	en	=	"	Principal 	"	fr	=	"	Principal  	"	ar	=	"	رئيسي 	"	/>
+<dict	en	=	"	Principal axis	"	fr	=	"	Axe principal	"	ar	=	"	محور رئيسي	"	/>
+<dict	en	=	"	Prism                                    	"	fr	=	"	Prisme	"	ar	=	"	موشور	"	/>
+<dict	en	=	"	Probabilisable	"	fr	=	"	Probabilisable     	"	ar	=	"	قابل للاحتمال 	"	/>
+<dict	en	=	"	Probabilistic	"	fr	=	"	Probabiliste  	"	ar	=	"	إحتمالية	"	/>
+<dict	en	=	"	Probability	"	fr	=	"	Probabilités	"	ar	=	"	إحتمال / إحتمالات	"	/>
+<dict	en	=	"	Probability event	"	fr	=	"	Probabilité d'un événement	"	ar	=	"	إحتمال حادثة (حدث)	"	/>
+<dict	en	=	"	Probability* Conditional probability	"	fr	=	"	Probabilité conditionnelle	"	ar	=	"	إحتمال شرطي	"	/>
+<dict	en	=	"	Probability* Total probability	"	fr	=	"	Probabilité  totale	"	ar	=	"	إحتمال كلي	"	/>
+<dict	en	=	"	Problem 	"	fr	=	"	Problème  	"	ar	=	"	مسألة 	"	/>
+<dict	en	=	"	Proceed	"	fr	=	"	Précéder  	"	ar	=	"	سبق	"	/>
+<dict	en	=	"	 Process	"	fr	=	"	Processus	"	ar	=	"	طريقة / سياق / سيرورة	"	/>
+<dict	en	=	"	Process* Stochastic process 	"	fr	=	"	Processus stochastique	"	ar	=	"	عملية عشوائية / سيرورة عشوائية	"	/>
+<dict	en	=	"	Product	"	fr	=	"	Produit	"	ar	=	"	جداء / حاصل الضرب	"	/>
+<dict	en	=	"	Product* Cartesian product	"	fr	=	"	Produit cartésien 	"	ar	=	"	جداء ديكارتي 	"	/>
+<dict	en	=	"	Product* Cross product  / Vectorial product	"	fr	=	"	produit  vectoriel	"	ar	=	"	جداء تصالبي / جداء شعاعي	"	/>
+<dict	en	=	"	Product* Scalar product 	"	fr	=	"	Produit scalaire	"	ar	=	"	جداء سلمي	"	/>
+<dict	en	=	"	Product* Transformations product	"	fr	=	"	Produit de transformations	"	ar	=	"	جداء التحويلات	"	/>
+<dict	en	=	"	Profile	"	fr	=	"	Profil	"	ar	=	"	مظهر (جانبي ) / ملمح	"	/>
+<dict	en	=	"	Profit 	"	fr	=	"	Profit 	"	ar	=	"	فائدة / ربح	"	/>
+<dict	en	=	"	Programming	"	fr	=	"	Programmation	"	ar	=	"	برمجة	"	/>
+<dict	en	=	"	Programming* Linear programming	"	fr	=	"	Programmation linéaire	"	ar	=	"	برمجة خطية	"	/>
+<dict	en	=	"	Progression 	"	fr	=	"	Progression / Suite	"	ar	=	"	متوالية / متتالية	"	/>
+<dict	en	=	"	Progression* Arithmetical progression	"	fr	=	"	Progression arithmetique 	"	ar	=	"	متوالية حسابية	"	/>
+<dict	en	=	"	Progression* Geometric progression 	"	fr	=	"	Progression geometrique 	"	ar	=	"	متوالية هندسية	"	/>
+<dict	en	=	"	Progression* Harmonic progression 	"	fr	=	"	Progression harmonique 	"	ar	=	"	متوالية توافقية	"	/>
+<dict	en	=	"	Progressive	"	fr	=	"	Progressif	"	ar	=	"	متصاعد /  تدريجي / متوال	"	/>
+<dict	en	=	"	Projectile	"	fr	=	"	Projectile	"	ar	=	"	قذيفة / مقذوف	"	/>
+<dict	en	=	"	Projection                             	"	fr	=	"	Projection	"	ar	=	"	إسقاط / مسقط	"	/>
+<dict	en	=	"	Projection* Central projection	"	fr	=	"	Projection centrale	"	ar	=	"	اسقاط مركزي	"	/>
+<dict	en	=	"	Projective 	"	fr	=	"	Projectif	"	ar	=	"	إسقاطي	"	/>
+<dict	en	=	"	Projector	"	fr	=	"	Projecteur	"	ar	=	"	مسقط	"	/>
+<dict	en	=	"	Proof                                    	"	fr	=	"	Preuve	"	ar	=	"	إثبات / برهان / تبرير 	"	/>
+<dict	en	=	"	Proper 	"	fr	=	"	Propre	"	ar	=	"	ذاتي	"	/>
+<dict	en	=	"	Property	"	fr	=	"	Propriété	"	ar	=	"	خاصية 	"	/>
+<dict	en	=	"	Proportion 	"	fr	=	"	Proportion	"	ar	=	"	تناسب	"	/>
+<dict	en	=	"	Proportional 	"	fr	=	"	Proportionnel	"	ar	=	"	متناسب	"	/>
+<dict	en	=	"	Propose 	"	fr	=	"	Proposer  	"	ar	=	"	إقترح 	"	/>
+<dict	en	=	"	Proposition 	"	fr	=	"	Proposition	"	ar	=	"	فرضية / قضية	"	/>
+<dict	en	=	"	Protractor 	"	fr	=	"	Rapporteur 	"	ar	=	"	منقلة	"	/>
+<dict	en	=	"	Prove / Establish	"	fr	=	"	Etablir / Prouver	"	ar	=	"	أثبت / برهن	"	/>
+<dict	en	=	"	Provide 	"	fr	=	"	Munir 	"	ar	=	"	يزود	"	/>
+<dict	en	=	"	Pseudosphere	"	fr	=	"	Pseudosphère	"	ar	=	"	شبه الكرة	"	/>
+<dict	en	=	"	Punctual	"	fr	=	"	Ponctuel	"	ar	=	"	نقطي	"	/>
+<dict	en	=	"	Pure 	"	fr	=	"	Pur	"	ar	=	"	بحت / صرف	"	/>
+<dict	en	=	"	Pyramid 	"	fr	=	"	Pyramide	"	ar	=	"	هرم	"	/>
+<dict	en	=	"	Pyramidal	"	fr	=	"	Pyramidal	"	ar	=	"	هرمي 	"	/>
+<dict	en	=	"	Quadrangle	"	fr	=	"	Quadrangle	"	ar	=	"	رباعي الزوايا	"	/>
+<dict	en	=	"	Quadrant 	"	fr	=	"	Quadrant  	"	ar	=	"	ربع الدائرة / مرباع / ربع	"	/>
+<dict	en	=	"	Quadratic	"	fr	=	"	Quadratique	"	ar	=	"	تربيعي (ة)	"	/>
+<dict	en	=	"	Quadrature 	"	fr	=	"	Quadrature  	"	ar	=	"	تربيع 	"	/>
+<dict	en	=	"	Quadrilateral  	"	fr	=	"	Quadrilatère	"	ar	=	"	رباعي الأضلاع	"	/>
+<dict	en	=	"	Quadruple	"	fr	=	"	Quadruple  	"	ar	=	"	أربعة أضعاف / أربعة أضعاف	"	/>
+<dict	en	=	"	Quadruplet	"	fr	=	"	Quadruplet  	"	ar	=	"	رباعية مرتبة 	"	/>
+<dict	en	=	"	 Qualitative	"	fr	=	"	Qualitative  	"	ar	=	"	نوعي 	"	/>
+<dict	en	=	"	Quality	"	fr	=	"	Qualité	"	ar	=	"	صفة / نوع	"	/>
+<dict	en	=	"	Quantify	"	fr	=	"	Quantifier 	"	ar	=	"	قاس الكمية	"	/>
+<dict	en	=	"	Quantitative 	"	fr	=	"	Quantitatif	"	ar	=	"	كمّي / مقداري	"	/>
+<dict	en	=	"	Quantity	"	fr	=	"	Grandeur / Quantité	"	ar	=	"	كمية / مقدار	"	/>
+<dict	en	=	"	Quarter	"	fr	=	"	Quart	"	ar	=	"	ربع 	"	/>
+<dict	en	=	"	Quarterly 	"	fr	=	"	Trimestriel	"	ar	=	"	كل ربع سنة / كل ثلاث أشهر	"	/>
+<dict	en	=	"	Quartic 	"	fr	=	"	Quartique	"	ar	=	"	رباعي / من الدرجة الرابعة	"	/>
+<dict	en	=	"	Quartile	"	fr	=	"	Quartile	"	ar	=	"	ربيع / ربعي	"	/>
+<dict	en	=	"	Quartile* First quartile	"	fr	=	"	Premier quartile	"	ar	=	"	الربعي الأول	"	/>
+<dict	en	=	"	Quartile* Second quratile	"	fr	=	"	Deuxieme quartile	"	ar	=	"	الربعي الثاني 	"	/>
+<dict	en	=	"	Quasi-cyclic	"	fr	=	"	Quasi-cyclique	"	ar	=	"	شبه دورة 	"	/>
+<dict	en	=	"	Quasilinear	"	fr	=	"	Quasilinéaire	"	ar	=	"	شبه خطي	"	/>
+<dict	en	=	"	Quaternion	"	fr	=	"	Quaternion ( groupe ----)	"	ar	=	"	أربعية / رباعية  ( زمرة ----)	"	/>
+<dict	en	=	"	Quentification	"	fr	=	"	Quantification	"	ar	=	"	تكميم	"	/>
+<dict	en	=	"	Quentified	"	fr	=	"	Quantifié	"	ar	=	"	كُمِّم	"	/>
+<dict	en	=	"	Quotient	"	fr	=	"	Quotient	"	ar	=	"	حاصل قسمة	"	/>
+<dict	en	=	"	Radian	"	fr	=	"	Radian	"	ar	=	"	راديان (وحدة)	"	/>
+<dict	en	=	"	Radical 	"	fr	=	"	Radical 	"	ar	=	"	جذري  / علامة الجذر	"	/>
+<dict	en	=	"	Radioactivity	"	fr	=	"	Radioactivité	"	ar	=	"	نشاط إشعاعي	"	/>
+<dict	en	=	"	Random	"	fr	=	"	Aléatoire	"	ar	=	"	عشوائي	"	/>
+<dict	en	=	"	Rank 	"	fr	=	"	Rang	"	ar	=	"	رتبة / صف	"	/>
+<dict	en	=	"	Rate 	"	fr	=	"	Taux	"	ar	=	"	نسبة / معدل  	"	/>
+<dict	en	=	"	Rate* Average rate	"	fr	=	"	Taux moyen	"	ar	=	"	معدل / متوسط	"	/>
+<dict	en	=	"	Rate* Growth rate	"	fr	=	"	Taux de croissance 	"	ar	=	"	نسبة التزايد 	"	/>
+<dict	en	=	"	Rate* Interest rate	"	fr	=	"	Taux d'intérêt	"	ar	=	"	نسبة الفائدة / معدل الفائدة	"	/>
+<dict	en	=	"	Ratio 	"	fr	=	"	Rapport  	"	ar	=	"	نسبة	"	/>
+<dict	en	=	"	Rational	"	fr	=	"	Rationnel	"	ar	=	"	ناطق / نسبي	"	/>
+<dict	en	=	"	Ray / Radius                     	"	fr	=	"	Rayon	"	ar	=	"	نصف قطر	"	/>
+<dict	en	=	"	Reaction	"	fr	=	"	Réaction	"	ar	=	"	رد فعل 	"	/>
+<dict	en	=	"	Real	"	fr	=	"	Réel	"	ar	=	"	حقيقي	"	/>
+<dict	en	=	"	Reasoning	"	fr	=	"	Raisonnement	"	ar	=	"	بُرهان / إستدلال	"	/>
+<dict	en	=	"	Reasoning by contraposition	"	fr	=	"	Raisonnement par contraposé	"	ar	=	"	برهان بالعكس النقيض	"	/>
+<dict	en	=	"	Reasoning* Derive reasonning	"	fr	=	"	Raisonnement déductif	"	ar	=	"	برهان بالاستنتاج 	"	/>
+<dict	en	=	"	Reasoning* Direct reasoning	"	fr	=	"	Raisonnement directe	"	ar	=	"	برهان مباشر	"	/>
+<dict	en	=	"	Reasoning* Logic reasoning	"	fr	=	"	Raisonnement logique	"	ar	=	"	برهان منطقي	"	/>
+<dict	en	=	"	Reasoning* Recurrence reasoning  / Reasoning by induction	"	fr	=	"	Raisonnement par  récurrence	"	ar	=	"	البرهان بالتراجع	"	/>
+<dict	en	=	"	Reasoning* Separating cases reasoning	"	fr	=	"	Raisonnement cas par cas	"	ar	=	"	البرهان بفصل الحالات	"	/>
+<dict	en	=	"	Recall	"	fr	=	"	Rappel  	"	ar	=	"	تذكرة  / تذكير	"	/>
+<dict	en	=	"	Reciprocal	"	fr	=	"	Réciproque	"	ar	=	"	عكسي / عكس / مقلوب	"	/>
+<dict	en	=	"	Reciprocity	"	fr	=	"	Réciprocité	"	ar	=	"	العكسية 	"	/>
+<dict	en	=	"	Rectangle	"	fr	=	"	Rectangle	"	ar	=	"	مستطيل	"	/>
+<dict	en	=	"	Rectangular 	"	fr	=	"	Rectangulaire	"	ar	=	"	مستطيل / شكل مستطيل 	"	/>
+<dict	en	=	"	Rectifiable	"	fr	=	"	Rectifiable	"	ar	=	"	قابل للتعديل	"	/>
+<dict	en	=	"	Recurrence / Induction	"	fr	=	"	Récurrence	"	ar	=	"	تراجع / تكرار	"	/>
+<dict	en	=	"	Recurrent	"	fr	=	"	Récurrent  	"	ar	=	"	متكرر / معاد	"	/>
+<dict	en	=	"	Recursion	"	fr	=	"	Récursivité	"	ar	=	"	إعادة / عودية / تكرارية / ارتداد	"	/>
+<dict	en	=	"	Reduce	"	fr	=	"	Réduire        	"	ar	=	"	خفض / قلّل / أنقص / إختزل	"	/>
+<dict	en	=	"	Reduced	"	fr	=	"	Réduit	"	ar	=	"	مختصر	"	/>
+<dict	en	=	"	Reduction 	"	fr	=	"	Réduction	"	ar	=	"	إختزال / تبسيط / تناقص	"	/>
+<dict	en	=	"	Reference	"	fr	=	"	Référence	"	ar	=	"	مرجع / مصدر	"	/>
+<dict	en	=	"	Reflection 	"	fr	=	"	Réflexion	"	ar	=	"	إنعكاس	"	/>
+<dict	en	=	"	Reflexive	"	fr	=	"	Réflexif	"	ar	=	"	إعكاسي 	"	/>
+<dict	en	=	"	Reflexivity	"	fr	=	"	Réflexivité	"	ar	=	"	إنعكاسية	"	/>
+<dict	en	=	"	Region 	"	fr	=	"	Région	"	ar	=	"	منطقة	"	/>
+<dict	en	=	"	Regression	"	fr	=	"	Régression	"	ar	=	"	تراجع / انحدار	"	/>
+<dict	en	=	"	Regression* Linear regression	"	fr	=	"	Régression linéaire	"	ar	=	"	إنحدار خطي	"	/>
+<dict	en	=	"	Regular	"	fr	=	"	Régulier 	"	ar	=	"	منتظم / نظامي	"	/>
+<dict	en	=	"	Regularisation	"	fr	=	"	Régularisation	"	ar	=	"	تسوية / صقل	"	/>
+<dict	en	=	"	Regularity	"	fr	=	"	Régularité	"	ar	=	"	إنتظام / مرونة / سلاسة	"	/>
+<dict	en	=	"	Relation                               	"	fr	=	"	Relation	"	ar	=	"	علاقة	"	/>
+<dict	en	=	"	Relation* Algebraic relationship	"	fr	=	"	Relation algébrique	"	ar	=	"	علاقة جبرية	"	/>
+<dict	en	=	"	Relation* Bilateral relation	"	fr	=	"	Relation bilatérale	"	ar	=	"	علاقة ثنائية	"	/>
+<dict	en	=	"	Relation* Congruence relation	"	fr	=	"	Relation de congruence	"	ar	=	"	علاقة الموافقة	"	/>
+<dict	en	=	"	Relation* Equivalence relation	"	fr	=	"	Relation d’équivalence	"	ar	=	"	علاقة تكافؤ	"	/>
+<dict	en	=	"	Relation* Order relation	"	fr	=	"	Relation d'ordre	"	ar	=	"	علاقةترتيب	"	/>
+<dict	en	=	"	Relation* Reflexive relation	"	fr	=	"	Relation réflexive	"	ar	=	"	علاقة انعكاسية	"	/>
+<dict	en	=	"	Relation* Symmetric relation	"	fr	=	"	Relation symétrique	"	ar	=	"	علاقة تناظرية	"	/>
+<dict	en	=	"	Relation* Transitive relation	"	fr	=	"	Relation transitive	"	ar	=	"	علاقة متعدية	"	/>
+<dict	en	=	"	Relative	"	fr	=	"	Relatif	"	ar	=	"	نِسبي	"	/>
+<dict	en	=	"	Relative error	"	fr	=	"	Erreur relatif	"	ar	=	"	خطأ نِسبي	"	/>
+<dict	en	=	"	Relatively	"	fr	=	"	Relativement	"	ar	=	"	نسبيا	"	/>
+<dict	en	=	"	Relativity	"	fr	=	"	Relativité	"	ar	=	"	نسبية	"	/>
+<dict	en	=	"	Relaxation	"	fr	=	"	Relaxation	"	ar	=	"	استرخاء	"	/>
+<dict	en	=	"	Relevant	"	fr	=	"	Applicable  	"	ar	=	"	قابل للتطبيق	"	/>
+<dict	en	=	"	Remainder  	"	fr	=	"	Reste	"	ar	=	"	باق 	"	/>
+<dict	en	=	"	Repeat	"	fr	=	"	Itérer / Répéter	"	ar	=	"	كرر 	"	/>
+<dict	en	=	"	Representation 	"	fr	=	"	Représentation	"	ar	=	"	تمثيل	"	/>
+<dict	en	=	"	Research	"	fr	=	"	Recherche  	"	ar	=	"	بحث 	"	/>
+<dict	en	=	"	Respective 	"	fr	=	"	Respectif	"	ar	=	"	متوالي 	"	/>
+<dict	en	=	"	Respectively	"	fr	=	"	Respectivement	"	ar	=	"	على التوالي	"	/>
+<dict	en	=	"	Restriction	"	fr	=	"	Restriction	"	ar	=	"	إقتصار	"	/>
+<dict	en	=	"	Result 	"	fr	=	"	Résultat	"	ar	=	"	نتيجة	"	/>
+<dict	en	=	"	Resultant 	"	fr	=	"	Résultant	"	ar	=	"	محصلة 	"	/>
+<dict	en	=	"	Reticulation	"	fr	=	"	Réticulation	"	ar	=	"	تشابك 	"	/>
+<dict	en	=	"	Retrograde	"	fr	=	"	Rétrograde  	"	ar	=	"	رجعي / تراجعي / عكسي / متراجع	"	/>
+<dict	en	=	"	Reversal 	"	fr	=	"	Inversible	"	ar	=	"	عكس / قلْب / إنعكاس	"	/>
+<dict	en	=	"	Rhombus 	"	fr	=	"	Rhombe 	"	ar	=	"	معين	"	/>
+<dict	en	=	"	Ring	"	fr	=	"	Anneau	"	ar	=	"	حلقة	"	/>
+<dict	en	=	"	Ring* Local ring	"	fr	=	"	Anneau local	"	ar	=	"	حلقة محلية	"	/>
+<dict	en	=	"	Ring* Principal ring	"	fr	=	"	Anneau principal	"	ar	=	"	حلقة رئيسية أساسية	"	/>
+<dict	en	=	"	Ring* Quotient ring	"	fr	=	"	Anneau quotient	"	ar	=	"	حلقة حاصل القسمة	"	/>
+<dict	en	=	"	Ring* Regular ring	"	fr	=	"	Anneau régulière	"	ar	=	"	حلقة اعتيادية	"	/>
+<dict	en	=	"	Ring* Unitary ring	"	fr	=	"	Anneau unitaire	"	ar	=	"	حلقة واحدية	"	/>
+<dict	en	=	"	Root	"	fr	=	"	Racine	"	ar	=	"	جذر	"	/>
+<dict	en	=	"	Root* Cube root	"	fr	=	"	Racine cubique	"	ar	=	"	جذر تكعيبي	"	/>
+<dict	en	=	"	Root* Square root 	"	fr	=	"	Racine carré	"	ar	=	"	جذر تربيعي	"	/>
+<dict	en	=	"	Rotation                               	"	fr	=	"	Rotation	"	ar	=	"	دوران	"	/>
+<dict	en	=	"	Rounding / Round	"	fr	=	"	Arrondissement/ Arrondi	"	ar	=	"	تدوير/ مدور	"	/>
+<dict	en	=	"	Rounding / Round* Rounding tenth	"	fr	=	"	Arrondissement au dixième	"	ar	=	"	مدور للعشرة / مدور للعشرات	"	/>
+<dict	en	=	"	Rounding / Round* Unit rounding / Unity rounding	"	fr	=	"	Arrondissement à l'unité	"	ar	=	"	مدور للوحدة / مدور للآحاد	"	/>
+<dict	en	=	"	Sagittal (Representation)	"	fr	=	"	Sagittale  (Représentation-----)	"	ar	=	"	سهمي الشكل ( تمثيل ----)	"	/>
+<dict	en	=	"	Salary 	"	fr	=	"	Salaire 	"	ar	=	"	راتب	"	/>
+<dict	en	=	"	Sample	"	fr	=	"	Echantillon	"	ar	=	"	عينة /عينات	"	/>
+<dict	en	=	"	Sample* Biased sample	"	fr	=	"	Echantillon biaisé	"	ar	=	"	عينة متحيزة	"	/>
+<dict	en	=	"	Sample* Independent samples	"	fr	=	"	Echantillons indépendants	"	ar	=	"	عينات مستقلة	"	/>
+<dict	en	=	"	Sample* Matched sample	"	fr	=	"	Echantillon apparié	"	ar	=	"	عينة مطابقة	"	/>
+<dict	en	=	"	Sample* Random sample	"	fr	=	"	Echantillon aléatoire	"	ar	=	"	عينة عشوائية	"	/>
+<dict	en	=	"	Sample* Representive sample	"	fr	=	"	Echantillon représentatif	"	ar	=	"	عينة تمثيلية / عينة معبرة / عينة مناسبة	"	/>
+<dict	en	=	"	Sampling 	"	fr	=	"	Échantillonnage	"	ar	=	"	أخذ عينة / إستعيان	"	/>
+<dict	en	=	"	Scalar	"	fr	=	"	Scalaire	"	ar	=	"	قيمة سُلّمية	"	/>
+<dict	en	=	"	Scale	"	fr	=	"	Échelle	"	ar	=	"	سلم / تدرج	"	/>
+<dict	en	=	"	Scale* Logarithmic scale	"	fr	=	"	Échelle logarithmique	"	ar	=	"	سلم لوغاريتمي	"	/>
+<dict	en	=	"	Scanning	"	fr	=	"	Balayage	"	ar	=	"	مسح 	"	/>
+<dict	en	=	"	Screen 	"	fr	=	"	Crible / Écran	"	ar	=	"	غربال / شاشة  / تصفية 	"	/>
+<dict	en	=	"	Segment	"	fr	=	"	Segment	"	ar	=	"	قطعة مستقيمة	"	/>
+<dict	en	=	"	Self-adjoint	"	fr	=	"	Auto-adjoint	"	ar	=	"	مساعد ذاتي / قرين ذاتي / ملاحق ذاتي	"	/>
+<dict	en	=	"	Semi / Half	"	fr	=	"	Semi / Demi	"	ar	=	"	نصف	"	/>
+<dict	en	=	"	Semi / Half* Half-plane	"	fr	=	"	Semi-plan / Demi-plan	"	ar	=	"	نصف مستوي	"	/>
+<dict	en	=	"	Semi / Half* Semi circular	"	fr	=	"	Semi -circulaire  	"	ar	=	"	نصف دائري	"	/>
+<dict	en	=	"	Semi / Half* Semi convergence 	"	fr	=	"	Semi -convergente  	"	ar	=	"	نصف تقارب	"	/>
+<dict	en	=	"	Semi / Half* Semi-compact	"	fr	=	"	Semi -compact	"	ar	=	"	نصف متراص	"	/>
+<dict	en	=	"	Semi / Half* Semipolar 	"	fr	=	"	Semi-polaires	"	ar	=	"	نصف قطبي ( إحداثيات ----)	"	/>
+<dict	en	=	"	Semi / Half* Semi-tangent 	"	fr	=	"	Semi -tangente 	"	ar	=	"	نصف مماس 	"	/>
+<dict	en	=	"	Semigroup	"	fr	=	"	Semi -groupe	"	ar	=	"	نصف زمرة	"	/>
+<dict	en	=	"	Semiring	"	fr	=	"	Semi -anneau	"	ar	=	"	نصف حلقة	"	/>
+<dict	en	=	"	Sense 	"	fr	=	"	Sens	"	ar	=	"	إتجاه  	"	/>
+<dict	en	=	"	Sense of variation	"	fr	=	"	Sens de variation	"	ar	=	"	اتجاه التغير	"	/>
+<dict	en	=	"	Separability	"	fr	=	"	Séparabilité	"	ar	=	"	قابلية الفصل	"	/>
+<dict	en	=	"	Separable	"	fr	=	"	Séparable	"	ar	=	"	قابل للفصل     	"	/>
+<dict	en	=	"	Separate	"	fr	=	"	Séparé	"	ar	=	"	منفصل 	"	/>
+<dict	en	=	"	Separation	"	fr	=	"	Séparation	"	ar	=	"	فصل	"	/>
+<dict	en	=	"	Sequence / Progression	"	fr	=	"	Séquence/ Suite	"	ar	=	"	متتالية / متتابعة / متوالية	"	/>
+<dict	en	=	"	Sequence / Progression* Above bounded sequence   	"	fr	=	"	Suite majorée	"	ar	=	"	متتالية محدودة من الأعلى	"	/>
+<dict	en	=	"	Sequence / Progression* Arithmeticsequence                           	"	fr	=	"	Suite arithmétique	"	ar	=	"	متتالية حسابية	"	/>
+<dict	en	=	"	Sequence / Progression* Below bounded sequence                   	"	fr	=	"	Suite minorée	"	ar	=	"	متتالية محدودة من الأسفل	"	/>
+<dict	en	=	"	Sequence / Progression* Exact sequence	"	fr	=	"	Suite exacte	"	ar	=	"	متتالية منضبطة 	"	/>
+<dict	en	=	"	Sequence / Progression* Extracted sequence	"	fr	=	"	Suite extraire	"	ar	=	"	متتالية مستخرجة	"	/>
+<dict	en	=	"	Sequence / Progression* Generalised sequence	"	fr	=	"	Suite généralisée	"	ar	=	"	متتالية معممة / متتالية شمولية	"	/>
+<dict	en	=	"	Sequence / Progression* Geometric sequence	"	fr	=	"	Suite géométrique	"	ar	=	"	متتالية هندسية 	"	/>
+<dict	en	=	"	Sequence / Progression* Increasing sequence	"	fr	=	"	Suite croissante	"	ar	=	"	متتالية متزايدة   	"	/>
+<dict	en	=	"	Sequence / Progression* Montone sequence	"	fr	=	"	Suite monotone	"	ar	=	"	متتالية رتيبة	"	/>
+<dict	en	=	"	Sequence / Progression* Neglected sequence	"	fr	=	"	Suite négligée	"	ar	=	"	متتالية مهملة 	"	/>
+<dict	en	=	"	Sequence / Progression* Numerical sequence	"	fr	=	"	Suite  numérique	"	ar	=	"	متتالية عددية	"	/>
+<dict	en	=	"	Sequence / Progression* Recurrent sequence	"	fr	=	"	Suite récurrente	"	ar	=	"	متتاية تراجعية	"	/>
+<dict	en	=	"	Sequential continuity	"	fr	=	"	Continuité séquentielle	"	ar	=	"	استمرارية متتابعة 	"	/>
+<dict	en	=	"	Series	"	fr	=	"	Série	"	ar	=	"	سِلسلة / متسلسلة	"	/>
+<dict	en	=	"	Series product	"	fr	=	"	Produit des séries	"	ar	=	"	جداء سلاسل	"	/>
+<dict	en	=	"	Series* Alternating series	"	fr	=	"	Série alternative	"	ar	=	"	سلسلة متناوبة	"	/>
+<dict	en	=	"	Series* Alternative series              	"	fr	=	"	Série alternée	"	ar	=	"	سلسلة متناوبة	"	/>
+<dict	en	=	"	Series* Convergent series	"	fr	=	"	Série convergente  	"	ar	=	"	سلسلة متقاربة	"	/>
+<dict	en	=	"	Series* Divergents series	"	fr	=	"	Série divergents	"	ar	=	"	سلسلة متباعدة	"	/>
+<dict	en	=	"	Series* Geometric series	"	fr	=	"	Série géométrique	"	ar	=	"	سلسلة هندسية	"	/>
+<dict	en	=	"	Series* Qualitative statistical series	"	fr	=	"	Série statistique qualitative	"	ar	=	"	سلسلة إحصائية نوعية 	"	/>
+<dict	en	=	"	Series* Quantitative statistical series	"	fr	=	"	Série statistique quantitative	"	ar	=	"	سلسلة إحصائية كمية	"	/>
+<dict	en	=	"	Series* Statistical series	"	fr	=	"	Série statistique	"	ar	=	"	سلسلة إحصائية	"	/>
+<dict	en	=	"	Sesquilinear 	"	fr	=	"	Sesquilinéaire	"	ar	=	"	ثلاثة أنصاف الخطية	"	/>
+<dict	en	=	"	Set	"	fr	=	"	Ensemble	"	ar	=	"	مجموعة	"	/>
+<dict	en	=	"	Set* Absorbing set	"	fr	=	"	Ensemble absorbant	"	ar	=	"	مجموعة ماصة	"	/>
+<dict	en	=	"	Set* Access set	"	fr	=	"	Ensemble de but	"	ar	=	"	مجموعة الوصول	"	/>
+<dict	en	=	"	Set* Closed set	"	fr	=	"	Ensemble fermé	"	ar	=	"	مجموعة مغلقة	"	/>
+<dict	en	=	"	Set* Compact set	"	fr	=	"	Ensemble compact	"	ar	=	"	مجموعة متراصة	"	/>
+<dict	en	=	"	Set* Complete set	"	fr	=	"	Ensemble complet	"	ar	=	"	مجموعة متكاملة	"	/>
+<dict	en	=	"	Set* Complex numbers set	"	fr	=	"	Ensemble des nombres complexes	"	ar	=	"	مجموعة الأعداد المركبة / مجموعة الأعداد العقدية 	"	/>
+<dict	en	=	"	Set* Connected Set	"	fr	=	"	Ensemble connexe	"	ar	=	"	مجموعة مترابطة	"	/>
+<dict	en	=	"	Set* Countable set	"	fr	=	"	Ensemble dénombrable	"	ar	=	"	مجموعة قابلة للعد	"	/>
+<dict	en	=	"	Set* Disjoint set	"	fr	=	"	Ensemble disjoint	"	ar	=	"	مجموعة منفصلة	"	/>
+<dict	en	=	"	Set* Empty set	"	fr	=	"	Ensemble vide	"	ar	=	"	مجموعة فارغة	"	/>
+<dict	en	=	"	Set* Empty set	"	fr	=	"	Ensemble vide	"	ar	=	"	مجموعة خالية	"	/>
+<dict	en	=	"	Set* Independent set	"	fr	=	"	Ensemble indépendant	"	ar	=	"	مجموعة مستقلة	"	/>
+<dict	en	=	"	Set* Infinite set	"	fr	=	"	Ensemble infini	"	ar	=	"	مجموعة غير منتهية	"	/>
+<dict	en	=	"	Set* Integer set	"	fr	=	"	Ensemble des entiers 	"	ar	=	"	مجموعة الأعداد الصحيحة	"	/>
+<dict	en	=	"	Set* Irrational numbers set	"	fr	=	"	Ensemble des nombres irrationnels	"	ar	=	"	مجموعة الأعداد الصماء / مجموعة الأعداد غير الناطقة	"	/>
+<dict	en	=	"	Set* Measurable set	"	fr	=	"	Ensemble mesurable	"	ar	=	"	مجموعة قابلة للقياس	"	/>
+<dict	en	=	"	Set* Natural number set	"	fr	=	"	Ensemble des entiers naturels	"	ar	=	"	مجموعة الأعداد الطبيعية	"	/>
+<dict	en	=	"	Set* Negligible set	"	fr	=	"	Ensemble négligeable	"	ar	=	"	مجموعة مهملة	"	/>
+<dict	en	=	"	Set* Open set	"	fr	=	"	Ensemble ouvert	"	ar	=	"	مجموعة مفتوحة	"	/>
+<dict	en	=	"	Set* Ordinal set	"	fr	=	"	Ensemble ordinal 	"	ar	=	"	مجموعة ترتيبية 	"	/>
+<dict	en	=	"	Set* Orthogonal set	"	fr	=	"	Ensemble orthogonal	"	ar	=	"	مجموعة متعامدة	"	/>
+<dict	en	=	"	Set* Quotient set	"	fr	=	"	Ensemble quotient	"	ar	=	"	مجموعة حاصل القسمة	"	/>
+<dict	en	=	"	Set* Rational numbers set	"	fr	=	"	Ensemble des nombres rationnels	"	ar	=	"	مجموعة الأعداد الناطقة 	"	/>
+<dict	en	=	"	Set* Real numbers set	"	fr	=	"	Ensemble des nombres réels	"	ar	=	"	مجموعة الأعداد الحقيقية	"	/>
+<dict	en	=	"	Set* Totally ordered set 	"	fr	=	"	Ensemble totalement ordonné	"	ar	=	"	مجموعة مرتبة كليا	"	/>
+<dict	en	=	"	Set* Triadic set	"	fr	=	"	Ensemble triadique	"	ar	=	"	مجموعة ثلثية / مجموعة ثالوثية 	"	/>
+<dict	en	=	"	Set* Well-ordered set	"	fr	=	"	Ensemble bien ordonné	"	ar	=	"	مجموعة مرتبة جيدا 	"	/>
+<dict	en	=	"	Sextic 	"	fr	=	"	Sextique 	"	ar	=	"	سداسي الدرجة	"	/>
+<dict	en	=	"	Sharing	"	fr	=	"	Partage  	"	ar	=	"	تقاسم / مشاركة	"	/>
+<dict	en	=	"	Shrink                                   	"	fr	=	"	Diminution	"	ar	=	"	تقلص	"	/>
+<dict	en	=	"	Side	"	fr	=	"	Côté	"	ar	=	"	ضلع	"	/>
+<dict	en	=	"	Sign  	"	fr	=	"	Signe	"	ar	=	"	إشارة 	"	/>
+<dict	en	=	"	Significance                        	"	fr	=	"	Signification	"	ar	=	"	معنى / مدلول 	"	/>
+<dict	en	=	"	Significant                           	"	fr	=	"	Significatif	"	ar	=	"	معبر / ذو معنى / ذو قيمة	"	/>
+<dict	en	=	"	Similar 	"	fr	=	"	Similaire / Semblable / Analogue	"	ar	=	"	مشابه / مماثل	"	/>
+<dict	en	=	"	Similitude	"	fr	=	"	Similitude	"	ar	=	"	تشابه	"	/>
+<dict	en	=	"	Similitude* Direct similitude	"	fr	=	"	Similitude directe	"	ar	=	"	تشابه مباشر	"	/>
+<dict	en	=	"	Similitude* Indirect similitude	"	fr	=	"	Similitude indirect	"	ar	=	"	تشابه غير مباشر	"	/>
+<dict	en	=	"	Simple 	"	fr	=	"	Simple  	"	ar	=	"	بسيط	"	/>
+<dict	en	=	"	Simple interest 	"	fr	=	"	Intérêt simple	"	ar	=	"	فائدة بسيطة 	"	/>
+<dict	en	=	"	Simplex	"	fr	=	"	Simplexe  	"	ar	=	"	مبسطة / تبسيطة / مفرد (ة) / مُبسّط	"	/>
+<dict	en	=	"	Simplicity	"	fr	=	"	Simplicité	"	ar	=	"	بساطة	"	/>
+<dict	en	=	"	Simplification	"	fr	=	"	Simplification  	"	ar	=	"	تبسيط	"	/>
+<dict	en	=	"	Simplify	"	fr	=	"	Simplifier  	"	ar	=	"	بسط 	"	/>
+<dict	en	=	"	Simulation	"	fr	=	"	Simulation	"	ar	=	"	محاكاة	"	/>
+<dict	en	=	"	Simultaneous	"	fr	=	"	Simultané	"	ar	=	"	متزامن / في آن واحد 	"	/>
+<dict	en	=	"	Simultaneously	"	fr	=	"	Simultanément	"	ar	=	"	معًا /  في نفس الوقت	"	/>
+<dict	en	=	"	Sine                                     	"	fr	=	"	Sinus	"	ar	=	"	جيب 	"	/>
+<dict	en	=	"	Singleton	"	fr	=	"	Singleton	"	ar	=	"	أحادية ( مجموعة ) منفردة / تحتوي عنصرا وحيدا	"	/>
+<dict	en	=	"	Singular	"	fr	=	"	Singulier	"	ar	=	"	مفرد / شاذ	"	/>
+<dict	en	=	"	Singularity	"	fr	=	"	Singularité	"	ar	=	"	تفرد	"	/>
+<dict	en	=	"	Singularity* Isolated Singularity	"	fr	=	"	Singularité isolée 	"	ar	=	"	تفرد معزول	"	/>
+<dict	en	=	"	Sinusoidal	"	fr	=	"	Sinusoïdal	"	ar	=	"	جيبي / جيبية	"	/>
+<dict	en	=	"	Slice	"	fr	=	"	Tranche	"	ar	=	"	شريحة	"	/>
+<dict	en	=	"	Slope	"	fr	=	"	Pente	"	ar	=	"	ميل	"	/>
+<dict	en	=	"	Smooth 	"	fr	=	"	Lisse / Smooth	"	ar	=	"	أملس	"	/>
+<dict	en	=	"	Solution	"	fr	=	"	Solution 	"	ar	=	"	حل	"	/>
+<dict	en	=	"	Solution* Candidate solution	"	fr	=	"	Solution candidat	"	ar	=	"	حل مرشح	"	/>
+<dict	en	=	"	Solution* Feasible solutions	"	fr	=	"	Solutions possibles / Solutions faisables	"	ar	=	"	حلول ممكنة	"	/>
+<dict	en	=	"	Solution* Fundamental solution	"	fr	=	"	Solution Fondamentale	"	ar	=	"	حل أساسي	"	/>
+<dict	en	=	"	Sommable	"	fr	=	"	Sommable	"	ar	=	"	قابل للجمع 	"	/>
+<dict	en	=	"	Space	"	fr	=	"	Espace	"	ar	=	"	فضاء	"	/>
+<dict	en	=	"	Space* Affine space	"	fr	=	"	Espace affine	"	ar	=	"	فضاء تآلفي	"	/>
+<dict	en	=	"	Space* Compact space	"	fr	=	"	Espace compact	"	ar	=	"	فضاء متراص	"	/>
+<dict	en	=	"	Space* Complete metric space	"	fr	=	"	Espace métrique complet	"	ar	=	"	فضاء متري تام	"	/>
+<dict	en	=	"	Space* Complete space	"	fr	=	"	Espace complet	"	ar	=	"	فضاء تام	"	/>
+<dict	en	=	"	Space* Connected space	"	fr	=	"	Espace connecté	"	ar	=	"	فضاء مترابط	"	/>
+<dict	en	=	"	Space* Euclidean space	"	fr	=	"	Espace euclidien	"	ar	=	"	فضاء إقليدي	"	/>
+<dict	en	=	"	Space* Functional space	"	fr	=	"	Espace  fonctionnel	"	ar	=	"	فضاء دوال 	"	/>
+<dict	en	=	"	Space* Geometric space	"	fr	=	"	Espace géométrique	"	ar	=	"	فضاء هندسي	"	/>
+<dict	en	=	"	Space* Homogeneous space	"	fr	=	"	Espace homogène	"	ar	=	"	فضاء متجانس	"	/>
+<dict	en	=	"	Space* Measurable space	"	fr	=	"	Espace mesurable	"	ar	=	"	فضاء قابل للقياس	"	/>
+<dict	en	=	"	Space* Measured space / Measure space	"	fr	=	"	Espace mesuré	"	ar	=	"	فضاء مقيس 	"	/>
+<dict	en	=	"	Space* Metric space	"	fr	=	"	Espace métrique	"	ar	=	"	فضاء مِتري	"	/>
+<dict	en	=	"	Space* Metrisable space	"	fr	=	"	Espace métrisable	"	ar	=	"	فضاء قابل للتمتير / لمسافة	"	/>
+<dict	en	=	"	Space* Normal space	"	fr	=	"	Espace normal	"	ar	=	"	فضاء منتظم	"	/>
+<dict	en	=	"	Space* Normed space	"	fr	=	"	Espace normé	"	ar	=	"	فضاء ناظمي	"	/>
+<dict	en	=	"	Space* Probabilisable space  	"	fr	=	"	Espace probabilisable 	"	ar	=	"	فضاء قابل للاحتمال	"	/>
+<dict	en	=	"	Space* Probability space	"	fr	=	"	Espaceprobabilisé	"	ar	=	"	فضاء احتمالي	"	/>
+<dict	en	=	"	Space* Projective space	"	fr	=	"	Espace projectif	"	ar	=	"	فضاء اسقاطي 	"	/>
+<dict	en	=	"	Space* Quotient space	"	fr	=	"	Espace quotient	"	ar	=	"	فضاء حاصل القسمة	"	/>
+<dict	en	=	"	Space* Reflexive space	"	fr	=	"	Espace reflexif	"	ar	=	"	فضاء انعكاسي 	"	/>
+<dict	en	=	"	Space* Separable space	"	fr	=	"	Espace séparable	"	ar	=	"	فضاء قابل للفصل	"	/>
+<dict	en	=	"	Space* Separated space	"	fr	=	"	Espace séparé (Hausdorff)	"	ar	=	"	فضاء منفصل	"	/>
+<dict	en	=	"	Space* Separately locally space	"	fr	=	"	Espace localement séparé	"	ar	=	"	فضاء منفصل محليا	"	/>
+<dict	en	=	"	Space* Slightly separated space	"	fr	=	"	Espace faiblement séparé	"	ar	=	"	فضاء منفصل بضعف 	"	/>
+<dict	en	=	"	Space* Standard space	"	fr	=	"	Espace standard	"	ar	=	"	فضاء مِعياري / فضاء نموذجي	"	/>
+<dict	en	=	"	Space* Subspace	"	fr	=	"	Sous espace	"	ar	=	"	فضاءجزئي	"	/>
+<dict	en	=	"	Space* Topological space	"	fr	=	"	Espace topologique	"	ar	=	"	فضاء طبولوجي	"	/>
+<dict	en	=	"	Space* Vector norm space	"	fr	=	"	Espace vectoriel  normé	"	ar	=	"	فضاء شعاعي نظيمي 	"	/>
+<dict	en	=	"	Space* Vector space / Linear space	"	fr	=	"	Espace vectoriel 	"	ar	=	"	فضاء شعاعي / فضاء متجهي	"	/>
+<dict	en	=	"	Space-time	"	fr	=	"	Espace ponctuel	"	ar	=	"	فضاء نقطي 	"	/>
+<dict	en	=	"	Spectral	"	fr	=	"	Spectral	"	ar	=	"	طيفي	"	/>
+<dict	en	=	"	Spectre / Spectrum	"	fr	=	"	Spectre	"	ar	=	"	طيف	"	/>
+<dict	en	=	"	Sphere 	"	fr	=	"	Sphère	"	ar	=	"	 كرة 	"	/>
+<dict	en	=	"	Spherical	"	fr	=	"	Sphérique	"	ar	=	"	كروي	"	/>
+<dict	en	=	"	Spiral 	"	fr	=	"	Spiral	"	ar	=	"	حلزوني / لولبي	"	/>
+<dict	en	=	"	Spline	"	fr	=	"	Spline	"	ar	=	"	منحى	"	/>
+<dict	en	=	"	Square	"	fr	=	"	Carré	"	ar	=	"	مُربَّع	"	/>
+<dict	en	=	"	Square root	"	fr	=	"	Racine carré	"	ar	=	"	جذرتربيعي	"	/>
+<dict	en	=	"	Square* Least squares	"	fr	=	"	Moindres carrés	"	ar	=	"	المربعات الدنيا / المربعات الصغرى	"	/>
+<dict	en	=	"	Square* Perfect square	"	fr	=	"	Carré parfait	"	ar	=	"	مربع تام	"	/>
+<dict	en	=	"	Stability	"	fr	=	"	Stabilité 	"	ar	=	"	استقرار	"	/>
+<dict	en	=	"	Stability of a solution	"	fr	=	"	Stabilité d’une solution	"	ar	=	"	إستقرار حل 	"	/>
+<dict	en	=	"	Stable	"	fr	=	"	Stable	"	ar	=	"	مستقر	"	/>
+<dict	en	=	"	Stackable	"	fr	=	"	Superposable	"	ar	=	"	قابل للتراكب	"	/>
+<dict	en	=	"	 Standard	"	fr	=	"	Standard  /  Norme	"	ar	=	"	مقياس / معيار	"	/>
+<dict	en	=	"	 Static	"	fr	=	"	Statique	"	ar	=	"	سكون / سكوني 	"	/>
+<dict	en	=	"	Stationary	"	fr	=	"	Stationnaire	"	ar	=	"	مستقر / متوقف	"	/>
+<dict	en	=	"	Stationary value	"	fr	=	"	Valeur stationnaire 	"	ar	=	"	قيمة ثابتة / قيمة مستقرة	"	/>
+<dict	en	=	"	Statistic                                	"	fr	=	"	Statistique	"	ar	=	"	إحصاء	"	/>
+<dict	en	=	"	Statistic* Descriptive statistic             	"	fr	=	"	Statistique descriptive	"	ar	=	"	إحصاء وصفي	"	/>
+<dict	en	=	"	Statistic* Inferential statistics	"	fr	=	"	Statistique inférentielle	"	ar	=	"	إحصاء استدلالي	"	/>
+<dict	en	=	"	Statistic* Multivariate statistics	"	fr	=	"	Statistique multivariée	"	ar	=	"	إحصاء متعدد المتغيرات	"	/>
+<dict	en	=	"	Statistical inference	"	fr	=	"	Inférence statistique	"	ar	=	"	إستدلال إحصائي	"	/>
+<dict	en	=	"	Stimulating 	"	fr	=	"	Stimulant	"	ar	=	"	منشط / محفز	"	/>
+<dict	en	=	"	Stimulation	"	fr	=	"	Stimulation	"	ar	=	"	تحفيز	"	/>
+<dict	en	=	"	Straight line / Rectilinear	"	fr	=	"	Droite  /  Rectiligne	"	ar	=	"	مستقيم	"	/>
+<dict	en	=	"	Straight Line / Rectilinear* Adjustment line	"	fr	=	"	Droite d'ajustement	"	ar	=	"	مستقيم التعديل	"	/>
+<dict	en	=	"	Straight Line / Rectilinear* Coincident lines	"	fr	=	"	Droites confondues (coïncidentes)	"	ar	=	"	مستقيمات متطابقة	"	/>
+<dict	en	=	"	Straight Line / Rectilinear* Concurrent lines	"	fr	=	"	Droites concurentes	"	ar	=	"	مستقيمات متقاطعة	"	/>
+<dict	en	=	"	Straight Line / Rectilinear* Coplanar lines	"	fr	=	"	Droites coplanaires	"	ar	=	"	مستقيمات من نفس المستوي	"	/>
+<dict	en	=	"	Straight Line / Rectilinear* Horizontal line	"	fr	=	"	Droite horizontale	"	ar	=	"	مستقيم أفقي 	"	/>
+<dict	en	=	"	Straight Line / Rectilinear* Number line / Numerical line 	"	fr	=	"	Droite numérique	"	ar	=	"	مستقيم عددي 	"	/>
+<dict	en	=	"	Straight Line / Rectilinear* Oblique line	"	fr	=	"	Droite oblique	"	ar	=	"	مستقيم مائل	"	/>
+<dict	en	=	"	Straight Line / Rectilinear* Parallel lines	"	fr	=	"	Droites parallèles 	"	ar	=	"	مستقيمات متوازية	"	/>
+<dict	en	=	"	Straight Line / Rectilinear* Perpendicular lines	"	fr	=	"	Droites perpendiculaires 	"	ar	=	"	مستقيمات متعامدة	"	/>
+<dict	en	=	"	Straight Line / Rectilinear* Transversal line / Secant line	"	fr	=	"	Droite sécante	"	ar	=	"	مستقيم قاطع	"	/>
+<dict	en	=	"	Straight Line / Rectilinear* Vertical line	"	fr	=	"	Droite verticale 	"	ar	=	"	مستقيم عمودي	"	/>
+<dict	en	=	"	Stranger 	"	fr	=	"	Etranger ( élèment ----)	"	ar	=	"	غريب ( عنصر -----)	"	/>
+<dict	en	=	"	Strict	"	fr	=	"	Strict	"	ar	=	"	تام / جازم	"	/>
+<dict	en	=	"	Strictly	"	fr	=	"	Strictement	"	ar	=	"	تماما	"	/>
+<dict	en	=	"	Strong 	"	fr	=	"	Fort  	"	ar	=	"	قوي	"	/>
+<dict	en	=	"	Structure 	"	fr	=	"	Structure	"	ar	=	"	بنية	"	/>
+<dict	en	=	"	Structure*Algebraic structure	"	fr	=	"	Structure algébrique	"	ar	=	"	بنية جبرية	"	/>
+<dict	en	=	"	 Subdivision	"	fr	=	"	Subdivision 	"	ar	=	"	تقسيم	"	/>
+<dict	en	=	"	Submersion	"	fr	=	"	Submersion	"	ar	=	"	غمرية / انغمار	"	/>
+<dict	en	=	"	Subset                                 	"	fr	=	"	Sous-ensemble	"	ar	=	"	مجموعة جزئية	"	/>
+<dict	en	=	"	Subspace	"	fr	=	"	Sous- espace vectoriel	"	ar	=	"	فضاء شعاعي جزئي	"	/>
+<dict	en	=	"	 Substitutable	"	fr	=	"	Substituable	"	ar	=	"	قابل للتعويض 	"	/>
+<dict	en	=	"	Substitution                         	"	fr	=	"	Substitution	"	ar	=	"	استبدال / تعويض	"	/>
+<dict	en	=	"	Substraction  	"	fr	=	"	Soustraction  	"	ar	=	"	طرح	"	/>
+<dict	en	=	"	Subtract	"	fr	=	"	Soustraire	"	ar	=	"	يطرح	"	/>
+<dict	en	=	"	Success	"	fr	=	"	Succès  	"	ar	=	"	نجاح	"	/>
+<dict	en	=	"	Successive	"	fr	=	"	Successif	"	ar	=	"	مُتوالٍ / متعاقب 	"	/>
+<dict	en	=	"	Successor	"	fr	=	"	Successeur	"	ar	=	"	مُوالٍ / خليف / تالي	"	/>
+<dict	en	=	"	Sufficient	"	fr	=	"	Suffisant	"	ar	=	"	كاف 	"	/>
+<dict	en	=	"	Sum	"	fr	=	"	Somme	"	ar	=	"	جمع / مجموع	"	/>
+<dict	en	=	"	Sum* Direct sum	"	fr	=	"	Somme directe	"	ar	=	"	جمع مباشر	"	/>
+<dict	en	=	"	Sum* Indirect sum	"	fr	=	"	Somme indirecte	"	ar	=	"	جمع غير مباشر	"	/>
+<dict	en	=	"	Sum* Partial sum	"	fr	=	"	Somme partielle	"	ar	=	"	مجوع جزئي	"	/>
+<dict	en	=	"	 Summability	"	fr	=	"	Sommabilité	"	ar	=	"	قابلية الجمع 	"	/>
+<dict	en	=	"	Summary 	"	fr	=	"	Sommaire 	"	ar	=	"	خلاصة / ملخص	"	/>
+<dict	en	=	"	Superposition 	"	fr	=	"	Superposition	"	ar	=	"	تراكب	"	/>
+<dict	en	=	"	Support	"	fr	=	"	Support	"	ar	=	"	حامل / داعم / سند	"	/>
+<dict	en	=	"	Supremum	"	fr	=	"	Supremum	"	ar	=	"	حد أعلى 	"	/>
+<dict	en	=	"	Surface                                	"	fr	=	"	Surface	"	ar	=	"	مساحة / سطح	"	/>
+<dict	en	=	"	Surface* Developable surface	"	fr	=	"	Surface développable	"	ar	=	"	سطح انبساطي / سطح قابل للنشر	"	/>
+<dict	en	=	"	Surjection 	"	fr	=	"	Surjection	"	ar	=	"	غمر 	"	/>
+<dict	en	=	"	Surjective	"	fr	=	"	Surjective	"	ar	=	"	غامر	"	/>
+<dict	en	=	"	Survey / Poll	"	fr	=	"	Sondage	"	ar	=	"	إستفتاء / سبر	"	/>
+<dict	en	=	"	Syllogism	"	fr	=	"	Syllogisme 	"	ar	=	"	قِياس	"	/>
+<dict	en	=	"	Symbol 	"	fr	=	"	Symbole	"	ar	=	"	رمز	"	/>
+<dict	en	=	"	Symmetric / Symmetrical 	"	fr	=	"	Symétrique	"	ar	=	"	متماثل / متناظر	"	/>
+<dict	en	=	"	Symmetry 	"	fr	=	"	Symétrie	"	ar	=	"	تناظر	"	/>
+<dict	en	=	"	Symmetry* Axial symmetry 	"	fr	=	"	Symétrie axiale	"	ar	=	"	تناظر محوري	"	/>
+<dict	en	=	"	Synthesis	"	fr	=	"	Synthèse	"	ar	=	"	عرض عام 	"	/>
+<dict	en	=	"	System 	"	fr	=	"	Système	"	ar	=	"	نظام / جملة	"	/>
+<dict	en	=	"	System of linear equations	"	fr	=	"	Système d'équations linéaires  	"	ar	=	"	جملة معادلات خطية / نظام معادلات خطية	"	/>
+<dict	en	=	"	System* Decimal system	"	fr	=	"	Système décimal	"	ar	=	"	نظام عشري	"	/>
+<dict	en	=	"	System* Metric system	"	fr	=	"	Système métrique	"	ar	=	"	نظام متري	"	/>
+<dict	en	=	"	Systematic	"	fr	=	"	Systématique	"	ar	=	"	منهجي / نسقي	"	/>
+<dict	en	=	"	Systematisation	"	fr	=	"	Systématisation	"	ar	=	"	منهجة / نسق	"	/>
+<dict	en	=	"	Table  	"	fr	=	"	Table	"	ar	=	"	جدول  	"	/>
+<dict	en	=	"	Table* Truth table	"	fr	=	"	Table devérité	"	ar	=	"	جدول الحقيقة	"	/>
+<dict	en	=	"	Tangent 	"	fr	=	"	Tangente	"	ar	=	"	مماس / ظل	"	/>
+<dict	en	=	"	Tangential 	"	fr	=	"	Tangentiel	"	ar	=	"	مماسي / تماسي 	"	/>
+<dict	en	=	"	Tautology  	"	fr	=	"	Tautologie 	"	ar	=	"	بينة / أكيدة / تحصيل الحاصل 	"	/>
+<dict	en	=	"	Tensor	"	fr	=	"	Tenseur	"	ar	=	"	موتر	"	/>
+<dict	en	=	"	Tensor* Binary tensor	"	fr	=	"	Tenseur Binaire	"	ar	=	"	موتر ثنائي	"	/>
+<dict	en	=	"	Tensor* Stress tensor	"	fr	=	"	Tenseur des contraintes	"	ar	=	"	موتر الإجهاد / موتر القيود	"	/>
+<dict	en	=	"	Term	"	fr	=	"	Terme	"	ar	=	"	حد	"	/>
+<dict	en	=	"	Term* General term                        	"	fr	=	"	Terme général 	"	ar	=	"	الحد العام	"	/>
+<dict	en	=	"	Test 	"	fr	=	"	Test	"	ar	=	"	إختبار	"	/>
+<dict	en	=	"	Test* Hypothesis test	"	fr	=	"	Test d’hypothèse	"	ar	=	"	اختبار الفرضية	"	/>
+<dict	en	=	"	Test* Two-sided test	"	fr	=	"	Testbilateral	"	ar	=	"	اختبار ثنائي الجانب	"	/>
+<dict	en	=	"	Test* Unilateral test	"	fr	=	"	Testunilatéral	"	ar	=	"	اختبار وحيد الجانب	"	/>
+<dict	en	=	"	Tetrahedron	"	fr	=	"	Tétraèdre	"	ar	=	"	رباعي الوجوه / رباعي السطوح	"	/>
+<dict	en	=	"	Theorem	"	fr	=	"	Théorème	"	ar	=	"	مبرهنة	"	/>
+<dict	en	=	"	Theorem* Intermediate value theorem / Mean value theorem	"	fr	=	"	Théorème de la valeur intermédiaire	"	ar	=	"	مبرهنة القيم المتوسطة 	"	/>
+<dict	en	=	"	Theory 	"	fr	=	"	Théorie  	"	ar	=	"	نظرية	"	/>
+<dict	en	=	"	Third	"	fr	=	"	Tiers /  Troisième	"	ar	=	"	ثلث  / ثالث  	"	/>
+<dict	en	=	"	Third quartile	"	fr	=	"	Troisième quartile	"	ar	=	"	الربعي الثالث	"	/>
+<dict	en	=	"	Tilt	"	fr	=	"	Inclinaison / Pente	"	ar	=	"	إمالة  / ميل / ميلان	"	/>
+<dict	en	=	"	Time 	"	fr	=	"	Temps	"	ar	=	"	زمن	"	/>
+<dict	en	=	"	Topological dual	"	fr	=	"	Dual topologique	"	ar	=	"	طُوبوغرافية مُزدوجة	"	/>
+<dict	en	=	"	Topology 	"	fr	=	"	Topologie	"	ar	=	"	طبولوجيا ( الهندسة المكانية )	"	/>
+<dict	en	=	"	Torque	"	fr	=	"	Torque / Moment de torsion	"	ar	=	"	عزم الدوران 	"	/>
+<dict	en	=	"	Torsion	"	fr	=	"	Torsion	"	ar	=	"	إلتواء	"	/>
+<dict	en	=	"	Total	"	fr	=	"	Totaliser	"	ar	=	"	جمع	"	/>
+<dict	en	=	"	Trace	"	fr	=	"	Trace	"	ar	=	"	أثر	"	/>
+<dict	en	=	"	Trajectory 	"	fr	=	"	Trajectoire	"	ar	=	"	مسار	"	/>
+<dict	en	=	"	Transcendent	"	fr	=	"	Transcendant 	"	ar	=	"	متسام 	"	/>
+<dict	en	=	"	Transformation                    	"	fr	=	"	Transformation	"	ar	=	"	تحويل	"	/>
+<dict	en	=	"	Transformation* Linear transformation	"	fr	=	"	Transformation linéaire	"	ar	=	"	تحويل خطّي	"	/>
+<dict	en	=	"	Transformator	"	fr	=	"	Transformateur 	"	ar	=	"	محوِّل	"	/>
+<dict	en	=	"	Transformed	"	fr	=	"	Transformé  	"	ar	=	"	محوَّل	"	/>
+<dict	en	=	"	Transition area	"	fr	=	"	Zone de transition    	"	ar	=	"	منطقة انتقالية 	"	/>
+<dict	en	=	"	Transitive	"	fr	=	"	Transitif (ve)	"	ar	=	"	متعد (ة)	"	/>
+<dict	en	=	"	Transitivity	"	fr	=	"	Transitivité	"	ar	=	"	تعدي	"	/>
+<dict	en	=	"	Translated	"	fr	=	"	Translaté  	"	ar	=	"	منسحب / مترجم	"	/>
+<dict	en	=	"	Translation 	"	fr	=	"	Translation	"	ar	=	"	انسحاب	"	/>
+<dict	en	=	"	Transposed	"	fr	=	"	Transposé	"	ar	=	"	منقول 	"	/>
+<dict	en	=	"	Transposition 	"	fr	=	"	Transposition	"	ar	=	"	نقل / منقول	"	/>
+<dict	en	=	"	Trapezoid 	"	fr	=	"	Trapèze	"	ar	=	"	شبة منحرف	"	/>
+<dict	en	=	"	Trend 	"	fr	=	"	Tendance	"	ar	=	"	ميول / نزعة / إتجاه	"	/>
+<dict	en	=	"	Triadic	"	fr	=	"	Triadique	"	ar	=	"	ثلثية / ثالوثية 	"	/>
+<dict	en	=	"	Triangle 	"	fr	=	"	Triangle	"	ar	=	"	مثلث	"	/>
+<dict	en	=	"	Triangle* Equilateral triangle 	"	fr	=	"	Triangle équilateral 	"	ar	=	"	مثلت متساوي الأضلاع	"	/>
+<dict	en	=	"	Triangle* Isoceles triangle	"	fr	=	"	Triangle isocèle 	"	ar	=	"	مثلث متساوي الساقين	"	/>
+<dict	en	=	"	Triangle* Similar triangles	"	fr	=	"	Triangles semblables	"	ar	=	"	مثلثات متشابهة	"	/>
+<dict	en	=	"	Triangulable	"	fr	=	"	Trigonalisable	"	ar	=	"	قابل للتثليث 	"	/>
+<dict	en	=	"	Triangular	"	fr	=	"	Triangulaire	"	ar	=	"	مثلثي	"	/>
+<dict	en	=	"	Triangular* Inferior triangular	"	fr	=	"	Triangulaire inférieurement	"	ar	=	"	مثلثي من الأسفل	"	/>
+<dict	en	=	"	Triangular* Superior triangular	"	fr	=	"	Triangulaire supérieurement	"	ar	=	"	مثلثي من الأعلى	"	/>
+<dict	en	=	"	Triangulate 	"	fr	=	"	Trigonaliser  	"	ar	=	"	ثَلث	"	/>
+<dict	en	=	"	Triangulation 	"	fr	=	"	Triangulation	"	ar	=	"	تثليث	"	/>
+<dict	en	=	"	Trigonometric	"	fr	=	"	Trigonométrique 	"	ar	=	"	مثلثي 	"	/>
+<dict	en	=	"	Trigonometry 	"	fr	=	"	Trigonométrie	"	ar	=	"	حساب المثلثات / علم المثلّثات	"	/>
+<dict	en	=	"	Trilinear	"	fr	=	"	Trilinéaire	"	ar	=	"	ثلاثي الخطية 	"	/>
+<dict	en	=	"	Trinomial 	"	fr	=	"	Trinôme	"	ar	=	"	ثلاثي الحدود 	"	/>
+<dict	en	=	"	Triplet	"	fr	=	"	Triplet	"	ar	=	"	ثلاثية	"	/>
+<dict	en	=	"	Trivial	"	fr	=	"	Trivial	"	ar	=	"	غير مهم / تافه / بَيِّن	"	/>
+<dict	en	=	"	Truncation	"	fr	=	"	Troncature	"	ar	=	"	بتر / قطع	"	/>
+<dict	en	=	"	Truncation tenth	"	fr	=	"	Troncature au dixième	"	ar	=	"	القطع للعشر/ التقريب للعشر  	"	/>
+<dict	en	=	"	Truncation unit	"	fr	=	"	Troncature à l'unité	"	ar	=	"	القطع للوحدة / التقريب للوحدة	"	/>
+<dict	en	=	"	Truth 	"	fr	=	"	Vérité	"	ar	=	"	حقيقة / صواب 	"	/>
+<dict	en	=	"	Turning area	"	fr	=	"	Zone de virage    	"	ar	=	"	منطقة تحول / منطقة لف 	"	/>
+<dict	en	=	"	Type	"	fr	=	"	Type	"	ar	=	"	نوع / نمط	"	/>
+<dict	en	=	"	Undetermined	"	fr	=	"	Indéterminé	"	ar	=	"	غير معين	"	/>
+<dict	en	=	"	Uniform                               	"	fr	=	"	Uniforme	"	ar	=	"	منتظم	"	/>
+<dict	en	=	"	Uniformisable	"	fr	=	"	Uniformisable	"	ar	=	"	قابل للتنظيم 	"	/>
+<dict	en	=	"	Uniformity	"	fr	=	"	Uniformité	"	ar	=	"	انتظامية	"	/>
+<dict	en	=	"	Uniformly	"	fr	=	"	Uniformément	"	ar	=	"	بانتظام 	"	/>
+<dict	en	=	"	 Unimodular	"	fr	=	"	Unimodulaire	"	ar	=	"	وحيد المقياس 	"	/>
+<dict	en	=	"	Union	"	fr	=	"	Union	"	ar	=	"	إتحاد	"	/>
+<dict	en	=	"	 Unipolar	"	fr	=	"	Unipolaire	"	ar	=	"	وحيد القطب 	"	/>
+<dict	en	=	"	 Unipotence	"	fr	=	"	Unipotence 	"	ar	=	"	أحادية القوة	"	/>
+<dict	en	=	"	Unipotent 	"	fr	=	"	Unipotent	"	ar	=	"	وحيد القوة 	"	/>
+<dict	en	=	"	Unique	"	fr	=	"	Unique	"	ar	=	"	وحيد	"	/>
+<dict	en	=	"	Uniqueness                          	"	fr	=	"	Unicité	"	ar	=	"	وحدانية	"	/>
+<dict	en	=	"	Unit / Unity 	"	fr	=	"	Unité	"	ar	=	"	وحدة	"	/>
+<dict	en	=	"	Unit / Unity* Statistical unit	"	fr	=	"	Unité statistique	"	ar	=	"	وحدة إحصائية	"	/>
+<dict	en	=	"	Unitary	"	fr	=	"	Unitaire	"	ar	=	"	وِحدَوِي	"	/>
+<dict	en	=	"	Universal	"	fr	=	"	Universel	"	ar	=	"	شمولي / كوني 	"	/>
+<dict	en	=	"	Univocal	"	fr	=	"	Univoque 	"	ar	=	"	وحيد القيمة 	"	/>
+<dict	en	=	"	Unknown	"	fr	=	"	Inconnue	"	ar	=	"	مجهول 	"	/>
+<dict	en	=	"	Unlimited	"	fr	=	"	Illimité 	"	ar	=	"	لا متناه / غير محدود	"	/>
+<dict	en	=	"	Urn	"	fr	=	"	Urne	"	ar	=	"	صندوق / جرة	"	/>
+<dict	en	=	"	Use	"	fr	=	"	Utilisation  	"	ar	=	"	استعمال 	"	/>
+<dict	en	=	"	Usual	"	fr	=	"	Habituel 	"	ar	=	"	اعتيادي	"	/>
+<dict	en	=	"	 Valid	"	fr	=	"	Valide	"	ar	=	"	صالح / شرعي / قانوني	"	/>
+<dict	en	=	"	 Validity	"	fr	=	"	Validité	"	ar	=	"	صلاحية / صحة / ثبوت / شرعية	"	/>
+<dict	en	=	"	Value (s)	"	fr	=	"	Valeur (s)	"	ar	=	"	قيمة / قيم	"	/>
+<dict	en	=	"	Value (s)* Absolute value	"	fr	=	"	Valeur absolue	"	ar	=	"	قيمة مطلقة	"	/>
+<dict	en	=	"	Value (s)* Approximate value	"	fr	=	"	Valeur approchée	"	ar	=	"	قيمة مُقرَّبَة	"	/>
+<dict	en	=	"	Value (s)* Average value of a function	"	fr	=	"	Valeur moyenne d'une fonction	"	ar	=	"	قيمة متوسطة لدالة 	"	/>
+<dict	en	=	"	Value (s)* Dominant value	"	fr	=	"	Valeur dominante	"	ar	=	"	قيمة مهيمنة 	"	/>
+<dict	en	=	"	Value (s)* Eigenvalue (s)                          	"	fr	=	"	Valeur (s) propre (s)	"	ar	=	"	قيمة ذاتية / قيم ذاتية	"	/>
+<dict	en	=	"	Value (s)* Exact value	"	fr	=	"	Valeur exacte	"	ar	=	"	قيمة مضبوطة	"	/>
+<dict	en	=	"	Value (s)* Finite value	"	fr	=	"	Valeur finie	"	ar	=	"	قيمة منتهية / قيمة محدودة	"	/>
+<dict	en	=	"	Value (s)* Intermediate values	"	fr	=	"	Valeurs intermédiaires	"	ar	=	"	القيم المتوسطة	"	/>
+<dict	en	=	"	Value (s)* Non-permissible values	"	fr	=	"	Valeurs non permises	"	ar	=	"	قيم ممنوعة	"	/>
+<dict	en	=	"	Value (s)* Optimal value	"	fr	=	"	Valeur optimale	"	ar	=	"	قيمة مثلى / قيمة فُضلى 	"	/>
+<dict	en	=	"	Value (s)* Present value	"	fr	=	"	Valeur actuelle	"	ar	=	"	قيمة آنية / قيمة حالية	"	/>
+<dict	en	=	"	Value (s)* Truth  value	"	fr	=	"	Valeur de vérité	"	ar	=	"	قيمة الحقيقة	"	/>
+<dict	en	=	"	Valued	"	fr	=	"	Estimé	"	ar	=	"	مقيّم / مقدر	"	/>
+<dict	en	=	"	Variable	"	fr	=	"	Variable	"	ar	=	"	مُتغيِّر	"	/>
+<dict	en	=	"	Variable without memory	"	fr	=	"	Variable sans mémoire	"	ar	=	"	متغير بدون ذاكرة 	"	/>
+<dict	en	=	"	Variable* Centered variable	"	fr	=	"	Variable centrée réduite	"	ar	=	"	متغير ممركز منخفض	"	/>
+<dict	en	=	"	Variable* Chaos variable	"	fr	=	"	Chaos	"	ar	=	"	مُتغير فوضوي / مُتغير عشوائي	"	/>
+<dict	en	=	"	Variable* Continuous variable	"	fr	=	"	Variable continue	"	ar	=	"	متغير مستمر	"	/>
+<dict	en	=	"	Variable* Dependent variable	"	fr	=	"	Variable dépendante	"	ar	=	"	متغير تابع / مُتغير غير مستقل	"	/>
+<dict	en	=	"	Variable* Discrete random variable	"	fr	=	"	Variable aléatoire  discrète	"	ar	=	"	متغير عشوائي متقطع	"	/>
+<dict	en	=	"	Variable* Discrete variable	"	fr	=	"	Variable discrète	"	ar	=	"	متغير متقطع	"	/>
+<dict	en	=	"	Variable* Independent variable	"	fr	=	"	Variable indépendante	"	ar	=	"	متغير مستقل	"	/>
+<dict	en	=	"	Variable* Logical variable	"	fr	=	"	Variable logique	"	ar	=	"	متغير منطقي 	"	/>
+<dict	en	=	"	Variable* Qualitative variable	"	fr	=	"	Variable qualitative	"	ar	=	"	متغير نوعي	"	/>
+<dict	en	=	"	Variable* Quantitative variable	"	fr	=	"	Variable quantitative	"	ar	=	"	متغير كمي 	"	/>
+<dict	en	=	"	Variable* Random variable	"	fr	=	"	Variable aléatoire	"	ar	=	"	متغير عشوائي	"	/>
+<dict	en	=	"	 Variance	"	fr	=	"	Variance	"	ar	=	"	تباين	"	/>
+<dict	en	=	"	Variation	"	fr	=	"	Variation	"	ar	=	"	تَغيُّر	"	/>
+<dict	en	=	"	Variation* Direct variation	"	fr	=	"	Variation directe	"	ar	=	"	تغير مباشر	"	/>
+<dict	en	=	"	Variety / Manifold	"	fr	=	"	Variété	"	ar	=	"	منوعة / منطو	"	/>
+<dict	en	=	"	Variety* Algebraic variety	"	fr	=	"	Variété algébrique	"	ar	=	"	تنوع جبري	"	/>
+<dict	en	=	"	Vector	"	fr	=	"	Vecteur	"	ar	=	"	شُعاع / متجه	"	/>
+<dict	en	=	"	Vector* Axial vector	"	fr	=	"	Vecteur axial (pseudovecteur)	"	ar	=	"	شعاع محوري	"	/>
+<dict	en	=	"	Vector* Bound vector	"	fr	=	"	Vecteurlié	"	ar	=	"	شعاع مقيد	"	/>
+<dict	en	=	"	Vector* Direction vector	"	fr	=	"	Vecteur directeur	"	ar	=	"	شعاع توجيه	"	/>
+<dict	en	=	"	Vector* Free vector	"	fr	=	"	Vecteur libre	"	ar	=	"	شعاع حر	"	/>
+<dict	en	=	"	Vector* Normal vector	"	fr	=	"	Vecteur normal 	"	ar	=	"	شعاع ناظم 	"	/>
+<dict	en	=	"	Vector* Null vector	"	fr	=	"	Vecteur nul	"	ar	=	"	شُعاع معدوم	"	/>
+<dict	en	=	"	Vector* Orthogonal vector	"	fr	=	"	Vecteur orthogonale	"	ar	=	"	شعاع عمودي	"	/>
+<dict	en	=	"	Vector* Position vector	"	fr	=	"	Vecteur de position	"	ar	=	"	شعاع الموضع 	"	/>
+<dict	en	=	"	Vector* Proper vector	"	fr	=	"	Vecteur propre	"	ar	=	"	شعاع ذاتي	"	/>
+<dict	en	=	"	Vector* Random vector	"	fr	=	"	Vecteur aléatoire	"	ar	=	"	شعاع عشوائي	"	/>
+<dict	en	=	"	Vector* Sliding vector	"	fr	=	"	Vecteur coulissant	"	ar	=	"	شعاع منزلق	"	/>
+<dict	en	=	"	Vector* Unit vector	"	fr	=	"	Vecteur unité	"	ar	=	"	شعاع الوحدة	"	/>
+<dict	en	=	"	Vectorial	"	fr	=	"	Vectoriel	"	ar	=	"	شعاعي / متجهي	"	/>
+<dict	en	=	"	Velocity 	"	fr	=	"	Vitesse / Vélocité	"	ar	=	"	سرعة	"	/>
+<dict	en	=	"	Velocity* Instantaneous velocity	"	fr	=	"	Vitesse instantanée	"	ar	=	"	سرعة لحظية	"	/>
+<dict	en	=	"	Velocity* Relative velocity	"	fr	=	"	Vitesse relative	"	ar	=	"	سرعة نسبية	"	/>
+<dict	en	=	"	Verification	"	fr	=	"	Vérification  	"	ar	=	"	تحقق-فحص	"	/>
+<dict	en	=	"	Vertex	"	fr	=	"	Sommet	"	ar	=	"	ذروة / قمة / رأس	"	/>
+<dict	en	=	"	Vertical	"	fr	=	"	Vertical	"	ar	=	"	عمودي / شاقولي	"	/>
+<dict	en	=	"	Vertically	"	fr	=	"	Verticalement 	"	ar	=	"	عموديا / شاقوليا	"	/>
+<dict	en	=	"	Vibration	"	fr	=	"	Vibration	"	ar	=	"	إهتزاز	"	/>
+<dict	en	=	"	Volume	"	fr	=	"	Volume	"	ar	=	"	حجم	"	/>
+<dict	en	=	"	Wave	"	fr	=	"	Onde 	"	ar	=	"	موجة 	"	/>
+<dict	en	=	"	Weak	"	fr	=	"	Faible	"	ar	=	"	ضعيف	"	/>
+<dict	en	=	"	Weak form	"	fr	=	"	Forme faible	"	ar	=	"	صيغة ضعيفة	"	/>
+<dict	en	=	"	Weak solution	"	fr	=	"	Solution faible	"	ar	=	"	حل ضعيف	"	/>
+<dict	en	=	"	Week 	"	fr	=	"	Semaine 	"	ar	=	"	أسبوع	"	/>
+<dict	en	=	"	Weight	"	fr	=	"	Poids	"	ar	=	"	وزن	"	/>
+<dict	en	=	"	Weighted	"	fr	=	"	Pondéré	"	ar	=	"	متزن / مرجح	"	/>
+<dict	en	=	"	Weighting	"	fr	=	"	Pondération  	"	ar	=	"	ترجيح / اتزان	"	/>
+<dict	en	=	"	Whole 	"	fr	=	"	Entier	"	ar	=	"	صحيح / تام	"	/>
+<dict	en	=	"	Width 	"	fr	=	"	Largeur 	"	ar	=	"	عرض	"	/>
+<dict	en	=	"	Withdrawal 	"	fr	=	"	Tirage  	"	ar	=	"	سحبُ 	"	/>
+<dict	en	=	"	X-axis	"	fr	=	"	L'axe des abscisses	"	ar	=	"	محور الفواصل / محور السينات	"	/>
+<dict	en	=	"	Yard 	"	fr	=	"	Verge 	"	ar	=	"	ياردة 	"	/>
+<dict	en	=	"	Year	"	fr	=	"	Année	"	ar	=	"	سنة	"	/>
+<dict	en	=	"	Year* Sidereal year	"	fr	=	"	Année sidérale	"	ar	=	"	سنة نجمية	"	/>
+<dict	en	=	"	Year* Tropical year	"	fr	=	"	Année tropique	"	ar	=	"	سنة مدارية	"	/>
+<dict	en	=	"	Zero	"	fr	=	"	Zéro 	"	ar	=	"	صفر 	"	/>
+<dict	en	=	"	Zone	"	fr	=	"	Zone	"	ar	=	"	نطاق-منطقة	"	/>
+<dict	en	=	"	Zone of stability	"	fr	=	"	Zone de stabilité    	"	ar	=	"	منطقة استقرار	"	/>
+
+</dictionnary>

@@ -1,0 +1,48 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/ar"
+        android:enabled="true"
+        android:icon="@drawable/ic_ar"
+        android:title="@string/lang_d_affichage_ar"
+        android:visible="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <item
+        android:id="@+id/en"
+        android:enabled="true"
+        android:icon="@drawable/ic_en"
+        android:title="@string/display_lang_en"
+        android:visible="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <item
+        android:id="@+id/fr"
+        android:enabled="true"
+        android:icon="@drawable/ic_fr"
+        android:title="@string/lang_d_affichage_fr"
+        android:visible="true" />
+    <item
+        android:id="@+id/menu_exit"
+        android:icon="@drawable/ic_menu_exit"
+        android:title="Exit" />
+    <!--
+    <item
+        android:id="@+id/Search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="collapseActionView|ifRoom"
+        android:title="@string/search_title"
+        />
+        -->
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_white_36dp"
+        android:title="@string/action_search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="ifRoom" />
+
+</menu>
